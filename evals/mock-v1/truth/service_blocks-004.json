@@ -1,0 +1,1040 @@
+{
+  "invoice": {
+    "number": "MOCK-12-004",
+    "vendor": "Service Blocks Supply 04 Ltd.",
+    "date": "2026-07-20",
+    "due_date": "2026-08-19",
+    "currency": "CAD",
+    "items": [
+      {
+        "name": "Technical support phase 1",
+        "quantity": "12.25",
+        "unit_price": "1200.50",
+        "amount": "14706.13",
+        "discount": null
+      },
+      {
+        "name": "Technical support phase 1",
+        "quantity": "15.25",
+        "unit_price": "1200.50",
+        "amount": "18307.63",
+        "discount": null
+      },
+      {
+        "name": "Technical support phase 3",
+        "quantity": "12.25",
+        "unit_price": "12.40",
+        "amount": "151.90",
+        "discount": null
+      },
+      {
+        "name": "Technical support phase 4",
+        "quantity": "20.25",
+        "unit_price": "48.75",
+        "amount": "987.19",
+        "discount": null
+      },
+      {
+        "name": "Technical support phase 5",
+        "quantity": "7.25",
+        "unit_price": "1200.50",
+        "amount": "8703.63",
+        "discount": null
+      },
+      {
+        "name": "Technical support phase 6",
+        "quantity": "2.25",
+        "unit_price": "48.75",
+        "amount": "109.69",
+        "discount": null
+      },
+      {
+        "name": "Technical support phase 7",
+        "quantity": "2.25",
+        "unit_price": "1200.50",
+        "amount": "2701.13",
+        "discount": null
+      },
+      {
+        "name": "Technical support phase 8",
+        "quantity": "7.25",
+        "unit_price": "1.25",
+        "amount": "9.06",
+        "discount": null
+      },
+      {
+        "name": "Technical support phase 9",
+        "quantity": "2.25",
+        "unit_price": "48.75",
+        "amount": "109.69",
+        "discount": null
+      },
+      {
+        "name": "Technical support phase 10",
+        "quantity": "12.25",
+        "unit_price": "12.40",
+        "amount": "151.90",
+        "discount": null
+      },
+      {
+        "name": "Technical support phase 11",
+        "quantity": "2.25",
+        "unit_price": "125.00",
+        "amount": "281.25",
+        "discount": null
+      },
+      {
+        "name": "Technical support phase 12",
+        "quantity": "20.25",
+        "unit_price": "12.40",
+        "amount": "251.10",
+        "discount": null
+      },
+      {
+        "name": "Technical support phase 13",
+        "quantity": "2.25",
+        "unit_price": "12.40",
+        "amount": "27.90",
+        "discount": null
+      },
+      {
+        "name": "Technical support phase 14",
+        "quantity": "20.25",
+        "unit_price": "48.75",
+        "amount": "987.19",
+        "discount": null
+      }
+    ],
+    "subtotal": "47485.39",
+    "tax": "3561.40",
+    "tax_rate": "0.075",
+    "discount": "5.00",
+    "shipping": "18.50",
+    "total": "51060.29"
+  },
+  "anchors": {
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 65.0,
+        "text": "MOCK-12-004"
+      }
+    ],
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 83.0,
+        "text": "Service Blocks Supply 04 Ltd."
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 101.0,
+        "text": "2026-07-20"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 119.0,
+        "text": "2026-08-19"
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 137.0,
+        "text": "CAD"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 198.0,
+        "text": "Technical support phase 1"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 232.0,
+        "text": "12.25"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 230,
+        "top": 232.0,
+        "text": "1200.50"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 400,
+        "top": 232.0,
+        "text": "14706.13"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 282.0,
+        "text": "Technical support phase 1"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 316.0,
+        "text": "15.25"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 230,
+        "top": 316.0,
+        "text": "1200.50"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 400,
+        "top": 316.0,
+        "text": "18307.63"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 366.0,
+        "text": "Technical support phase 3"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 400.0,
+        "text": "12.25"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 230,
+        "top": 400.0,
+        "text": "12.40"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 400,
+        "top": 400.0,
+        "text": "151.90"
+      }
+    ],
+    "items.3.name": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 450.0,
+        "text": "Technical support phase 4"
+      }
+    ],
+    "items.3.quantity": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 484.0,
+        "text": "20.25"
+      }
+    ],
+    "items.3.unit_price": [
+      {
+        "page": 1,
+        "x": 230,
+        "top": 484.0,
+        "text": "48.75"
+      }
+    ],
+    "items.3.amount": [
+      {
+        "page": 1,
+        "x": 400,
+        "top": 484.0,
+        "text": "987.19"
+      }
+    ],
+    "items.4.name": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 534.0,
+        "text": "Technical support phase 5"
+      }
+    ],
+    "items.4.quantity": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 568.0,
+        "text": "7.25"
+      }
+    ],
+    "items.4.unit_price": [
+      {
+        "page": 1,
+        "x": 230,
+        "top": 568.0,
+        "text": "1200.50"
+      }
+    ],
+    "items.4.amount": [
+      {
+        "page": 1,
+        "x": 400,
+        "top": 568.0,
+        "text": "8703.63"
+      }
+    ],
+    "items.5.name": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 618.0,
+        "text": "Technical support phase 6"
+      }
+    ],
+    "items.5.quantity": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 652.0,
+        "text": "2.25"
+      }
+    ],
+    "items.5.unit_price": [
+      {
+        "page": 1,
+        "x": 230,
+        "top": 652.0,
+        "text": "48.75"
+      }
+    ],
+    "items.5.amount": [
+      {
+        "page": 1,
+        "x": 400,
+        "top": 652.0,
+        "text": "109.69"
+      }
+    ],
+    "items.6.name": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 83.0,
+        "text": "Technical support phase 7"
+      }
+    ],
+    "items.6.quantity": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 117.0,
+        "text": "2.25"
+      }
+    ],
+    "items.6.unit_price": [
+      {
+        "page": 2,
+        "x": 230,
+        "top": 117.0,
+        "text": "1200.50"
+      }
+    ],
+    "items.6.amount": [
+      {
+        "page": 2,
+        "x": 400,
+        "top": 117.0,
+        "text": "2701.13"
+      }
+    ],
+    "items.7.name": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 167.0,
+        "text": "Technical support phase 8"
+      }
+    ],
+    "items.7.quantity": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 201.0,
+        "text": "7.25"
+      }
+    ],
+    "items.7.unit_price": [
+      {
+        "page": 2,
+        "x": 230,
+        "top": 201.0,
+        "text": "1.25"
+      }
+    ],
+    "items.7.amount": [
+      {
+        "page": 2,
+        "x": 400,
+        "top": 201.0,
+        "text": "9.06"
+      }
+    ],
+    "items.8.name": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 251.0,
+        "text": "Technical support phase 9"
+      }
+    ],
+    "items.8.quantity": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 285.0,
+        "text": "2.25"
+      }
+    ],
+    "items.8.unit_price": [
+      {
+        "page": 2,
+        "x": 230,
+        "top": 285.0,
+        "text": "48.75"
+      }
+    ],
+    "items.8.amount": [
+      {
+        "page": 2,
+        "x": 400,
+        "top": 285.0,
+        "text": "109.69"
+      }
+    ],
+    "items.9.name": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 335.0,
+        "text": "Technical support phase 10"
+      }
+    ],
+    "items.9.quantity": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 369.0,
+        "text": "12.25"
+      }
+    ],
+    "items.9.unit_price": [
+      {
+        "page": 2,
+        "x": 230,
+        "top": 369.0,
+        "text": "12.40"
+      }
+    ],
+    "items.9.amount": [
+      {
+        "page": 2,
+        "x": 400,
+        "top": 369.0,
+        "text": "151.90"
+      }
+    ],
+    "items.10.name": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 419.0,
+        "text": "Technical support phase 11"
+      }
+    ],
+    "items.10.quantity": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 453.0,
+        "text": "2.25"
+      }
+    ],
+    "items.10.unit_price": [
+      {
+        "page": 2,
+        "x": 230,
+        "top": 453.0,
+        "text": "125.00"
+      }
+    ],
+    "items.10.amount": [
+      {
+        "page": 2,
+        "x": 400,
+        "top": 453.0,
+        "text": "281.25"
+      }
+    ],
+    "items.11.name": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 503.0,
+        "text": "Technical support phase 12"
+      }
+    ],
+    "items.11.quantity": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 537.0,
+        "text": "20.25"
+      }
+    ],
+    "items.11.unit_price": [
+      {
+        "page": 2,
+        "x": 230,
+        "top": 537.0,
+        "text": "12.40"
+      }
+    ],
+    "items.11.amount": [
+      {
+        "page": 2,
+        "x": 400,
+        "top": 537.0,
+        "text": "251.10"
+      }
+    ],
+    "items.12.name": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 587.0,
+        "text": "Technical support phase 13"
+      }
+    ],
+    "items.12.quantity": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 621.0,
+        "text": "2.25"
+      }
+    ],
+    "items.12.unit_price": [
+      {
+        "page": 2,
+        "x": 230,
+        "top": 621.0,
+        "text": "12.40"
+      }
+    ],
+    "items.12.amount": [
+      {
+        "page": 2,
+        "x": 400,
+        "top": 621.0,
+        "text": "27.90"
+      }
+    ],
+    "items.13.name": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 671.0,
+        "text": "Technical support phase 14"
+      }
+    ],
+    "items.13.quantity": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 705.0,
+        "text": "20.25"
+      }
+    ],
+    "items.13.unit_price": [
+      {
+        "page": 2,
+        "x": 230,
+        "top": 705.0,
+        "text": "48.75"
+      }
+    ],
+    "items.13.amount": [
+      {
+        "page": 2,
+        "x": 400,
+        "top": 705.0,
+        "text": "987.19"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 3,
+        "x": 260,
+        "top": 85.0,
+        "text": "47485.39"
+      }
+    ],
+    "discount": [
+      {
+        "page": 3,
+        "x": 260,
+        "top": 103.0,
+        "text": "5.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 3,
+        "x": 260,
+        "top": 121.0,
+        "text": "18.50"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 3,
+        "x": 260,
+        "top": 139.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 3,
+        "x": 260,
+        "top": 157.0,
+        "text": "3561.40"
+      }
+    ],
+    "total": [
+      {
+        "page": 3,
+        "x": 260,
+        "top": 175.0,
+        "text": "51060.29"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "81aad20b4da38341d4c9ecadd381d54bf384ba0aa677317d33ba98bf09c14a68",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-12-004",
+      "vendor": "Service Blocks Supply 04 Ltd.",
+      "date": "2026-07-20",
+      "due_date": "2026-08-19",
+      "currency": "CAD",
+      "items": [
+        {
+          "name": "Technical support phase 1",
+          "quantity": "12.25",
+          "unit_price": "1200.50",
+          "amount": "14706.13",
+          "discount": null
+        },
+        {
+          "name": "Technical support phase 1",
+          "quantity": "15.25",
+          "unit_price": "1200.50",
+          "amount": "18307.63",
+          "discount": null
+        },
+        {
+          "name": "Technical support phase 3",
+          "quantity": "12.25",
+          "unit_price": "12.40",
+          "amount": "151.90",
+          "discount": null
+        },
+        {
+          "name": "Technical support phase 4",
+          "quantity": "20.25",
+          "unit_price": "48.75",
+          "amount": "987.19",
+          "discount": null
+        },
+        {
+          "name": "Technical support phase 5",
+          "quantity": "7.25",
+          "unit_price": "1200.50",
+          "amount": "8703.63",
+          "discount": null
+        },
+        {
+          "name": "Technical support phase 6",
+          "quantity": "2.25",
+          "unit_price": "48.75",
+          "amount": "109.69",
+          "discount": null
+        },
+        {
+          "name": "Technical support phase 7",
+          "quantity": "2.25",
+          "unit_price": "1200.50",
+          "amount": "2701.13",
+          "discount": null
+        },
+        {
+          "name": "Technical support phase 8",
+          "quantity": "7.25",
+          "unit_price": "1.25",
+          "amount": "9.06",
+          "discount": null
+        },
+        {
+          "name": "Technical support phase 9",
+          "quantity": "2.25",
+          "unit_price": "48.75",
+          "amount": "109.69",
+          "discount": null
+        },
+        {
+          "name": "Technical support phase 10",
+          "quantity": "12.25",
+          "unit_price": "12.40",
+          "amount": "151.90",
+          "discount": null
+        },
+        {
+          "name": "Technical support phase 11",
+          "quantity": "2.25",
+          "unit_price": "125.00",
+          "amount": "281.25",
+          "discount": null
+        },
+        {
+          "name": "Technical support phase 12",
+          "quantity": "20.25",
+          "unit_price": "12.40",
+          "amount": "251.10",
+          "discount": null
+        },
+        {
+          "name": "Technical support phase 13",
+          "quantity": "2.25",
+          "unit_price": "12.40",
+          "amount": "27.90",
+          "discount": null
+        },
+        {
+          "name": "Technical support phase 14",
+          "quantity": "20.25",
+          "unit_price": "48.75",
+          "amount": "987.19",
+          "discount": null
+        }
+      ],
+      "subtotal": "47485.39",
+      "tax": "3561.40",
+      "tax_rate": "0.075",
+      "discount": "5.00",
+      "shipping": "18.50",
+      "total": "51060.29"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r3",
+        "quote": "Invoice no.: MOCK-12-004"
+      },
+      "vendor": {
+        "region_id": "p1:r4",
+        "quote": "Supplier: Service Blocks Supply 04 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r5",
+        "quote": "Issue date: 2026-07-20"
+      },
+      "due_date": {
+        "region_id": "p1:r6",
+        "quote": "Payment due: 2026-08-19"
+      },
+      "currency": {
+        "region_id": "p1:r7",
+        "quote": "Invoice currency (ISO): CAD"
+      },
+      "items.0.name": {
+        "region_id": "p1:r10",
+        "quote": "Technical support phase 1"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r12",
+        "quote": "12.25 1200.50 14706.13"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r12",
+        "quote": "12.25 1200.50 14706.13"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r12",
+        "quote": "12.25 1200.50 14706.13"
+      },
+      "items.1.name": {
+        "region_id": "p1:r14",
+        "quote": "Technical support phase 1"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r16",
+        "quote": "15.25 1200.50 18307.63"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r16",
+        "quote": "15.25 1200.50 18307.63"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r16",
+        "quote": "15.25 1200.50 18307.63"
+      },
+      "items.2.name": {
+        "region_id": "p1:r18",
+        "quote": "Technical support phase 3"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r20",
+        "quote": "12.25 12.40 151.90"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r20",
+        "quote": "12.25 12.40 151.90"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r20",
+        "quote": "12.25 12.40 151.90"
+      },
+      "items.3.name": {
+        "region_id": "p1:r22",
+        "quote": "Technical support phase 4"
+      },
+      "items.3.quantity": {
+        "region_id": "p1:r24",
+        "quote": "20.25 48.75 987.19"
+      },
+      "items.3.unit_price": {
+        "region_id": "p1:r24",
+        "quote": "20.25 48.75 987.19"
+      },
+      "items.3.amount": {
+        "region_id": "p1:r24",
+        "quote": "20.25 48.75 987.19"
+      },
+      "items.4.name": {
+        "region_id": "p1:r26",
+        "quote": "Technical support phase 5"
+      },
+      "items.4.quantity": {
+        "region_id": "p1:r28",
+        "quote": "7.25 1200.50 8703.63"
+      },
+      "items.4.unit_price": {
+        "region_id": "p1:r28",
+        "quote": "7.25 1200.50 8703.63"
+      },
+      "items.4.amount": {
+        "region_id": "p1:r28",
+        "quote": "7.25 1200.50 8703.63"
+      },
+      "items.5.name": {
+        "region_id": "p1:r30",
+        "quote": "Technical support phase 6"
+      },
+      "items.5.quantity": {
+        "region_id": "p1:r32",
+        "quote": "2.25 48.75 109.69"
+      },
+      "items.5.unit_price": {
+        "region_id": "p1:r32",
+        "quote": "2.25 48.75 109.69"
+      },
+      "items.5.amount": {
+        "region_id": "p1:r32",
+        "quote": "2.25 48.75 109.69"
+      },
+      "items.6.name": {
+        "region_id": "p2:r4",
+        "quote": "Technical support phase 7"
+      },
+      "items.6.quantity": {
+        "region_id": "p2:r6",
+        "quote": "2.25 1200.50 2701.13"
+      },
+      "items.6.unit_price": {
+        "region_id": "p2:r6",
+        "quote": "2.25 1200.50 2701.13"
+      },
+      "items.6.amount": {
+        "region_id": "p2:r6",
+        "quote": "2.25 1200.50 2701.13"
+      },
+      "items.7.name": {
+        "region_id": "p2:r8",
+        "quote": "Technical support phase 8"
+      },
+      "items.7.quantity": {
+        "region_id": "p2:r10",
+        "quote": "7.25 1.25 9.06"
+      },
+      "items.7.unit_price": {
+        "region_id": "p2:r10",
+        "quote": "7.25 1.25 9.06"
+      },
+      "items.7.amount": {
+        "region_id": "p2:r10",
+        "quote": "7.25 1.25 9.06"
+      },
+      "items.8.name": {
+        "region_id": "p2:r12",
+        "quote": "Technical support phase 9"
+      },
+      "items.8.quantity": {
+        "region_id": "p2:r14",
+        "quote": "2.25 48.75 109.69"
+      },
+      "items.8.unit_price": {
+        "region_id": "p2:r14",
+        "quote": "2.25 48.75 109.69"
+      },
+      "items.8.amount": {
+        "region_id": "p2:r14",
+        "quote": "2.25 48.75 109.69"
+      },
+      "items.9.name": {
+        "region_id": "p2:r16",
+        "quote": "Technical support phase 10"
+      },
+      "items.9.quantity": {
+        "region_id": "p2:r18",
+        "quote": "12.25 12.40 151.90"
+      },
+      "items.9.unit_price": {
+        "region_id": "p2:r18",
+        "quote": "12.25 12.40 151.90"
+      },
+      "items.9.amount": {
+        "region_id": "p2:r18",
+        "quote": "12.25 12.40 151.90"
+      },
+      "items.10.name": {
+        "region_id": "p2:r20",
+        "quote": "Technical support phase 11"
+      },
+      "items.10.quantity": {
+        "region_id": "p2:r22",
+        "quote": "2.25 125.00 281.25"
+      },
+      "items.10.unit_price": {
+        "region_id": "p2:r22",
+        "quote": "2.25 125.00 281.25"
+      },
+      "items.10.amount": {
+        "region_id": "p2:r22",
+        "quote": "2.25 125.00 281.25"
+      },
+      "items.11.name": {
+        "region_id": "p2:r24",
+        "quote": "Technical support phase 12"
+      },
+      "items.11.quantity": {
+        "region_id": "p2:r26",
+        "quote": "20.25 12.40 251.10"
+      },
+      "items.11.unit_price": {
+        "region_id": "p2:r26",
+        "quote": "20.25 12.40 251.10"
+      },
+      "items.11.amount": {
+        "region_id": "p2:r26",
+        "quote": "20.25 12.40 251.10"
+      },
+      "items.12.name": {
+        "region_id": "p2:r28",
+        "quote": "Technical support phase 13"
+      },
+      "items.12.quantity": {
+        "region_id": "p2:r30",
+        "quote": "2.25 12.40 27.90"
+      },
+      "items.12.unit_price": {
+        "region_id": "p2:r30",
+        "quote": "2.25 12.40 27.90"
+      },
+      "items.12.amount": {
+        "region_id": "p2:r30",
+        "quote": "2.25 12.40 27.90"
+      },
+      "items.13.name": {
+        "region_id": "p2:r32",
+        "quote": "Technical support phase 14"
+      },
+      "items.13.quantity": {
+        "region_id": "p2:r34",
+        "quote": "20.25 48.75 987.19"
+      },
+      "items.13.unit_price": {
+        "region_id": "p2:r34",
+        "quote": "20.25 48.75 987.19"
+      },
+      "items.13.amount": {
+        "region_id": "p2:r34",
+        "quote": "20.25 48.75 987.19"
+      },
+      "subtotal": {
+        "region_id": "p3:r4",
+        "quote": "Subtotal after line discounts: 47485.39"
+      },
+      "tax": {
+        "region_id": "p3:r8",
+        "quote": "Tax amount: 3561.40"
+      },
+      "tax_rate": {
+        "region_id": "p3:r7",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p3:r5",
+        "quote": "Invoice discount: 5.00"
+      },
+      "shipping": {
+        "region_id": "p3:r6",
+        "quote": "Shipping: 18.50"
+      },
+      "total": {
+        "region_id": "p3:r9",
+        "quote": "Grand total: 51060.29"
+      }
+    }
+  }
+}

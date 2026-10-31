@@ -1,0 +1,668 @@
+{
+  "invoice": {
+    "number": "MOCK-01-003",
+    "vendor": "Standard Table Supply 03 Ltd.",
+    "date": "2026-07-14",
+    "due_date": "2026-08-13",
+    "currency": "GBP",
+    "items": [
+      {
+        "name": "Steel bracket",
+        "quantity": "2",
+        "unit_price": "48.75",
+        "amount": "97.50",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "5",
+        "unit_price": "1.25",
+        "amount": "6.25",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "20",
+        "unit_price": "12.40",
+        "amount": "248.00",
+        "discount": null
+      },
+      {
+        "name": "Filter cartridge",
+        "quantity": "20",
+        "unit_price": "48.75",
+        "amount": "975.00",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting",
+        "quantity": "20",
+        "unit_price": "1.25",
+        "amount": "25.00",
+        "discount": null
+      },
+      {
+        "name": "Calibration service",
+        "quantity": "3",
+        "unit_price": "1.25",
+        "amount": "3.75",
+        "discount": null
+      },
+      {
+        "name": "Calibration service",
+        "quantity": "20",
+        "unit_price": "1200.50",
+        "amount": "24010.00",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting",
+        "quantity": "7",
+        "unit_price": "125.00",
+        "amount": "875.00",
+        "discount": null
+      }
+    ],
+    "subtotal": "26240.50",
+    "tax": "1968.04",
+    "tax_rate": "0.075",
+    "discount": "0",
+    "shipping": "0",
+    "total": "28208.54"
+  },
+  "anchors": {
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 65.0,
+        "text": "MOCK-01-003"
+      }
+    ],
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 83.0,
+        "text": "Standard Table Supply 03 Ltd."
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 101.0,
+        "text": "2026-07-14"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 119.0,
+        "text": "2026-08-13"
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 137.0,
+        "text": "GBP"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 202.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 202.0,
+        "text": "2"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 202.0,
+        "text": "48.75"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 202.0,
+        "text": "97.50"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 229.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 229.0,
+        "text": "5"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 229.0,
+        "text": "1.25"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 229.0,
+        "text": "6.25"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 256.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 256.0,
+        "text": "20"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 256.0,
+        "text": "12.40"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 256.0,
+        "text": "248.00"
+      }
+    ],
+    "items.3.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 283.0,
+        "text": "Filter cartridge"
+      }
+    ],
+    "items.3.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 283.0,
+        "text": "20"
+      }
+    ],
+    "items.3.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 283.0,
+        "text": "48.75"
+      }
+    ],
+    "items.3.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 283.0,
+        "text": "975.00"
+      }
+    ],
+    "items.4.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 310.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.4.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 310.0,
+        "text": "20"
+      }
+    ],
+    "items.4.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 310.0,
+        "text": "1.25"
+      }
+    ],
+    "items.4.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 310.0,
+        "text": "25.00"
+      }
+    ],
+    "items.5.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 337.0,
+        "text": "Calibration service"
+      }
+    ],
+    "items.5.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 337.0,
+        "text": "3"
+      }
+    ],
+    "items.5.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 337.0,
+        "text": "1.25"
+      }
+    ],
+    "items.5.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 337.0,
+        "text": "3.75"
+      }
+    ],
+    "items.6.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 364.0,
+        "text": "Calibration service"
+      }
+    ],
+    "items.6.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 364.0,
+        "text": "20"
+      }
+    ],
+    "items.6.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 364.0,
+        "text": "1,200.50"
+      }
+    ],
+    "items.6.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 364.0,
+        "text": "24,010.00"
+      }
+    ],
+    "items.7.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 391.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.7.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 391.0,
+        "text": "7"
+      }
+    ],
+    "items.7.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 391.0,
+        "text": "125.00"
+      }
+    ],
+    "items.7.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 391.0,
+        "text": "875.00"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 458.0,
+        "text": "26,240.50"
+      }
+    ],
+    "discount": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 476.0,
+        "text": "0.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 494.0,
+        "text": "0.00"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 512.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 530.0,
+        "text": "1,968.04"
+      }
+    ],
+    "total": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 548.0,
+        "text": "28,208.54"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "d8551542b88daee5d92a3ce1db544c44b1ecdf5324d230b809957283ed171840",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-01-003",
+      "vendor": "Standard Table Supply 03 Ltd.",
+      "date": "2026-07-14",
+      "due_date": "2026-08-13",
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Steel bracket",
+          "quantity": "2",
+          "unit_price": "48.75",
+          "amount": "97.50",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "5",
+          "unit_price": "1.25",
+          "amount": "6.25",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "20",
+          "unit_price": "12.40",
+          "amount": "248.00",
+          "discount": null
+        },
+        {
+          "name": "Filter cartridge",
+          "quantity": "20",
+          "unit_price": "48.75",
+          "amount": "975.00",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting",
+          "quantity": "20",
+          "unit_price": "1.25",
+          "amount": "25.00",
+          "discount": null
+        },
+        {
+          "name": "Calibration service",
+          "quantity": "3",
+          "unit_price": "1.25",
+          "amount": "3.75",
+          "discount": null
+        },
+        {
+          "name": "Calibration service",
+          "quantity": "20",
+          "unit_price": "1200.50",
+          "amount": "24010.00",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting",
+          "quantity": "7",
+          "unit_price": "125.00",
+          "amount": "875.00",
+          "discount": null
+        }
+      ],
+      "subtotal": "26240.50",
+      "tax": "1968.04",
+      "tax_rate": "0.075",
+      "discount": "0",
+      "shipping": "0",
+      "total": "28208.54"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r3",
+        "quote": "Invoice no.: MOCK-01-003"
+      },
+      "vendor": {
+        "region_id": "p1:r4",
+        "quote": "Supplier: Standard Table Supply 03 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r5",
+        "quote": "Issue date: 2026-07-14"
+      },
+      "due_date": {
+        "region_id": "p1:r6",
+        "quote": "Payment due: 2026-08-13"
+      },
+      "currency": {
+        "region_id": "p1:r7",
+        "quote": "Invoice currency (ISO): GBP"
+      },
+      "items.0.name": {
+        "region_id": "p1:r10",
+        "quote": "Steel bracket 2 48.75 97.50"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r10",
+        "quote": "Steel bracket 2 48.75 97.50"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r10",
+        "quote": "Steel bracket 2 48.75 97.50"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r10",
+        "quote": "Steel bracket 2 48.75 97.50"
+      },
+      "items.1.name": {
+        "region_id": "p1:r11",
+        "quote": "Steel bracket 5 1.25 6.25"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r11",
+        "quote": "Steel bracket 5 1.25 6.25"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r11",
+        "quote": "Steel bracket 5 1.25 6.25"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r11",
+        "quote": "Steel bracket 5 1.25 6.25"
+      },
+      "items.2.name": {
+        "region_id": "p1:r12",
+        "quote": "Steel bracket 20 12.40 248.00"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r12",
+        "quote": "Steel bracket 20 12.40 248.00"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r12",
+        "quote": "Steel bracket 20 12.40 248.00"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r12",
+        "quote": "Steel bracket 20 12.40 248.00"
+      },
+      "items.3.name": {
+        "region_id": "p1:r13",
+        "quote": "Filter cartridge 20 48.75 975.00"
+      },
+      "items.3.quantity": {
+        "region_id": "p1:r13",
+        "quote": "Filter cartridge 20 48.75 975.00"
+      },
+      "items.3.unit_price": {
+        "region_id": "p1:r13",
+        "quote": "Filter cartridge 20 48.75 975.00"
+      },
+      "items.3.amount": {
+        "region_id": "p1:r13",
+        "quote": "Filter cartridge 20 48.75 975.00"
+      },
+      "items.4.name": {
+        "region_id": "p1:r14",
+        "quote": "Copper fitting 20 1.25 25.00"
+      },
+      "items.4.quantity": {
+        "region_id": "p1:r14",
+        "quote": "Copper fitting 20 1.25 25.00"
+      },
+      "items.4.unit_price": {
+        "region_id": "p1:r14",
+        "quote": "Copper fitting 20 1.25 25.00"
+      },
+      "items.4.amount": {
+        "region_id": "p1:r14",
+        "quote": "Copper fitting 20 1.25 25.00"
+      },
+      "items.5.name": {
+        "region_id": "p1:r15",
+        "quote": "Calibration service 3 1.25 3.75"
+      },
+      "items.5.quantity": {
+        "region_id": "p1:r15",
+        "quote": "Calibration service 3 1.25 3.75"
+      },
+      "items.5.unit_price": {
+        "region_id": "p1:r15",
+        "quote": "Calibration service 3 1.25 3.75"
+      },
+      "items.5.amount": {
+        "region_id": "p1:r15",
+        "quote": "Calibration service 3 1.25 3.75"
+      },
+      "items.6.name": {
+        "region_id": "p1:r16",
+        "quote": "Calibration service 20 1,200.50 24,010.00"
+      },
+      "items.6.quantity": {
+        "region_id": "p1:r16",
+        "quote": "Calibration service 20 1,200.50 24,010.00"
+      },
+      "items.6.unit_price": {
+        "region_id": "p1:r16",
+        "quote": "Calibration service 20 1,200.50 24,010.00"
+      },
+      "items.6.amount": {
+        "region_id": "p1:r16",
+        "quote": "Calibration service 20 1,200.50 24,010.00"
+      },
+      "items.7.name": {
+        "region_id": "p1:r17",
+        "quote": "Copper fitting 7 125.00 875.00"
+      },
+      "items.7.quantity": {
+        "region_id": "p1:r17",
+        "quote": "Copper fitting 7 125.00 875.00"
+      },
+      "items.7.unit_price": {
+        "region_id": "p1:r17",
+        "quote": "Copper fitting 7 125.00 875.00"
+      },
+      "items.7.amount": {
+        "region_id": "p1:r17",
+        "quote": "Copper fitting 7 125.00 875.00"
+      },
+      "subtotal": {
+        "region_id": "p1:r19",
+        "quote": "Subtotal after line discounts: 26,240.50"
+      },
+      "tax": {
+        "region_id": "p1:r23",
+        "quote": "Tax amount: 1,968.04"
+      },
+      "tax_rate": {
+        "region_id": "p1:r22",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p1:r20",
+        "quote": "Invoice discount: 0.00"
+      },
+      "shipping": {
+        "region_id": "p1:r21",
+        "quote": "Shipping: 0.00"
+      },
+      "total": {
+        "region_id": "p1:r24",
+        "quote": "Grand total: 28,208.54"
+      }
+    }
+  }
+}

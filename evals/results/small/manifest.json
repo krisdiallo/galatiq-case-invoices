@@ -1,0 +1,92 @@
+{
+  "started_at": "2026-10-31T21:39:19.894060+00:00",
+  "providers": {
+    "grok": [
+      "grok-4.20-0309-non-reasoning",
+      "https://api.x.ai/v1"
+    ]
+  },
+  "case_ids": [
+    "standard_table-001:clean",
+    "standard_table-001:vendor",
+    "standard_table-001:wrong_citation",
+    "totals_first-001:clean_numeric_format",
+    "totals_first-001:due_date",
+    "totals_first-001:omitted_line",
+    "item_cards-001:clean",
+    "item_cards-001:quantity",
+    "item_cards-001:duplicated_line",
+    "reversed_columns-001:clean_numeric_format",
+    "reversed_columns-001:swapped_columns",
+    "reversed_columns-001:currency",
+    "wrapped_descriptions-001:clean",
+    "wrapped_descriptions-001:decimal_shift",
+    "wrapped_descriptions-001:consistent_wrong_numbers",
+    "repeated_headers-001:clean_numeric_format",
+    "repeated_headers-001:swapped_row_quantities",
+    "repeated_headers-001:total",
+    "compact_ledger-001:clean",
+    "compact_ledger-001:vendor",
+    "compact_ledger-001:omitted_line",
+    "adjustments-001:clean_numeric_format",
+    "adjustments-001:wrong_citation",
+    "adjustments-001:duplicated_line"
+  ],
+  "case_file_sha256": "0997334cf0e94a9d8c079809ee352b1699f5b7f13faf8e040a6e23ac1dcf17e5",
+  "code_sha256": {
+    "invoices/__init__.py": "a3e36ad1d0de4e7658f3d461f11f6ae3afb130a7657dc23cd5f4c39cd5f37b6a",
+    "invoices/agents.py": "5965ee7d46809015256a6866b29c9719ec864f524ed56976f09761b44727a871",
+    "invoices/chunking.py": "5468487855088af6847abdbc1c38beb88adb705615168656fb093a3600f1f779",
+    "invoices/cli.py": "8500d92ccd5ff8e171e2b07480fc52c3b6beb752ceaa1fb9e043f4c61249a76b",
+    "invoices/evaluation.py": "5efceb36a5a12c481fc0bcbfd35b7e86517c2e9f2906cec2bd49f350e36b4680",
+    "invoices/models.py": "280751ff8c6a427441b747b377f2b461b821b891e634e080da6f116652c44d6f",
+    "invoices/pipeline.py": "033589d519413c6ba395e2620d692e54eb2bc25fb5793982f786cec40f715f03",
+    "invoices/providers.py": "d2b803ebc86b9a167a2b30b0ee42a5f50c235b1938255ee6801fe93b7b9412f4",
+    "invoices/review.py": "54720d2ca5e06f27212c165e48d8f799e6ac2d6ce296644968d98bdfd03ba4b8",
+    "invoices/rules.py": "5d565f8abc1ef7c20853248b34fdaad7eef6fb472f002f94fe2c8c9c87ae1049",
+    "invoices/source.py": "454524af71cc372e575be047d746d10650821b8b2d88af695bb3a310b858ced1",
+    "invoices/store.py": "6f5612e4c21eefa6d2b422c8f5f0eefc7955b84990d02d08bee9a36ce3328a14",
+    "invoices/tui.py": "87f7182e0d8faee2c47d0089242fba0ca96718108084897c9210b350c2220481",
+    "invoices/verification.py": "0d65dd4f32a32792ce11a2355fe7832736a51763e159ae9d0d39749521bba9b8"
+  },
+  "runner_sha256": "1c159fc254292f6949159a8efc229e4163b6388f13f9e3037d57a29d8ce268d0",
+  "resume_from": null,
+  "retry_network_errors": true,
+  "workers": 4,
+  "split": "dev",
+  "strategies": [
+    "blind_transcription",
+    "blind_extraction",
+    "batched_claims"
+  ],
+  "source_documents": 8,
+  "families": [
+    "adjustments",
+    "compact_ledger",
+    "item_cards",
+    "repeated_headers",
+    "reversed_columns",
+    "standard_table",
+    "totals_first",
+    "wrapped_descriptions"
+  ],
+  "source_hashes": {
+    "evals/mock-v1/sources/standard_table-001.pdf": "65c52e81954d7287744bf63d91900c34ee95bcdaf3aeaf66e5f952c5752aa7ed",
+    "evals/mock-v1/sources/totals_first-001.pdf": "762440873b4bdd88124f803fd59ee290afca7431381d4a5365806fb041e99e49",
+    "evals/mock-v1/sources/item_cards-001.pdf": "0569947a99a3bc792abab4db032f3fcb6325d5894bfe47636de4ff122605d023",
+    "evals/mock-v1/sources/reversed_columns-001.pdf": "d0ac3536351ba73b67e07855ce6de341dd8c205b659633487949635bda6c8233",
+    "evals/mock-v1/sources/wrapped_descriptions-001.pdf": "e7745e39bfa60f6f39be243ed808276934fa097f6e1eb571d148ae6e6eb9f25e",
+    "evals/mock-v1/sources/repeated_headers-001.pdf": "fffcacfc873d683355e0f0e50129413a2ff8ba90645968138c456e19e388ca02",
+    "evals/mock-v1/sources/compact_ledger-001.pdf": "6a1130b138e7bbf16a075e4d1b3c1028dbe2d78082c5a25adff6bddf6f2dbdc7",
+    "evals/mock-v1/sources/adjustments-001.pdf": "ce12b136696a795109b54449d213d753636063385c7dfdcebf8331260439fb5e"
+  },
+  "max_model_calls": null,
+  "max_total_model_calls": 100,
+  "repeats": 1,
+  "with_revision": false,
+  "positive_definition": "verified extraction",
+  "label_statuses": [
+    "synthetic_structured_truth_not_independent_human_gold"
+  ],
+  "retained_trials": 0
+}

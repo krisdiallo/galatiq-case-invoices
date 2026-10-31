@@ -1,0 +1,63 @@
+{
+  "initial/summary.json": {
+    "original_path": "runs/live-comparison-2026-10-31-final/summary.json",
+    "sha256": "7beac2578a52a922ff0a5c862930972fae920d38add4bd636b77671871a6a976",
+    "export": "unchanged"
+  },
+  "initial/manifest.json": {
+    "original_path": "runs/live-comparison-2026-10-31-final/manifest.json",
+    "sha256": "796fc4b94e4c1bbedded41ca5aac19a96840bf397da21d1176f93ee310bbbad3",
+    "export": "unchanged"
+  },
+  "initial/records.jsonl": {
+    "original_path": "runs/live-comparison-2026-10-31-final/records.jsonl",
+    "sha256": "5fe5ae7e240e816c4c30a1199d5720bf269d962fc8c6368ac41be3f3d3c15c23",
+    "export": "unchanged"
+  },
+  "small/summary.json": {
+    "original_path": "runs/small-strategy-comparison/results/summary.json",
+    "sha256": "92abb9e102a7f5445926a119ba64fc8861cb53e508a647a15c74d77486f7af1d",
+    "export": "unchanged"
+  },
+  "small/manifest.json": {
+    "original_path": "runs/small-strategy-comparison/results/manifest.json",
+    "sha256": "078f725a28545c71626c3e038661b70b989c330686e7b9e30d79379ce306d55c",
+    "export": "unchanged"
+  },
+  "small/records.jsonl": {
+    "original_path": "runs/small-strategy-comparison/results/records.jsonl",
+    "sha256": "f04de14f8ac873fe7f4b2f64288979c4233b3d1c24419b7c35b7873fa306551a",
+    "export": "unchanged"
+  },
+  "capacity/planning.json": {
+    "original_path": "runs/chunk-budget-study/planning.json",
+    "sha256": "deac72b3e1056c1dc32f11da71abf105843c66e1195eb6d895df8d9536422c25",
+    "export": "unchanged"
+  },
+  "capacity/live-smoke.json": {
+    "original_path": "runs/chunk-budget-study/live-smoke.json",
+    "sha256": "73e9eaeace090dbc37382d3b2be2e6b0529b9c4d8de4553758b9e80908bb68bd",
+    "export": "unchanged"
+  },
+  "capacity/invoice-50-pages.pdf": {
+    "original_path": "runs/chunk-budget-study/invoice-50-pages.pdf",
+    "sha256": "e5904f9e504f600663ebae3204f69b1f36187c6a2d442b66caad401c68715ce8",
+    "export": "unchanged"
+  },
+  "partial/summary.json": {
+    "original_path": "runs/mock-v1-dev-grok/results-recovery-v1/partial-summary.json",
+    "sha256": "f4845559809ad2cf8e152eaa8677e8441efb4f14c6635a08a19deec94ad49c1e",
+    "export": "unchanged"
+  },
+  "partial/manifest.json": {
+    "original_path": "runs/mock-v1-dev-grok/results-recovery-v1/manifest.json",
+    "sha256": "db203b4a20e925ac8ec608a9b4fef88ce2f5bd6a4d4af753379265ac71184e32",
+    "export": "unchanged"
+  },
+  "partial/records.jsonl": {
+    "original_path": "runs/mock-v1-dev-grok/results-recovery-v1/records.jsonl",
+    "original_sha256": "f3572db20b48120df4c15986214abf6da2b8384f2d86380ad5539b281c8c1762",
+    "sha256": "ee6303aba234c68f2df2cd82dc5fb6793e27bbb8beae14cfa1ab51964f0896fb",
+    "export": "Removed request logs, partial artifacts, and verification metadata; retained outcomes, findings, errors and usage."
+  }
+}

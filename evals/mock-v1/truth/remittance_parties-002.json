@@ -1,0 +1,482 @@
+{
+  "invoice": {
+    "number": "MOCK-10-002",
+    "vendor": "Remittance Parties Supply 02 Ltd.",
+    "date": "2026-01-19",
+    "due_date": "2026-02-18",
+    "currency": "EUR",
+    "items": [
+      {
+        "name": "Filter cartridge",
+        "quantity": "12.25",
+        "unit_price": "1.25",
+        "amount": "15.31",
+        "discount": null
+      },
+      {
+        "name": "Filter cartridge",
+        "quantity": "15.25",
+        "unit_price": "1200.50",
+        "amount": "18307.63",
+        "discount": null
+      },
+      {
+        "name": "Filter cartridge",
+        "quantity": "40.25",
+        "unit_price": "1200.50",
+        "amount": "48320.13",
+        "discount": null
+      },
+      {
+        "name": "Calibration service",
+        "quantity": "12.25",
+        "unit_price": "48.75",
+        "amount": "597.19",
+        "discount": null
+      },
+      {
+        "name": "Calibration service",
+        "quantity": "3.25",
+        "unit_price": "1.25",
+        "amount": "4.06",
+        "discount": null
+      }
+    ],
+    "subtotal": "67244.32",
+    "tax": "5043.32",
+    "tax_rate": "0.075",
+    "discount": "0",
+    "shipping": "18.50",
+    "total": "72306.14"
+  },
+  "anchors": {
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 108.0,
+        "text": "MOCK-10-002"
+      }
+    ],
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 126.0,
+        "text": "Remittance Parties Supply 02 Ltd."
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 144.0,
+        "text": "2026-01-19"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 162.0,
+        "text": "2026-02-18"
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 180.0,
+        "text": "EUR"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 245.0,
+        "text": "Filter cartridge"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 245.0,
+        "text": "12.25"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 245.0,
+        "text": "1.25"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 245.0,
+        "text": "15.31"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 272.0,
+        "text": "Filter cartridge"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 272.0,
+        "text": "15.25"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 272.0,
+        "text": "1200.50"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 272.0,
+        "text": "18307.63"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 299.0,
+        "text": "Filter cartridge"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 299.0,
+        "text": "40.25"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 299.0,
+        "text": "1200.50"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 299.0,
+        "text": "48320.13"
+      }
+    ],
+    "items.3.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 326.0,
+        "text": "Calibration service"
+      }
+    ],
+    "items.3.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 326.0,
+        "text": "12.25"
+      }
+    ],
+    "items.3.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 326.0,
+        "text": "48.75"
+      }
+    ],
+    "items.3.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 326.0,
+        "text": "597.19"
+      }
+    ],
+    "items.4.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 353.0,
+        "text": "Calibration service"
+      }
+    ],
+    "items.4.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 353.0,
+        "text": "3.25"
+      }
+    ],
+    "items.4.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 353.0,
+        "text": "1.25"
+      }
+    ],
+    "items.4.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 353.0,
+        "text": "4.06"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 420.0,
+        "text": "67244.32"
+      }
+    ],
+    "discount": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 438.0,
+        "text": "0.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 456.0,
+        "text": "18.50"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 474.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 492.0,
+        "text": "5043.32"
+      }
+    ],
+    "total": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 510.0,
+        "text": "72306.14"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "e99c5de334c710f52dea8f9703b059957d5ec6d06fb15e4bb30f68ffabeb41ce",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-10-002",
+      "vendor": "Remittance Parties Supply 02 Ltd.",
+      "date": "2026-01-19",
+      "due_date": "2026-02-18",
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Filter cartridge",
+          "quantity": "12.25",
+          "unit_price": "1.25",
+          "amount": "15.31",
+          "discount": null
+        },
+        {
+          "name": "Filter cartridge",
+          "quantity": "15.25",
+          "unit_price": "1200.50",
+          "amount": "18307.63",
+          "discount": null
+        },
+        {
+          "name": "Filter cartridge",
+          "quantity": "40.25",
+          "unit_price": "1200.50",
+          "amount": "48320.13",
+          "discount": null
+        },
+        {
+          "name": "Calibration service",
+          "quantity": "12.25",
+          "unit_price": "48.75",
+          "amount": "597.19",
+          "discount": null
+        },
+        {
+          "name": "Calibration service",
+          "quantity": "3.25",
+          "unit_price": "1.25",
+          "amount": "4.06",
+          "discount": null
+        }
+      ],
+      "subtotal": "67244.32",
+      "tax": "5043.32",
+      "tax_rate": "0.075",
+      "discount": "0",
+      "shipping": "18.50",
+      "total": "72306.14"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r5",
+        "quote": "Invoice no.: MOCK-10-002"
+      },
+      "vendor": {
+        "region_id": "p1:r6",
+        "quote": "Supplier: Remittance Parties Supply 02 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r7",
+        "quote": "Issue date: 2026-01-19"
+      },
+      "due_date": {
+        "region_id": "p1:r8",
+        "quote": "Payment due: 2026-02-18"
+      },
+      "currency": {
+        "region_id": "p1:r9",
+        "quote": "Invoice currency (ISO): EUR"
+      },
+      "items.0.name": {
+        "region_id": "p1:r12",
+        "quote": "Filter cartridge 12.25 1.25 15.31"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r12",
+        "quote": "Filter cartridge 12.25 1.25 15.31"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r12",
+        "quote": "Filter cartridge 12.25 1.25 15.31"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r12",
+        "quote": "Filter cartridge 12.25 1.25 15.31"
+      },
+      "items.1.name": {
+        "region_id": "p1:r13",
+        "quote": "Filter cartridge 15.25 1200.50 18307.63"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r13",
+        "quote": "Filter cartridge 15.25 1200.50 18307.63"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r13",
+        "quote": "Filter cartridge 15.25 1200.50 18307.63"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r13",
+        "quote": "Filter cartridge 15.25 1200.50 18307.63"
+      },
+      "items.2.name": {
+        "region_id": "p1:r14",
+        "quote": "Filter cartridge 40.25 1200.50 48320.13"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r14",
+        "quote": "Filter cartridge 40.25 1200.50 48320.13"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r14",
+        "quote": "Filter cartridge 40.25 1200.50 48320.13"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r14",
+        "quote": "Filter cartridge 40.25 1200.50 48320.13"
+      },
+      "items.3.name": {
+        "region_id": "p1:r15",
+        "quote": "Calibration service 12.25 48.75 597.19"
+      },
+      "items.3.quantity": {
+        "region_id": "p1:r15",
+        "quote": "Calibration service 12.25 48.75 597.19"
+      },
+      "items.3.unit_price": {
+        "region_id": "p1:r15",
+        "quote": "Calibration service 12.25 48.75 597.19"
+      },
+      "items.3.amount": {
+        "region_id": "p1:r15",
+        "quote": "Calibration service 12.25 48.75 597.19"
+      },
+      "items.4.name": {
+        "region_id": "p1:r16",
+        "quote": "Calibration service 3.25 1.25 4.06"
+      },
+      "items.4.quantity": {
+        "region_id": "p1:r16",
+        "quote": "Calibration service 3.25 1.25 4.06"
+      },
+      "items.4.unit_price": {
+        "region_id": "p1:r16",
+        "quote": "Calibration service 3.25 1.25 4.06"
+      },
+      "items.4.amount": {
+        "region_id": "p1:r16",
+        "quote": "Calibration service 3.25 1.25 4.06"
+      },
+      "subtotal": {
+        "region_id": "p1:r18",
+        "quote": "Subtotal after line discounts: 67244.32"
+      },
+      "tax": {
+        "region_id": "p1:r22",
+        "quote": "Tax amount: 5043.32"
+      },
+      "tax_rate": {
+        "region_id": "p1:r21",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p1:r19",
+        "quote": "Invoice discount: 0.00"
+      },
+      "shipping": {
+        "region_id": "p1:r20",
+        "quote": "Shipping: 18.50"
+      },
+      "total": {
+        "region_id": "p1:r23",
+        "quote": "Grand total: 72306.14"
+      }
+    }
+  }
+}

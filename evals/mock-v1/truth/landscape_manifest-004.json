@@ -1,0 +1,1040 @@
+{
+  "invoice": {
+    "number": "MOCK-09-004",
+    "vendor": "Landscape Manifest Supply 04 Ltd.",
+    "date": "2026-04-05",
+    "due_date": "2026-05-05",
+    "currency": "CAD",
+    "items": [
+      {
+        "name": "Copper fitting",
+        "quantity": "40.25",
+        "unit_price": "12.40",
+        "amount": "499.10",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting",
+        "quantity": "43.25",
+        "unit_price": "125.00",
+        "amount": "5406.25",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "12.25",
+        "unit_price": "48.75",
+        "amount": "597.19",
+        "discount": null
+      },
+      {
+        "name": "Filter cartridge",
+        "quantity": "2.25",
+        "unit_price": "12.40",
+        "amount": "27.90",
+        "discount": null
+      },
+      {
+        "name": "Valve assembly",
+        "quantity": "7.25",
+        "unit_price": "48.75",
+        "amount": "353.44",
+        "discount": null
+      },
+      {
+        "name": "Calibration service",
+        "quantity": "40.25",
+        "unit_price": "48.75",
+        "amount": "1962.19",
+        "discount": null
+      },
+      {
+        "name": "Calibration service",
+        "quantity": "12.25",
+        "unit_price": "1.25",
+        "amount": "15.31",
+        "discount": null
+      },
+      {
+        "name": "Filter cartridge",
+        "quantity": "40.25",
+        "unit_price": "1.25",
+        "amount": "50.31",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting",
+        "quantity": "20.25",
+        "unit_price": "12.40",
+        "amount": "251.10",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting",
+        "quantity": "12.25",
+        "unit_price": "48.75",
+        "amount": "597.19",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting",
+        "quantity": "2.25",
+        "unit_price": "125.00",
+        "amount": "281.25",
+        "discount": null
+      },
+      {
+        "name": "Valve assembly",
+        "quantity": "7.25",
+        "unit_price": "125.00",
+        "amount": "906.25",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "7.25",
+        "unit_price": "1.25",
+        "amount": "9.06",
+        "discount": null
+      },
+      {
+        "name": "Filter cartridge",
+        "quantity": "7.25",
+        "unit_price": "12.40",
+        "amount": "89.90",
+        "discount": null
+      }
+    ],
+    "subtotal": "11046.44",
+    "tax": "828.48",
+    "tax_rate": "0.075",
+    "discount": "5.00",
+    "shipping": "18.50",
+    "total": "11888.42"
+  },
+  "anchors": {
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 65.0,
+        "text": "MOCK-09-004"
+      }
+    ],
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 83.0,
+        "text": "Landscape Manifest Supply 04 Ltd."
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 101.0,
+        "text": "2026-04-05"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 119.0,
+        "text": "2026-05-05"
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 137.0,
+        "text": "CAD"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 202.0,
+        "text": "40.25"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 202.0,
+        "text": "499.10"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 202.0,
+        "text": "12.40"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 375,
+        "top": 202.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 229.0,
+        "text": "43.25"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 229.0,
+        "text": "5406.25"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 229.0,
+        "text": "125.00"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 375,
+        "top": 229.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 256.0,
+        "text": "12.25"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 256.0,
+        "text": "597.19"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 256.0,
+        "text": "48.75"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 375,
+        "top": 256.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.3.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 283.0,
+        "text": "2.25"
+      }
+    ],
+    "items.3.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 283.0,
+        "text": "27.90"
+      }
+    ],
+    "items.3.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 283.0,
+        "text": "12.40"
+      }
+    ],
+    "items.3.name": [
+      {
+        "page": 1,
+        "x": 375,
+        "top": 283.0,
+        "text": "Filter cartridge"
+      }
+    ],
+    "items.4.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 310.0,
+        "text": "7.25"
+      }
+    ],
+    "items.4.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 310.0,
+        "text": "353.44"
+      }
+    ],
+    "items.4.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 310.0,
+        "text": "48.75"
+      }
+    ],
+    "items.4.name": [
+      {
+        "page": 1,
+        "x": 375,
+        "top": 310.0,
+        "text": "Valve assembly"
+      }
+    ],
+    "items.5.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 337.0,
+        "text": "40.25"
+      }
+    ],
+    "items.5.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 337.0,
+        "text": "1962.19"
+      }
+    ],
+    "items.5.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 337.0,
+        "text": "48.75"
+      }
+    ],
+    "items.5.name": [
+      {
+        "page": 1,
+        "x": 375,
+        "top": 337.0,
+        "text": "Calibration service"
+      }
+    ],
+    "items.6.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 364.0,
+        "text": "12.25"
+      }
+    ],
+    "items.6.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 364.0,
+        "text": "15.31"
+      }
+    ],
+    "items.6.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 364.0,
+        "text": "1.25"
+      }
+    ],
+    "items.6.name": [
+      {
+        "page": 1,
+        "x": 375,
+        "top": 364.0,
+        "text": "Calibration service"
+      }
+    ],
+    "items.7.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 391.0,
+        "text": "40.25"
+      }
+    ],
+    "items.7.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 391.0,
+        "text": "50.31"
+      }
+    ],
+    "items.7.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 391.0,
+        "text": "1.25"
+      }
+    ],
+    "items.7.name": [
+      {
+        "page": 1,
+        "x": 375,
+        "top": 391.0,
+        "text": "Filter cartridge"
+      }
+    ],
+    "items.8.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 418.0,
+        "text": "20.25"
+      }
+    ],
+    "items.8.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 418.0,
+        "text": "251.10"
+      }
+    ],
+    "items.8.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 418.0,
+        "text": "12.40"
+      }
+    ],
+    "items.8.name": [
+      {
+        "page": 1,
+        "x": 375,
+        "top": 418.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.9.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 445.0,
+        "text": "12.25"
+      }
+    ],
+    "items.9.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 445.0,
+        "text": "597.19"
+      }
+    ],
+    "items.9.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 445.0,
+        "text": "48.75"
+      }
+    ],
+    "items.9.name": [
+      {
+        "page": 1,
+        "x": 375,
+        "top": 445.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.10.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 472.0,
+        "text": "2.25"
+      }
+    ],
+    "items.10.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 472.0,
+        "text": "281.25"
+      }
+    ],
+    "items.10.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 472.0,
+        "text": "125.00"
+      }
+    ],
+    "items.10.name": [
+      {
+        "page": 1,
+        "x": 375,
+        "top": 472.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.11.quantity": [
+      {
+        "page": 2,
+        "x": 40,
+        "top": 87.0,
+        "text": "7.25"
+      }
+    ],
+    "items.11.amount": [
+      {
+        "page": 2,
+        "x": 100,
+        "top": 87.0,
+        "text": "906.25"
+      }
+    ],
+    "items.11.unit_price": [
+      {
+        "page": 2,
+        "x": 200,
+        "top": 87.0,
+        "text": "125.00"
+      }
+    ],
+    "items.11.name": [
+      {
+        "page": 2,
+        "x": 375,
+        "top": 87.0,
+        "text": "Valve assembly"
+      }
+    ],
+    "items.12.quantity": [
+      {
+        "page": 2,
+        "x": 40,
+        "top": 114.0,
+        "text": "7.25"
+      }
+    ],
+    "items.12.amount": [
+      {
+        "page": 2,
+        "x": 100,
+        "top": 114.0,
+        "text": "9.06"
+      }
+    ],
+    "items.12.unit_price": [
+      {
+        "page": 2,
+        "x": 200,
+        "top": 114.0,
+        "text": "1.25"
+      }
+    ],
+    "items.12.name": [
+      {
+        "page": 2,
+        "x": 375,
+        "top": 114.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.13.quantity": [
+      {
+        "page": 2,
+        "x": 40,
+        "top": 141.0,
+        "text": "7.25"
+      }
+    ],
+    "items.13.amount": [
+      {
+        "page": 2,
+        "x": 100,
+        "top": 141.0,
+        "text": "89.90"
+      }
+    ],
+    "items.13.unit_price": [
+      {
+        "page": 2,
+        "x": 200,
+        "top": 141.0,
+        "text": "12.40"
+      }
+    ],
+    "items.13.name": [
+      {
+        "page": 2,
+        "x": 375,
+        "top": 141.0,
+        "text": "Filter cartridge"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 2,
+        "x": 260,
+        "top": 208.0,
+        "text": "11046.44"
+      }
+    ],
+    "discount": [
+      {
+        "page": 2,
+        "x": 260,
+        "top": 226.0,
+        "text": "5.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 2,
+        "x": 260,
+        "top": 244.0,
+        "text": "18.50"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 2,
+        "x": 260,
+        "top": 262.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 2,
+        "x": 260,
+        "top": 280.0,
+        "text": "828.48"
+      }
+    ],
+    "total": [
+      {
+        "page": 2,
+        "x": 260,
+        "top": 298.0,
+        "text": "11888.42"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "6fcb303bd8090229aacf1e8c501f36ce9e4f78ccff9d15b2dd72da6dc298d618",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-09-004",
+      "vendor": "Landscape Manifest Supply 04 Ltd.",
+      "date": "2026-04-05",
+      "due_date": "2026-05-05",
+      "currency": "CAD",
+      "items": [
+        {
+          "name": "Copper fitting",
+          "quantity": "40.25",
+          "unit_price": "12.40",
+          "amount": "499.10",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting",
+          "quantity": "43.25",
+          "unit_price": "125.00",
+          "amount": "5406.25",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "12.25",
+          "unit_price": "48.75",
+          "amount": "597.19",
+          "discount": null
+        },
+        {
+          "name": "Filter cartridge",
+          "quantity": "2.25",
+          "unit_price": "12.40",
+          "amount": "27.90",
+          "discount": null
+        },
+        {
+          "name": "Valve assembly",
+          "quantity": "7.25",
+          "unit_price": "48.75",
+          "amount": "353.44",
+          "discount": null
+        },
+        {
+          "name": "Calibration service",
+          "quantity": "40.25",
+          "unit_price": "48.75",
+          "amount": "1962.19",
+          "discount": null
+        },
+        {
+          "name": "Calibration service",
+          "quantity": "12.25",
+          "unit_price": "1.25",
+          "amount": "15.31",
+          "discount": null
+        },
+        {
+          "name": "Filter cartridge",
+          "quantity": "40.25",
+          "unit_price": "1.25",
+          "amount": "50.31",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting",
+          "quantity": "20.25",
+          "unit_price": "12.40",
+          "amount": "251.10",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting",
+          "quantity": "12.25",
+          "unit_price": "48.75",
+          "amount": "597.19",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting",
+          "quantity": "2.25",
+          "unit_price": "125.00",
+          "amount": "281.25",
+          "discount": null
+        },
+        {
+          "name": "Valve assembly",
+          "quantity": "7.25",
+          "unit_price": "125.00",
+          "amount": "906.25",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "7.25",
+          "unit_price": "1.25",
+          "amount": "9.06",
+          "discount": null
+        },
+        {
+          "name": "Filter cartridge",
+          "quantity": "7.25",
+          "unit_price": "12.40",
+          "amount": "89.90",
+          "discount": null
+        }
+      ],
+      "subtotal": "11046.44",
+      "tax": "828.48",
+      "tax_rate": "0.075",
+      "discount": "5.00",
+      "shipping": "18.50",
+      "total": "11888.42"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r3",
+        "quote": "Invoice no.: MOCK-09-004"
+      },
+      "vendor": {
+        "region_id": "p1:r4",
+        "quote": "Supplier: Landscape Manifest Supply 04 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r5",
+        "quote": "Issue date: 2026-04-05"
+      },
+      "due_date": {
+        "region_id": "p1:r6",
+        "quote": "Payment due: 2026-05-05"
+      },
+      "currency": {
+        "region_id": "p1:r7",
+        "quote": "Invoice currency (ISO): CAD"
+      },
+      "items.0.name": {
+        "region_id": "p1:r10",
+        "quote": "40.25 499.10 12.40 Copper fitting"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r10",
+        "quote": "40.25 499.10 12.40 Copper fitting"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r10",
+        "quote": "40.25 499.10 12.40 Copper fitting"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r10",
+        "quote": "40.25 499.10 12.40 Copper fitting"
+      },
+      "items.1.name": {
+        "region_id": "p1:r11",
+        "quote": "43.25 5406.25 125.00 Copper fitting"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r11",
+        "quote": "43.25 5406.25 125.00 Copper fitting"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r11",
+        "quote": "43.25 5406.25 125.00 Copper fitting"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r11",
+        "quote": "43.25 5406.25 125.00 Copper fitting"
+      },
+      "items.2.name": {
+        "region_id": "p1:r12",
+        "quote": "12.25 597.19 48.75 Steel bracket"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r12",
+        "quote": "12.25 597.19 48.75 Steel bracket"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r12",
+        "quote": "12.25 597.19 48.75 Steel bracket"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r12",
+        "quote": "12.25 597.19 48.75 Steel bracket"
+      },
+      "items.3.name": {
+        "region_id": "p1:r13",
+        "quote": "2.25 27.90 12.40 Filter cartridge"
+      },
+      "items.3.quantity": {
+        "region_id": "p1:r13",
+        "quote": "2.25 27.90 12.40 Filter cartridge"
+      },
+      "items.3.unit_price": {
+        "region_id": "p1:r13",
+        "quote": "2.25 27.90 12.40 Filter cartridge"
+      },
+      "items.3.amount": {
+        "region_id": "p1:r13",
+        "quote": "2.25 27.90 12.40 Filter cartridge"
+      },
+      "items.4.name": {
+        "region_id": "p1:r14",
+        "quote": "7.25 353.44 48.75 Valve assembly"
+      },
+      "items.4.quantity": {
+        "region_id": "p1:r14",
+        "quote": "7.25 353.44 48.75 Valve assembly"
+      },
+      "items.4.unit_price": {
+        "region_id": "p1:r14",
+        "quote": "7.25 353.44 48.75 Valve assembly"
+      },
+      "items.4.amount": {
+        "region_id": "p1:r14",
+        "quote": "7.25 353.44 48.75 Valve assembly"
+      },
+      "items.5.name": {
+        "region_id": "p1:r15",
+        "quote": "40.25 1962.19 48.75 Calibration service"
+      },
+      "items.5.quantity": {
+        "region_id": "p1:r15",
+        "quote": "40.25 1962.19 48.75 Calibration service"
+      },
+      "items.5.unit_price": {
+        "region_id": "p1:r15",
+        "quote": "40.25 1962.19 48.75 Calibration service"
+      },
+      "items.5.amount": {
+        "region_id": "p1:r15",
+        "quote": "40.25 1962.19 48.75 Calibration service"
+      },
+      "items.6.name": {
+        "region_id": "p1:r16",
+        "quote": "12.25 15.31 1.25 Calibration service"
+      },
+      "items.6.quantity": {
+        "region_id": "p1:r16",
+        "quote": "12.25 15.31 1.25 Calibration service"
+      },
+      "items.6.unit_price": {
+        "region_id": "p1:r16",
+        "quote": "12.25 15.31 1.25 Calibration service"
+      },
+      "items.6.amount": {
+        "region_id": "p1:r16",
+        "quote": "12.25 15.31 1.25 Calibration service"
+      },
+      "items.7.name": {
+        "region_id": "p1:r17",
+        "quote": "40.25 50.31 1.25 Filter cartridge"
+      },
+      "items.7.quantity": {
+        "region_id": "p1:r17",
+        "quote": "40.25 50.31 1.25 Filter cartridge"
+      },
+      "items.7.unit_price": {
+        "region_id": "p1:r17",
+        "quote": "40.25 50.31 1.25 Filter cartridge"
+      },
+      "items.7.amount": {
+        "region_id": "p1:r17",
+        "quote": "40.25 50.31 1.25 Filter cartridge"
+      },
+      "items.8.name": {
+        "region_id": "p1:r18",
+        "quote": "20.25 251.10 12.40 Copper fitting"
+      },
+      "items.8.quantity": {
+        "region_id": "p1:r18",
+        "quote": "20.25 251.10 12.40 Copper fitting"
+      },
+      "items.8.unit_price": {
+        "region_id": "p1:r18",
+        "quote": "20.25 251.10 12.40 Copper fitting"
+      },
+      "items.8.amount": {
+        "region_id": "p1:r18",
+        "quote": "20.25 251.10 12.40 Copper fitting"
+      },
+      "items.9.name": {
+        "region_id": "p1:r19",
+        "quote": "12.25 597.19 48.75 Copper fitting"
+      },
+      "items.9.quantity": {
+        "region_id": "p1:r19",
+        "quote": "12.25 597.19 48.75 Copper fitting"
+      },
+      "items.9.unit_price": {
+        "region_id": "p1:r19",
+        "quote": "12.25 597.19 48.75 Copper fitting"
+      },
+      "items.9.amount": {
+        "region_id": "p1:r19",
+        "quote": "12.25 597.19 48.75 Copper fitting"
+      },
+      "items.10.name": {
+        "region_id": "p1:r20",
+        "quote": "2.25 281.25 125.00 Copper fitting"
+      },
+      "items.10.quantity": {
+        "region_id": "p1:r20",
+        "quote": "2.25 281.25 125.00 Copper fitting"
+      },
+      "items.10.unit_price": {
+        "region_id": "p1:r20",
+        "quote": "2.25 281.25 125.00 Copper fitting"
+      },
+      "items.10.amount": {
+        "region_id": "p1:r20",
+        "quote": "2.25 281.25 125.00 Copper fitting"
+      },
+      "items.11.name": {
+        "region_id": "p2:r4",
+        "quote": "7.25 906.25 125.00 Valve assembly"
+      },
+      "items.11.quantity": {
+        "region_id": "p2:r4",
+        "quote": "7.25 906.25 125.00 Valve assembly"
+      },
+      "items.11.unit_price": {
+        "region_id": "p2:r4",
+        "quote": "7.25 906.25 125.00 Valve assembly"
+      },
+      "items.11.amount": {
+        "region_id": "p2:r4",
+        "quote": "7.25 906.25 125.00 Valve assembly"
+      },
+      "items.12.name": {
+        "region_id": "p2:r5",
+        "quote": "7.25 9.06 1.25 Steel bracket"
+      },
+      "items.12.quantity": {
+        "region_id": "p2:r5",
+        "quote": "7.25 9.06 1.25 Steel bracket"
+      },
+      "items.12.unit_price": {
+        "region_id": "p2:r5",
+        "quote": "7.25 9.06 1.25 Steel bracket"
+      },
+      "items.12.amount": {
+        "region_id": "p2:r5",
+        "quote": "7.25 9.06 1.25 Steel bracket"
+      },
+      "items.13.name": {
+        "region_id": "p2:r6",
+        "quote": "7.25 89.90 12.40 Filter cartridge"
+      },
+      "items.13.quantity": {
+        "region_id": "p2:r6",
+        "quote": "7.25 89.90 12.40 Filter cartridge"
+      },
+      "items.13.unit_price": {
+        "region_id": "p2:r6",
+        "quote": "7.25 89.90 12.40 Filter cartridge"
+      },
+      "items.13.amount": {
+        "region_id": "p2:r6",
+        "quote": "7.25 89.90 12.40 Filter cartridge"
+      },
+      "subtotal": {
+        "region_id": "p2:r8",
+        "quote": "Subtotal after line discounts: 11046.44"
+      },
+      "tax": {
+        "region_id": "p2:r12",
+        "quote": "Tax amount: 828.48"
+      },
+      "tax_rate": {
+        "region_id": "p2:r11",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p2:r9",
+        "quote": "Invoice discount: 5.00"
+      },
+      "shipping": {
+        "region_id": "p2:r10",
+        "quote": "Shipping: 18.50"
+      },
+      "total": {
+        "region_id": "p2:r13",
+        "quote": "Grand total: 11888.42"
+      }
+    }
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "invoice": {
+    "number": "MOCK-05-003",
+    "vendor": "Wrapped Descriptions Supply 03 Ltd.",
+    "date": "2026-05-17",
+    "due_date": "2026-06-16",
+    "currency": "GBP",
+    "items": [
+      {
+        "name": "Valve assembly industrial replacement with extended service warranty",
+        "quantity": "20",
+        "unit_price": "1.25",
+        "amount": "25.00",
+        "discount": null
+      },
+      {
+        "name": "Valve assembly industrial replacement with extended service warranty",
+        "quantity": "23",
+        "unit_price": "1.25",
+        "amount": "28.75",
+        "discount": null
+      },
+      {
+        "name": "Filter cartridge industrial replacement with extended service warranty",
+        "quantity": "40",
+        "unit_price": "1200.50",
+        "amount": "48020.00",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket industrial replacement with extended service warranty",
+        "quantity": "7",
+        "unit_price": "125.00",
+        "amount": "875.00",
+        "discount": null
+      },
+      {
+        "name": "Valve assembly industrial replacement with extended service warranty",
+        "quantity": "20",
+        "unit_price": "12.40",
+        "amount": "248.00",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting industrial replacement with extended service warranty",
+        "quantity": "20",
+        "unit_price": "125.00",
+        "amount": "2500.00",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket industrial replacement with extended service warranty",
+        "quantity": "40",
+        "unit_price": "125.00",
+        "amount": "5000.00",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting industrial replacement with extended service warranty",
+        "quantity": "7",
+        "unit_price": "125.00",
+        "amount": "875.00",
+        "discount": null
+      }
+    ],
+    "subtotal": "57571.75",
+    "tax": "4317.88",
+    "tax_rate": "0.075",
+    "discount": "0",
+    "shipping": "0",
+    "total": "61889.63"
+  },
+  "anchors": {
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 65.0,
+        "text": "MOCK-05-003"
+      }
+    ],
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 83.0,
+        "text": "Wrapped Descriptions Supply 03 Ltd."
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 101.0,
+        "text": "2026-05-17"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 119.0,
+        "text": "2026-06-16"
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 137.0,
+        "text": "GBP"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 202.0,
+        "text": "Valve assembly industrial replacement"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 215.0,
+        "text": "with extended service warranty"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 202.0,
+        "text": "20"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 202.0,
+        "text": "1.25"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 202.0,
+        "text": "25.00"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 242.0,
+        "text": "Valve assembly industrial replacement"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 255.0,
+        "text": "with extended service warranty"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 242.0,
+        "text": "23"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 242.0,
+        "text": "1.25"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 242.0,
+        "text": "28.75"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 282.0,
+        "text": "Filter cartridge industrial"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 295.0,
+        "text": "replacement with extended service warranty"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 282.0,
+        "text": "40"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 282.0,
+        "text": "1,200.50"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 282.0,
+        "text": "48,020.00"
+      }
+    ],
+    "items.3.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 322.0,
+        "text": "Steel bracket industrial replacement"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 335.0,
+        "text": "with extended service warranty"
+      }
+    ],
+    "items.3.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 322.0,
+        "text": "7"
+      }
+    ],
+    "items.3.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 322.0,
+        "text": "125.00"
+      }
+    ],
+    "items.3.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 322.0,
+        "text": "875.00"
+      }
+    ],
+    "items.4.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 362.0,
+        "text": "Valve assembly industrial replacement"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 375.0,
+        "text": "with extended service warranty"
+      }
+    ],
+    "items.4.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 362.0,
+        "text": "20"
+      }
+    ],
+    "items.4.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 362.0,
+        "text": "12.40"
+      }
+    ],
+    "items.4.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 362.0,
+        "text": "248.00"
+      }
+    ],
+    "items.5.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 402.0,
+        "text": "Copper fitting industrial replacement"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 415.0,
+        "text": "with extended service warranty"
+      }
+    ],
+    "items.5.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 402.0,
+        "text": "20"
+      }
+    ],
+    "items.5.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 402.0,
+        "text": "125.00"
+      }
+    ],
+    "items.5.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 402.0,
+        "text": "2,500.00"
+      }
+    ],
+    "items.6.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 442.0,
+        "text": "Steel bracket industrial replacement"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 455.0,
+        "text": "with extended service warranty"
+      }
+    ],
+    "items.6.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 442.0,
+        "text": "40"
+      }
+    ],
+    "items.6.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 442.0,
+        "text": "125.00"
+      }
+    ],
+    "items.6.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 442.0,
+        "text": "5,000.00"
+      }
+    ],
+    "items.7.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 482.0,
+        "text": "Copper fitting industrial replacement"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 495.0,
+        "text": "with extended service warranty"
+      }
+    ],
+    "items.7.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 482.0,
+        "text": "7"
+      }
+    ],
+    "items.7.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 482.0,
+        "text": "125.00"
+      }
+    ],
+    "items.7.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 482.0,
+        "text": "875.00"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 562.0,
+        "text": "57,571.75"
+      }
+    ],
+    "discount": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 580.0,
+        "text": "0.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 598.0,
+        "text": "0.00"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 616.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 634.0,
+        "text": "4,317.88"
+      }
+    ],
+    "total": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 652.0,
+        "text": "61,889.63"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "797c24b3e36969965ae9e5925f7c6c34b4e1697b263fa80910508e4a2f4a25aa",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-05-003",
+      "vendor": "Wrapped Descriptions Supply 03 Ltd.",
+      "date": "2026-05-17",
+      "due_date": "2026-06-16",
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Valve assembly industrial replacement with extended service warranty",
+          "quantity": "20",
+          "unit_price": "1.25",
+          "amount": "25.00",
+          "discount": null
+        },
+        {
+          "name": "Valve assembly industrial replacement with extended service warranty",
+          "quantity": "23",
+          "unit_price": "1.25",
+          "amount": "28.75",
+          "discount": null
+        },
+        {
+          "name": "Filter cartridge industrial replacement with extended service warranty",
+          "quantity": "40",
+          "unit_price": "1200.50",
+          "amount": "48020.00",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket industrial replacement with extended service warranty",
+          "quantity": "7",
+          "unit_price": "125.00",
+          "amount": "875.00",
+          "discount": null
+        },
+        {
+          "name": "Valve assembly industrial replacement with extended service warranty",
+          "quantity": "20",
+          "unit_price": "12.40",
+          "amount": "248.00",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting industrial replacement with extended service warranty",
+          "quantity": "20",
+          "unit_price": "125.00",
+          "amount": "2500.00",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket industrial replacement with extended service warranty",
+          "quantity": "40",
+          "unit_price": "125.00",
+          "amount": "5000.00",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting industrial replacement with extended service warranty",
+          "quantity": "7",
+          "unit_price": "125.00",
+          "amount": "875.00",
+          "discount": null
+        }
+      ],
+      "subtotal": "57571.75",
+      "tax": "4317.88",
+      "tax_rate": "0.075",
+      "discount": "0",
+      "shipping": "0",
+      "total": "61889.63"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r3",
+        "quote": "Invoice no.: MOCK-05-003"
+      },
+      "vendor": {
+        "region_id": "p1:r4",
+        "quote": "Supplier: Wrapped Descriptions Supply 03 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r5",
+        "quote": "Issue date: 2026-05-17"
+      },
+      "due_date": {
+        "region_id": "p1:r6",
+        "quote": "Payment due: 2026-06-16"
+      },
+      "currency": {
+        "region_id": "p1:r7",
+        "quote": "Invoice currency (ISO): GBP"
+      },
+      "items.0.name": {
+        "region_id": "p1:r10",
+        "quote": "Valve assembly industrial replacement 20 1.25 25.00"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r10",
+        "quote": "Valve assembly industrial replacement 20 1.25 25.00"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r10",
+        "quote": "Valve assembly industrial replacement 20 1.25 25.00"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r10",
+        "quote": "Valve assembly industrial replacement 20 1.25 25.00"
+      },
+      "items.1.name": {
+        "region_id": "p1:r12",
+        "quote": "Valve assembly industrial replacement 23 1.25 28.75"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r12",
+        "quote": "Valve assembly industrial replacement 23 1.25 28.75"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r12",
+        "quote": "Valve assembly industrial replacement 23 1.25 28.75"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r12",
+        "quote": "Valve assembly industrial replacement 23 1.25 28.75"
+      },
+      "items.2.name": {
+        "region_id": "p1:r14",
+        "quote": "Filter cartridge industrial 40 1,200.50 48,020.00"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r14",
+        "quote": "Filter cartridge industrial 40 1,200.50 48,020.00"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r14",
+        "quote": "Filter cartridge industrial 40 1,200.50 48,020.00"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r14",
+        "quote": "Filter cartridge industrial 40 1,200.50 48,020.00"
+      },
+      "items.3.name": {
+        "region_id": "p1:r16",
+        "quote": "Steel bracket industrial replacement 7 125.00 875.00"
+      },
+      "items.3.quantity": {
+        "region_id": "p1:r16",
+        "quote": "Steel bracket industrial replacement 7 125.00 875.00"
+      },
+      "items.3.unit_price": {
+        "region_id": "p1:r16",
+        "quote": "Steel bracket industrial replacement 7 125.00 875.00"
+      },
+      "items.3.amount": {
+        "region_id": "p1:r16",
+        "quote": "Steel bracket industrial replacement 7 125.00 875.00"
+      },
+      "items.4.name": {
+        "region_id": "p1:r18",
+        "quote": "Valve assembly industrial replacement 20 12.40 248.00"
+      },
+      "items.4.quantity": {
+        "region_id": "p1:r18",
+        "quote": "Valve assembly industrial replacement 20 12.40 248.00"
+      },
+      "items.4.unit_price": {
+        "region_id": "p1:r18",
+        "quote": "Valve assembly industrial replacement 20 12.40 248.00"
+      },
+      "items.4.amount": {
+        "region_id": "p1:r18",
+        "quote": "Valve assembly industrial replacement 20 12.40 248.00"
+      },
+      "items.5.name": {
+        "region_id": "p1:r20",
+        "quote": "Copper fitting industrial replacement 20 125.00 2,500.00"
+      },
+      "items.5.quantity": {
+        "region_id": "p1:r20",
+        "quote": "Copper fitting industrial replacement 20 125.00 2,500.00"
+      },
+      "items.5.unit_price": {
+        "region_id": "p1:r20",
+        "quote": "Copper fitting industrial replacement 20 125.00 2,500.00"
+      },
+      "items.5.amount": {
+        "region_id": "p1:r20",
+        "quote": "Copper fitting industrial replacement 20 125.00 2,500.00"
+      },
+      "items.6.name": {
+        "region_id": "p1:r22",
+        "quote": "Steel bracket industrial replacement 40 125.00 5,000.00"
+      },
+      "items.6.quantity": {
+        "region_id": "p1:r22",
+        "quote": "Steel bracket industrial replacement 40 125.00 5,000.00"
+      },
+      "items.6.unit_price": {
+        "region_id": "p1:r22",
+        "quote": "Steel bracket industrial replacement 40 125.00 5,000.00"
+      },
+      "items.6.amount": {
+        "region_id": "p1:r22",
+        "quote": "Steel bracket industrial replacement 40 125.00 5,000.00"
+      },
+      "items.7.name": {
+        "region_id": "p1:r24",
+        "quote": "Copper fitting industrial replacement 7 125.00 875.00"
+      },
+      "items.7.quantity": {
+        "region_id": "p1:r24",
+        "quote": "Copper fitting industrial replacement 7 125.00 875.00"
+      },
+      "items.7.unit_price": {
+        "region_id": "p1:r24",
+        "quote": "Copper fitting industrial replacement 7 125.00 875.00"
+      },
+      "items.7.amount": {
+        "region_id": "p1:r24",
+        "quote": "Copper fitting industrial replacement 7 125.00 875.00"
+      },
+      "subtotal": {
+        "region_id": "p1:r27",
+        "quote": "Subtotal after line discounts: 57,571.75"
+      },
+      "tax": {
+        "region_id": "p1:r31",
+        "quote": "Tax amount: 4,317.88"
+      },
+      "tax_rate": {
+        "region_id": "p1:r30",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p1:r28",
+        "quote": "Invoice discount: 0.00"
+      },
+      "shipping": {
+        "region_id": "p1:r29",
+        "quote": "Shipping: 0.00"
+      },
+      "total": {
+        "region_id": "p1:r32",
+        "quote": "Grand total: 61,889.63"
+      }
+    }
+  }
+}

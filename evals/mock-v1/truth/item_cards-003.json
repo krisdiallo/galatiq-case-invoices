@@ -1,0 +1,668 @@
+{
+  "invoice": {
+    "number": "MOCK-03-003",
+    "vendor": "Item Cards Supply 03 Ltd.",
+    "date": "2026-06-30",
+    "due_date": "2026-07-30",
+    "currency": "GBP",
+    "items": [
+      {
+        "name": "Valve assembly",
+        "quantity": "2",
+        "unit_price": "12.40",
+        "amount": "24.80",
+        "discount": null
+      },
+      {
+        "name": "Valve assembly",
+        "quantity": "5",
+        "unit_price": "12.40",
+        "amount": "62.00",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "12",
+        "unit_price": "1200.50",
+        "amount": "14406.00",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "3",
+        "unit_price": "12.40",
+        "amount": "37.20",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting",
+        "quantity": "2",
+        "unit_price": "1200.50",
+        "amount": "2401.00",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "3",
+        "unit_price": "12.40",
+        "amount": "37.20",
+        "discount": null
+      },
+      {
+        "name": "Calibration service",
+        "quantity": "2",
+        "unit_price": "1.25",
+        "amount": "2.50",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "40",
+        "unit_price": "12.40",
+        "amount": "496.00",
+        "discount": null
+      }
+    ],
+    "subtotal": "17466.70",
+    "tax": "1310.00",
+    "tax_rate": "0.075",
+    "discount": "0",
+    "shipping": "0",
+    "total": "18776.70"
+  },
+  "anchors": {
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 65.0,
+        "text": "MOCK-03-003"
+      }
+    ],
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 83.0,
+        "text": "Item Cards Supply 03 Ltd."
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 101.0,
+        "text": "2026-06-30"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 119.0,
+        "text": "2026-07-30"
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 137.0,
+        "text": "GBP"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 198.0,
+        "text": "Valve assembly"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 232.0,
+        "text": "2"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 230,
+        "top": 232.0,
+        "text": "12.40"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 400,
+        "top": 232.0,
+        "text": "24.80"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 282.0,
+        "text": "Valve assembly"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 316.0,
+        "text": "5"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 230,
+        "top": 316.0,
+        "text": "12.40"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 400,
+        "top": 316.0,
+        "text": "62.00"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 366.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 400.0,
+        "text": "12"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 230,
+        "top": 400.0,
+        "text": "1,200.50"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 400,
+        "top": 400.0,
+        "text": "14,406.00"
+      }
+    ],
+    "items.3.name": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 450.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.3.quantity": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 484.0,
+        "text": "3"
+      }
+    ],
+    "items.3.unit_price": [
+      {
+        "page": 1,
+        "x": 230,
+        "top": 484.0,
+        "text": "12.40"
+      }
+    ],
+    "items.3.amount": [
+      {
+        "page": 1,
+        "x": 400,
+        "top": 484.0,
+        "text": "37.20"
+      }
+    ],
+    "items.4.name": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 534.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.4.quantity": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 568.0,
+        "text": "2"
+      }
+    ],
+    "items.4.unit_price": [
+      {
+        "page": 1,
+        "x": 230,
+        "top": 568.0,
+        "text": "1,200.50"
+      }
+    ],
+    "items.4.amount": [
+      {
+        "page": 1,
+        "x": 400,
+        "top": 568.0,
+        "text": "2,401.00"
+      }
+    ],
+    "items.5.name": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 618.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.5.quantity": [
+      {
+        "page": 1,
+        "x": 55,
+        "top": 652.0,
+        "text": "3"
+      }
+    ],
+    "items.5.unit_price": [
+      {
+        "page": 1,
+        "x": 230,
+        "top": 652.0,
+        "text": "12.40"
+      }
+    ],
+    "items.5.amount": [
+      {
+        "page": 1,
+        "x": 400,
+        "top": 652.0,
+        "text": "37.20"
+      }
+    ],
+    "items.6.name": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 83.0,
+        "text": "Calibration service"
+      }
+    ],
+    "items.6.quantity": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 117.0,
+        "text": "2"
+      }
+    ],
+    "items.6.unit_price": [
+      {
+        "page": 2,
+        "x": 230,
+        "top": 117.0,
+        "text": "1.25"
+      }
+    ],
+    "items.6.amount": [
+      {
+        "page": 2,
+        "x": 400,
+        "top": 117.0,
+        "text": "2.50"
+      }
+    ],
+    "items.7.name": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 167.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.7.quantity": [
+      {
+        "page": 2,
+        "x": 55,
+        "top": 201.0,
+        "text": "40"
+      }
+    ],
+    "items.7.unit_price": [
+      {
+        "page": 2,
+        "x": 230,
+        "top": 201.0,
+        "text": "12.40"
+      }
+    ],
+    "items.7.amount": [
+      {
+        "page": 2,
+        "x": 400,
+        "top": 201.0,
+        "text": "496.00"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 2,
+        "x": 260,
+        "top": 253.0,
+        "text": "17,466.70"
+      }
+    ],
+    "discount": [
+      {
+        "page": 2,
+        "x": 260,
+        "top": 271.0,
+        "text": "0.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 2,
+        "x": 260,
+        "top": 289.0,
+        "text": "0.00"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 2,
+        "x": 260,
+        "top": 307.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 2,
+        "x": 260,
+        "top": 325.0,
+        "text": "1,310.00"
+      }
+    ],
+    "total": [
+      {
+        "page": 2,
+        "x": 260,
+        "top": 343.0,
+        "text": "18,776.70"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "c3e6af41698b897d4427f4cca3379f30cc837c03e1429248a3d7fd303d307b94",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-03-003",
+      "vendor": "Item Cards Supply 03 Ltd.",
+      "date": "2026-06-30",
+      "due_date": "2026-07-30",
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Valve assembly",
+          "quantity": "2",
+          "unit_price": "12.40",
+          "amount": "24.80",
+          "discount": null
+        },
+        {
+          "name": "Valve assembly",
+          "quantity": "5",
+          "unit_price": "12.40",
+          "amount": "62.00",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "12",
+          "unit_price": "1200.50",
+          "amount": "14406.00",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "3",
+          "unit_price": "12.40",
+          "amount": "37.20",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting",
+          "quantity": "2",
+          "unit_price": "1200.50",
+          "amount": "2401.00",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "3",
+          "unit_price": "12.40",
+          "amount": "37.20",
+          "discount": null
+        },
+        {
+          "name": "Calibration service",
+          "quantity": "2",
+          "unit_price": "1.25",
+          "amount": "2.50",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "40",
+          "unit_price": "12.40",
+          "amount": "496.00",
+          "discount": null
+        }
+      ],
+      "subtotal": "17466.70",
+      "tax": "1310.00",
+      "tax_rate": "0.075",
+      "discount": "0",
+      "shipping": "0",
+      "total": "18776.70"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r3",
+        "quote": "Invoice no.: MOCK-03-003"
+      },
+      "vendor": {
+        "region_id": "p1:r4",
+        "quote": "Supplier: Item Cards Supply 03 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r5",
+        "quote": "Issue date: 2026-06-30"
+      },
+      "due_date": {
+        "region_id": "p1:r6",
+        "quote": "Payment due: 2026-07-30"
+      },
+      "currency": {
+        "region_id": "p1:r7",
+        "quote": "Invoice currency (ISO): GBP"
+      },
+      "items.0.name": {
+        "region_id": "p1:r10",
+        "quote": "Valve assembly"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r12",
+        "quote": "2 12.40 24.80"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r12",
+        "quote": "2 12.40 24.80"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r12",
+        "quote": "2 12.40 24.80"
+      },
+      "items.1.name": {
+        "region_id": "p1:r14",
+        "quote": "Valve assembly"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r16",
+        "quote": "5 12.40 62.00"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r16",
+        "quote": "5 12.40 62.00"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r16",
+        "quote": "5 12.40 62.00"
+      },
+      "items.2.name": {
+        "region_id": "p1:r18",
+        "quote": "Steel bracket"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r20",
+        "quote": "12 1,200.50 14,406.00"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r20",
+        "quote": "12 1,200.50 14,406.00"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r20",
+        "quote": "12 1,200.50 14,406.00"
+      },
+      "items.3.name": {
+        "region_id": "p1:r22",
+        "quote": "Steel bracket"
+      },
+      "items.3.quantity": {
+        "region_id": "p1:r24",
+        "quote": "3 12.40 37.20"
+      },
+      "items.3.unit_price": {
+        "region_id": "p1:r24",
+        "quote": "3 12.40 37.20"
+      },
+      "items.3.amount": {
+        "region_id": "p1:r24",
+        "quote": "3 12.40 37.20"
+      },
+      "items.4.name": {
+        "region_id": "p1:r26",
+        "quote": "Copper fitting"
+      },
+      "items.4.quantity": {
+        "region_id": "p1:r28",
+        "quote": "2 1,200.50 2,401.00"
+      },
+      "items.4.unit_price": {
+        "region_id": "p1:r28",
+        "quote": "2 1,200.50 2,401.00"
+      },
+      "items.4.amount": {
+        "region_id": "p1:r28",
+        "quote": "2 1,200.50 2,401.00"
+      },
+      "items.5.name": {
+        "region_id": "p1:r30",
+        "quote": "Steel bracket"
+      },
+      "items.5.quantity": {
+        "region_id": "p1:r32",
+        "quote": "3 12.40 37.20"
+      },
+      "items.5.unit_price": {
+        "region_id": "p1:r32",
+        "quote": "3 12.40 37.20"
+      },
+      "items.5.amount": {
+        "region_id": "p1:r32",
+        "quote": "3 12.40 37.20"
+      },
+      "items.6.name": {
+        "region_id": "p2:r4",
+        "quote": "Calibration service"
+      },
+      "items.6.quantity": {
+        "region_id": "p2:r6",
+        "quote": "2 1.25 2.50"
+      },
+      "items.6.unit_price": {
+        "region_id": "p2:r6",
+        "quote": "2 1.25 2.50"
+      },
+      "items.6.amount": {
+        "region_id": "p2:r6",
+        "quote": "2 1.25 2.50"
+      },
+      "items.7.name": {
+        "region_id": "p2:r8",
+        "quote": "Steel bracket"
+      },
+      "items.7.quantity": {
+        "region_id": "p2:r10",
+        "quote": "40 12.40 496.00"
+      },
+      "items.7.unit_price": {
+        "region_id": "p2:r10",
+        "quote": "40 12.40 496.00"
+      },
+      "items.7.amount": {
+        "region_id": "p2:r10",
+        "quote": "40 12.40 496.00"
+      },
+      "subtotal": {
+        "region_id": "p2:r12",
+        "quote": "Subtotal after line discounts: 17,466.70"
+      },
+      "tax": {
+        "region_id": "p2:r16",
+        "quote": "Tax amount: 1,310.00"
+      },
+      "tax_rate": {
+        "region_id": "p2:r15",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p2:r13",
+        "quote": "Invoice discount: 0.00"
+      },
+      "shipping": {
+        "region_id": "p2:r14",
+        "quote": "Shipping: 0.00"
+      },
+      "total": {
+        "region_id": "p2:r17",
+        "quote": "Grand total: 18,776.70"
+      }
+    }
+  }
+}

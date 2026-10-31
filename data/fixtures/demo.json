@@ -1,0 +1,127 @@
+{
+  "8abd35782e15c44990a06dd614fc95c078f4825a3161f13bd292f83e7e193dfa": {
+    "file": "data/demo/approval.pdf",
+    "draft": {
+      "source_hash": "8abd35782e15c44990a06dd614fc95c078f4825a3161f13bd292f83e7e193dfa",
+      "version": 1,
+      "invoice": {
+        "number": "DEMO-APPROVAL",
+        "vendor": "Summit Manufacturing Co.",
+        "date": "2026-01-20",
+        "due_date": "2026-02-20",
+        "currency": "USD",
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "15",
+            "unit_price": "250",
+            "amount": "3750",
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "10",
+            "unit_price": "500",
+            "amount": "5000",
+            "discount": null
+          },
+          {
+            "name": "GadgetX",
+            "quantity": "3",
+            "unit_price": "750",
+            "amount": "2250",
+            "discount": null
+          }
+        ],
+        "subtotal": "11000",
+        "tax": "0",
+        "tax_rate": null,
+        "discount": null,
+        "shipping": null,
+        "total": "11000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "Invoice number: DEMO-APPROVAL"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Summit Manufacturing Co."
+        },
+        "date": {
+          "region_id": "p1:r4",
+          "quote": "Issued: 2026-01-20"
+        },
+        "due_date": {
+          "region_id": "p1:r5",
+          "quote": "Due date: 2026-02-20"
+        },
+        "currency": {
+          "region_id": "p1:r6",
+          "quote": "Currency: USD"
+        },
+        "items.0.name": {
+          "region_id": "p1:r8",
+          "quote": "WidgetA 15 250.00 3,750.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r8",
+          "quote": "WidgetA 15 250.00 3,750.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r8",
+          "quote": "WidgetA 15 250.00 3,750.00"
+        },
+        "items.0.amount": {
+          "region_id": "p1:r8",
+          "quote": "WidgetA 15 250.00 3,750.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r9",
+          "quote": "WidgetB 10 500.00 5,000.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r9",
+          "quote": "WidgetB 10 500.00 5,000.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r9",
+          "quote": "WidgetB 10 500.00 5,000.00"
+        },
+        "items.1.amount": {
+          "region_id": "p1:r9",
+          "quote": "WidgetB 10 500.00 5,000.00"
+        },
+        "items.2.name": {
+          "region_id": "p1:r10",
+          "quote": "GadgetX 3 750.00 2,250.00"
+        },
+        "items.2.quantity": {
+          "region_id": "p1:r10",
+          "quote": "GadgetX 3 750.00 2,250.00"
+        },
+        "items.2.unit_price": {
+          "region_id": "p1:r10",
+          "quote": "GadgetX 3 750.00 2,250.00"
+        },
+        "items.2.amount": {
+          "region_id": "p1:r10",
+          "quote": "GadgetX 3 750.00 2,250.00"
+        },
+        "subtotal": {
+          "region_id": "p1:r11",
+          "quote": "Subtotal: 11,000.00 USD"
+        },
+        "tax": {
+          "region_id": "p1:r12",
+          "quote": "Tax: 0.00 USD"
+        },
+        "total": {
+          "region_id": "p1:r13",
+          "quote": "Total: 11,000.00 USD"
+        }
+      }
+    }
+  }
+}

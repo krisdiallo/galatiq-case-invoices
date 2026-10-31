@@ -1,0 +1,358 @@
+{
+  "invoice": {
+    "number": "MOCK-07-001",
+    "vendor": "Compact Ledger Supply 01 Ltd.",
+    "date": "2026-03-05",
+    "due_date": "2026-04-04",
+    "currency": "USD",
+    "items": [
+      {
+        "name": "Valve assembly",
+        "quantity": "2",
+        "unit_price": "12.40",
+        "amount": "24.80",
+        "discount": null
+      },
+      {
+        "name": "Valve assembly",
+        "quantity": "5",
+        "unit_price": "12.40",
+        "amount": "62.00",
+        "discount": null
+      },
+      {
+        "name": "Filter cartridge",
+        "quantity": "20",
+        "unit_price": "48.75",
+        "amount": "975.00",
+        "discount": null
+      }
+    ],
+    "subtotal": "1061.80",
+    "tax": "79.64",
+    "tax_rate": "0.075",
+    "discount": "5.00",
+    "shipping": "0",
+    "total": "1136.44"
+  },
+  "anchors": {
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 65.0,
+        "text": "MOCK-07-001"
+      }
+    ],
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 83.0,
+        "text": "Compact Ledger Supply 01 Ltd."
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 101.0,
+        "text": "2026-03-05"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 119.0,
+        "text": "2026-04-04"
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 137.0,
+        "text": "USD"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 202.0,
+        "text": "Valve assembly"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 202.0,
+        "text": "2"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 202.0,
+        "text": "12.40"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 202.0,
+        "text": "24.80"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 220.0,
+        "text": "Valve assembly"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 220.0,
+        "text": "5"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 220.0,
+        "text": "12.40"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 220.0,
+        "text": "62.00"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 238.0,
+        "text": "Filter cartridge"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 238.0,
+        "text": "20"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 238.0,
+        "text": "48.75"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 238.0,
+        "text": "975.00"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 296.0,
+        "text": "1,061.80"
+      }
+    ],
+    "discount": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 314.0,
+        "text": "5.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 332.0,
+        "text": "0.00"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 350.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 368.0,
+        "text": "79.64"
+      }
+    ],
+    "total": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 386.0,
+        "text": "1,136.44"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "6a1130b138e7bbf16a075e4d1b3c1028dbe2d78082c5a25adff6bddf6f2dbdc7",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-07-001",
+      "vendor": "Compact Ledger Supply 01 Ltd.",
+      "date": "2026-03-05",
+      "due_date": "2026-04-04",
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Valve assembly",
+          "quantity": "2",
+          "unit_price": "12.40",
+          "amount": "24.80",
+          "discount": null
+        },
+        {
+          "name": "Valve assembly",
+          "quantity": "5",
+          "unit_price": "12.40",
+          "amount": "62.00",
+          "discount": null
+        },
+        {
+          "name": "Filter cartridge",
+          "quantity": "20",
+          "unit_price": "48.75",
+          "amount": "975.00",
+          "discount": null
+        }
+      ],
+      "subtotal": "1061.80",
+      "tax": "79.64",
+      "tax_rate": "0.075",
+      "discount": "5.00",
+      "shipping": "0",
+      "total": "1136.44"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r3",
+        "quote": "Invoice no.: MOCK-07-001"
+      },
+      "vendor": {
+        "region_id": "p1:r4",
+        "quote": "Supplier: Compact Ledger Supply 01 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r5",
+        "quote": "Issue date: 2026-03-05"
+      },
+      "due_date": {
+        "region_id": "p1:r6",
+        "quote": "Payment due: 2026-04-04"
+      },
+      "currency": {
+        "region_id": "p1:r7",
+        "quote": "Invoice currency (ISO): USD"
+      },
+      "items.0.name": {
+        "region_id": "p1:r10",
+        "quote": "Valve assembly 2 12.40 24.80"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r10",
+        "quote": "Valve assembly 2 12.40 24.80"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r10",
+        "quote": "Valve assembly 2 12.40 24.80"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r10",
+        "quote": "Valve assembly 2 12.40 24.80"
+      },
+      "items.1.name": {
+        "region_id": "p1:r11",
+        "quote": "Valve assembly 5 12.40 62.00"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r11",
+        "quote": "Valve assembly 5 12.40 62.00"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r11",
+        "quote": "Valve assembly 5 12.40 62.00"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r11",
+        "quote": "Valve assembly 5 12.40 62.00"
+      },
+      "items.2.name": {
+        "region_id": "p1:r12",
+        "quote": "Filter cartridge 20 48.75 975.00"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r12",
+        "quote": "Filter cartridge 20 48.75 975.00"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r12",
+        "quote": "Filter cartridge 20 48.75 975.00"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r12",
+        "quote": "Filter cartridge 20 48.75 975.00"
+      },
+      "subtotal": {
+        "region_id": "p1:r14",
+        "quote": "Subtotal after line discounts: 1,061.80"
+      },
+      "tax": {
+        "region_id": "p1:r18",
+        "quote": "Tax amount: 79.64"
+      },
+      "tax_rate": {
+        "region_id": "p1:r17",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p1:r15",
+        "quote": "Invoice discount: 5.00"
+      },
+      "shipping": {
+        "region_id": "p1:r16",
+        "quote": "Shipping: 0.00"
+      },
+      "total": {
+        "region_id": "p1:r19",
+        "quote": "Grand total: 1,136.44"
+      }
+    }
+  }
+}

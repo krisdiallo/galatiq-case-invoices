@@ -1,0 +1,358 @@
+{
+  "invoice": {
+    "number": "MOCK-06-001",
+    "vendor": "Repeated Headers Supply 01 Ltd.",
+    "date": "2026-02-23",
+    "due_date": "2026-03-25",
+    "currency": "USD",
+    "items": [
+      {
+        "name": "Steel bracket",
+        "quantity": "40",
+        "unit_price": "48.75",
+        "amount": "1950.00",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "43",
+        "unit_price": "48.75",
+        "amount": "2096.25",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "20",
+        "unit_price": "1.25",
+        "amount": "25.00",
+        "discount": null
+      }
+    ],
+    "subtotal": "4071.25",
+    "tax": "305.34",
+    "tax_rate": "0.075",
+    "discount": "5.00",
+    "shipping": "0",
+    "total": "4371.59"
+  },
+  "anchors": {
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 65.0,
+        "text": "MOCK-06-001"
+      }
+    ],
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 83.0,
+        "text": "Repeated Headers Supply 01 Ltd."
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 101.0,
+        "text": "2026-02-23"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 119.0,
+        "text": "2026-03-25"
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 137.0,
+        "text": "USD"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 202.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 202.0,
+        "text": "40"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 202.0,
+        "text": "48.75"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 202.0,
+        "text": "1,950.00"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 229.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 229.0,
+        "text": "43"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 229.0,
+        "text": "48.75"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 229.0,
+        "text": "2,096.25"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 256.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 256.0,
+        "text": "20"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 256.0,
+        "text": "1.25"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 256.0,
+        "text": "25.00"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 323.0,
+        "text": "4,071.25"
+      }
+    ],
+    "discount": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 341.0,
+        "text": "5.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 359.0,
+        "text": "0.00"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 377.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 395.0,
+        "text": "305.34"
+      }
+    ],
+    "total": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 413.0,
+        "text": "4,371.59"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "fffcacfc873d683355e0f0e50129413a2ff8ba90645968138c456e19e388ca02",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-06-001",
+      "vendor": "Repeated Headers Supply 01 Ltd.",
+      "date": "2026-02-23",
+      "due_date": "2026-03-25",
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Steel bracket",
+          "quantity": "40",
+          "unit_price": "48.75",
+          "amount": "1950.00",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "43",
+          "unit_price": "48.75",
+          "amount": "2096.25",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "20",
+          "unit_price": "1.25",
+          "amount": "25.00",
+          "discount": null
+        }
+      ],
+      "subtotal": "4071.25",
+      "tax": "305.34",
+      "tax_rate": "0.075",
+      "discount": "5.00",
+      "shipping": "0",
+      "total": "4371.59"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r3",
+        "quote": "Invoice no.: MOCK-06-001"
+      },
+      "vendor": {
+        "region_id": "p1:r4",
+        "quote": "Supplier: Repeated Headers Supply 01 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r5",
+        "quote": "Issue date: 2026-02-23"
+      },
+      "due_date": {
+        "region_id": "p1:r6",
+        "quote": "Payment due: 2026-03-25"
+      },
+      "currency": {
+        "region_id": "p1:r7",
+        "quote": "Invoice currency (ISO): USD"
+      },
+      "items.0.name": {
+        "region_id": "p1:r10",
+        "quote": "Steel bracket 40 48.75 1,950.00"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r10",
+        "quote": "Steel bracket 40 48.75 1,950.00"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r10",
+        "quote": "Steel bracket 40 48.75 1,950.00"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r10",
+        "quote": "Steel bracket 40 48.75 1,950.00"
+      },
+      "items.1.name": {
+        "region_id": "p1:r11",
+        "quote": "Steel bracket 43 48.75 2,096.25"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r11",
+        "quote": "Steel bracket 43 48.75 2,096.25"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r11",
+        "quote": "Steel bracket 43 48.75 2,096.25"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r11",
+        "quote": "Steel bracket 43 48.75 2,096.25"
+      },
+      "items.2.name": {
+        "region_id": "p1:r12",
+        "quote": "Steel bracket 20 1.25 25.00"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r12",
+        "quote": "Steel bracket 20 1.25 25.00"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r12",
+        "quote": "Steel bracket 20 1.25 25.00"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r12",
+        "quote": "Steel bracket 20 1.25 25.00"
+      },
+      "subtotal": {
+        "region_id": "p1:r14",
+        "quote": "Subtotal after line discounts: 4,071.25"
+      },
+      "tax": {
+        "region_id": "p1:r18",
+        "quote": "Tax amount: 305.34"
+      },
+      "tax_rate": {
+        "region_id": "p1:r17",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p1:r15",
+        "quote": "Invoice discount: 5.00"
+      },
+      "shipping": {
+        "region_id": "p1:r16",
+        "quote": "Shipping: 0.00"
+      },
+      "total": {
+        "region_id": "p1:r19",
+        "quote": "Grand total: 4,371.59"
+      }
+    }
+  }
+}

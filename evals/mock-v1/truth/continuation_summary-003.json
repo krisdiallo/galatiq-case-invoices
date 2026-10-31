@@ -1,0 +1,668 @@
+{
+  "invoice": {
+    "number": "MOCK-11-003",
+    "vendor": "Continuation Summary Supply 03 Ltd.",
+    "date": "2026-07-21",
+    "due_date": "2026-08-20",
+    "currency": "GBP",
+    "items": [
+      {
+        "name": "Filter cartridge",
+        "quantity": "3",
+        "unit_price": "1200.50",
+        "amount": "3601.50",
+        "discount": null
+      },
+      {
+        "name": "Filter cartridge",
+        "quantity": "6",
+        "unit_price": "1200.50",
+        "amount": "7203.00",
+        "discount": null
+      },
+      {
+        "name": "Calibration service",
+        "quantity": "7",
+        "unit_price": "12.40",
+        "amount": "86.80",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting",
+        "quantity": "20",
+        "unit_price": "1200.50",
+        "amount": "24010.00",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting",
+        "quantity": "2",
+        "unit_price": "12.40",
+        "amount": "24.80",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting",
+        "quantity": "7",
+        "unit_price": "1.25",
+        "amount": "8.75",
+        "discount": null
+      },
+      {
+        "name": "Filter cartridge",
+        "quantity": "3",
+        "unit_price": "12.40",
+        "amount": "37.20",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting",
+        "quantity": "40",
+        "unit_price": "1.25",
+        "amount": "50.00",
+        "discount": null
+      }
+    ],
+    "subtotal": "35022.05",
+    "tax": "2626.65",
+    "tax_rate": "0.075",
+    "discount": "0",
+    "shipping": "0",
+    "total": "37648.70"
+  },
+  "anchors": {
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 65.0,
+        "text": "MOCK-11-003"
+      }
+    ],
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 83.0,
+        "text": "Continuation Summary Supply 03 Ltd."
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 101.0,
+        "text": "2026-07-21"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 119.0,
+        "text": "2026-08-20"
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 137.0,
+        "text": "GBP"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 202.0,
+        "text": "Filter cartridge"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 202.0,
+        "text": "3"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 202.0,
+        "text": "1,200.50"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 202.0,
+        "text": "3,601.50"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 229.0,
+        "text": "Filter cartridge"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 229.0,
+        "text": "6"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 229.0,
+        "text": "1,200.50"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 229.0,
+        "text": "7,203.00"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 256.0,
+        "text": "Calibration service"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 256.0,
+        "text": "7"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 256.0,
+        "text": "12.40"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 256.0,
+        "text": "86.80"
+      }
+    ],
+    "items.3.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 283.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.3.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 283.0,
+        "text": "20"
+      }
+    ],
+    "items.3.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 283.0,
+        "text": "1,200.50"
+      }
+    ],
+    "items.3.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 283.0,
+        "text": "24,010.00"
+      }
+    ],
+    "items.4.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 310.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.4.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 310.0,
+        "text": "2"
+      }
+    ],
+    "items.4.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 310.0,
+        "text": "12.40"
+      }
+    ],
+    "items.4.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 310.0,
+        "text": "24.80"
+      }
+    ],
+    "items.5.name": [
+      {
+        "page": 2,
+        "x": 40,
+        "top": 87.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.5.quantity": [
+      {
+        "page": 2,
+        "x": 300,
+        "top": 87.0,
+        "text": "7"
+      }
+    ],
+    "items.5.unit_price": [
+      {
+        "page": 2,
+        "x": 355,
+        "top": 87.0,
+        "text": "1.25"
+      }
+    ],
+    "items.5.amount": [
+      {
+        "page": 2,
+        "x": 460,
+        "top": 87.0,
+        "text": "8.75"
+      }
+    ],
+    "items.6.name": [
+      {
+        "page": 2,
+        "x": 40,
+        "top": 114.0,
+        "text": "Filter cartridge"
+      }
+    ],
+    "items.6.quantity": [
+      {
+        "page": 2,
+        "x": 300,
+        "top": 114.0,
+        "text": "3"
+      }
+    ],
+    "items.6.unit_price": [
+      {
+        "page": 2,
+        "x": 355,
+        "top": 114.0,
+        "text": "12.40"
+      }
+    ],
+    "items.6.amount": [
+      {
+        "page": 2,
+        "x": 460,
+        "top": 114.0,
+        "text": "37.20"
+      }
+    ],
+    "items.7.name": [
+      {
+        "page": 2,
+        "x": 40,
+        "top": 141.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.7.quantity": [
+      {
+        "page": 2,
+        "x": 300,
+        "top": 141.0,
+        "text": "40"
+      }
+    ],
+    "items.7.unit_price": [
+      {
+        "page": 2,
+        "x": 355,
+        "top": 141.0,
+        "text": "1.25"
+      }
+    ],
+    "items.7.amount": [
+      {
+        "page": 2,
+        "x": 460,
+        "top": 141.0,
+        "text": "50.00"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 3,
+        "x": 260,
+        "top": 113.0,
+        "text": "35,022.05"
+      }
+    ],
+    "discount": [
+      {
+        "page": 3,
+        "x": 260,
+        "top": 131.0,
+        "text": "0.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 3,
+        "x": 260,
+        "top": 149.0,
+        "text": "0.00"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 3,
+        "x": 260,
+        "top": 167.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 3,
+        "x": 260,
+        "top": 185.0,
+        "text": "2,626.65"
+      }
+    ],
+    "total": [
+      {
+        "page": 3,
+        "x": 260,
+        "top": 203.0,
+        "text": "37,648.70"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "aecc96a8ac7a67f07c8c3e73ebca5876e7197ca56df433883bc66f8fdef31b6a",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-11-003",
+      "vendor": "Continuation Summary Supply 03 Ltd.",
+      "date": "2026-07-21",
+      "due_date": "2026-08-20",
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Filter cartridge",
+          "quantity": "3",
+          "unit_price": "1200.50",
+          "amount": "3601.50",
+          "discount": null
+        },
+        {
+          "name": "Filter cartridge",
+          "quantity": "6",
+          "unit_price": "1200.50",
+          "amount": "7203.00",
+          "discount": null
+        },
+        {
+          "name": "Calibration service",
+          "quantity": "7",
+          "unit_price": "12.40",
+          "amount": "86.80",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting",
+          "quantity": "20",
+          "unit_price": "1200.50",
+          "amount": "24010.00",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting",
+          "quantity": "2",
+          "unit_price": "12.40",
+          "amount": "24.80",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting",
+          "quantity": "7",
+          "unit_price": "1.25",
+          "amount": "8.75",
+          "discount": null
+        },
+        {
+          "name": "Filter cartridge",
+          "quantity": "3",
+          "unit_price": "12.40",
+          "amount": "37.20",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting",
+          "quantity": "40",
+          "unit_price": "1.25",
+          "amount": "50.00",
+          "discount": null
+        }
+      ],
+      "subtotal": "35022.05",
+      "tax": "2626.65",
+      "tax_rate": "0.075",
+      "discount": "0",
+      "shipping": "0",
+      "total": "37648.70"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r3",
+        "quote": "Invoice no.: MOCK-11-003"
+      },
+      "vendor": {
+        "region_id": "p1:r4",
+        "quote": "Supplier: Continuation Summary Supply 03 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r5",
+        "quote": "Issue date: 2026-07-21"
+      },
+      "due_date": {
+        "region_id": "p1:r6",
+        "quote": "Payment due: 2026-08-20"
+      },
+      "currency": {
+        "region_id": "p1:r7",
+        "quote": "Invoice currency (ISO): GBP"
+      },
+      "items.0.name": {
+        "region_id": "p1:r10",
+        "quote": "Filter cartridge 3 1,200.50 3,601.50"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r10",
+        "quote": "Filter cartridge 3 1,200.50 3,601.50"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r10",
+        "quote": "Filter cartridge 3 1,200.50 3,601.50"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r10",
+        "quote": "Filter cartridge 3 1,200.50 3,601.50"
+      },
+      "items.1.name": {
+        "region_id": "p1:r11",
+        "quote": "Filter cartridge 6 1,200.50 7,203.00"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r11",
+        "quote": "Filter cartridge 6 1,200.50 7,203.00"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r11",
+        "quote": "Filter cartridge 6 1,200.50 7,203.00"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r11",
+        "quote": "Filter cartridge 6 1,200.50 7,203.00"
+      },
+      "items.2.name": {
+        "region_id": "p1:r12",
+        "quote": "Calibration service 7 12.40 86.80"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r12",
+        "quote": "Calibration service 7 12.40 86.80"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r12",
+        "quote": "Calibration service 7 12.40 86.80"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r12",
+        "quote": "Calibration service 7 12.40 86.80"
+      },
+      "items.3.name": {
+        "region_id": "p1:r13",
+        "quote": "Copper fitting 20 1,200.50 24,010.00"
+      },
+      "items.3.quantity": {
+        "region_id": "p1:r13",
+        "quote": "Copper fitting 20 1,200.50 24,010.00"
+      },
+      "items.3.unit_price": {
+        "region_id": "p1:r13",
+        "quote": "Copper fitting 20 1,200.50 24,010.00"
+      },
+      "items.3.amount": {
+        "region_id": "p1:r13",
+        "quote": "Copper fitting 20 1,200.50 24,010.00"
+      },
+      "items.4.name": {
+        "region_id": "p1:r14",
+        "quote": "Copper fitting 2 12.40 24.80"
+      },
+      "items.4.quantity": {
+        "region_id": "p1:r14",
+        "quote": "Copper fitting 2 12.40 24.80"
+      },
+      "items.4.unit_price": {
+        "region_id": "p1:r14",
+        "quote": "Copper fitting 2 12.40 24.80"
+      },
+      "items.4.amount": {
+        "region_id": "p1:r14",
+        "quote": "Copper fitting 2 12.40 24.80"
+      },
+      "items.5.name": {
+        "region_id": "p2:r4",
+        "quote": "Copper fitting 7 1.25 8.75"
+      },
+      "items.5.quantity": {
+        "region_id": "p2:r4",
+        "quote": "Copper fitting 7 1.25 8.75"
+      },
+      "items.5.unit_price": {
+        "region_id": "p2:r4",
+        "quote": "Copper fitting 7 1.25 8.75"
+      },
+      "items.5.amount": {
+        "region_id": "p2:r4",
+        "quote": "Copper fitting 7 1.25 8.75"
+      },
+      "items.6.name": {
+        "region_id": "p2:r5",
+        "quote": "Filter cartridge 3 12.40 37.20"
+      },
+      "items.6.quantity": {
+        "region_id": "p2:r5",
+        "quote": "Filter cartridge 3 12.40 37.20"
+      },
+      "items.6.unit_price": {
+        "region_id": "p2:r5",
+        "quote": "Filter cartridge 3 12.40 37.20"
+      },
+      "items.6.amount": {
+        "region_id": "p2:r5",
+        "quote": "Filter cartridge 3 12.40 37.20"
+      },
+      "items.7.name": {
+        "region_id": "p2:r6",
+        "quote": "Copper fitting 40 1.25 50.00"
+      },
+      "items.7.quantity": {
+        "region_id": "p2:r6",
+        "quote": "Copper fitting 40 1.25 50.00"
+      },
+      "items.7.unit_price": {
+        "region_id": "p2:r6",
+        "quote": "Copper fitting 40 1.25 50.00"
+      },
+      "items.7.amount": {
+        "region_id": "p2:r6",
+        "quote": "Copper fitting 40 1.25 50.00"
+      },
+      "subtotal": {
+        "region_id": "p3:r5",
+        "quote": "Subtotal after line discounts: 35,022.05"
+      },
+      "tax": {
+        "region_id": "p3:r9",
+        "quote": "Tax amount: 2,626.65"
+      },
+      "tax_rate": {
+        "region_id": "p3:r8",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p3:r6",
+        "quote": "Invoice discount: 0.00"
+      },
+      "shipping": {
+        "region_id": "p3:r7",
+        "quote": "Shipping: 0.00"
+      },
+      "total": {
+        "region_id": "p3:r10",
+        "quote": "Grand total: 37,648.70"
+      }
+    }
+  }
+}

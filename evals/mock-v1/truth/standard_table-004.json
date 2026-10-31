@@ -1,0 +1,1040 @@
+{
+  "invoice": {
+    "number": "MOCK-01-004",
+    "vendor": "Standard Table Supply 04 Ltd.",
+    "date": "2026-08-13",
+    "due_date": "2026-09-12",
+    "currency": "CAD",
+    "items": [
+      {
+        "name": "Filter cartridge",
+        "quantity": "12.25",
+        "unit_price": "48.75",
+        "amount": "597.19",
+        "discount": null
+      },
+      {
+        "name": "Filter cartridge",
+        "quantity": "15.25",
+        "unit_price": "1.25",
+        "amount": "19.06",
+        "discount": null
+      },
+      {
+        "name": "Valve assembly",
+        "quantity": "7.25",
+        "unit_price": "125.00",
+        "amount": "906.25",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting",
+        "quantity": "12.25",
+        "unit_price": "1200.50",
+        "amount": "14706.13",
+        "discount": null
+      },
+      {
+        "name": "Calibration service",
+        "quantity": "2.25",
+        "unit_price": "1.25",
+        "amount": "2.81",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "40.25",
+        "unit_price": "125.00",
+        "amount": "5031.25",
+        "discount": null
+      },
+      {
+        "name": "Valve assembly",
+        "quantity": "2.25",
+        "unit_price": "1200.50",
+        "amount": "2701.13",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "7.25",
+        "unit_price": "1200.50",
+        "amount": "8703.63",
+        "discount": null
+      },
+      {
+        "name": "Filter cartridge",
+        "quantity": "3.25",
+        "unit_price": "12.40",
+        "amount": "40.30",
+        "discount": null
+      },
+      {
+        "name": "Valve assembly",
+        "quantity": "12.25",
+        "unit_price": "1200.50",
+        "amount": "14706.13",
+        "discount": null
+      },
+      {
+        "name": "Calibration service",
+        "quantity": "40.25",
+        "unit_price": "1200.50",
+        "amount": "48320.13",
+        "discount": null
+      },
+      {
+        "name": "Calibration service",
+        "quantity": "3.25",
+        "unit_price": "48.75",
+        "amount": "158.44",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "2.25",
+        "unit_price": "125.00",
+        "amount": "281.25",
+        "discount": null
+      },
+      {
+        "name": "Valve assembly",
+        "quantity": "7.25",
+        "unit_price": "12.40",
+        "amount": "89.90",
+        "discount": null
+      }
+    ],
+    "subtotal": "96263.60",
+    "tax": "7219.77",
+    "tax_rate": "0.075",
+    "discount": "5.00",
+    "shipping": "18.50",
+    "total": "103496.87"
+  },
+  "anchors": {
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 65.0,
+        "text": "MOCK-01-004"
+      }
+    ],
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 83.0,
+        "text": "Standard Table Supply 04 Ltd."
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 101.0,
+        "text": "2026-08-13"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 119.0,
+        "text": "2026-09-12"
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 137.0,
+        "text": "CAD"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 202.0,
+        "text": "Filter cartridge"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 202.0,
+        "text": "12.25"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 202.0,
+        "text": "48.75"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 202.0,
+        "text": "597.19"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 229.0,
+        "text": "Filter cartridge"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 229.0,
+        "text": "15.25"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 229.0,
+        "text": "1.25"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 229.0,
+        "text": "19.06"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 256.0,
+        "text": "Valve assembly"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 256.0,
+        "text": "7.25"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 256.0,
+        "text": "125.00"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 256.0,
+        "text": "906.25"
+      }
+    ],
+    "items.3.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 283.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.3.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 283.0,
+        "text": "12.25"
+      }
+    ],
+    "items.3.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 283.0,
+        "text": "1200.50"
+      }
+    ],
+    "items.3.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 283.0,
+        "text": "14706.13"
+      }
+    ],
+    "items.4.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 310.0,
+        "text": "Calibration service"
+      }
+    ],
+    "items.4.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 310.0,
+        "text": "2.25"
+      }
+    ],
+    "items.4.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 310.0,
+        "text": "1.25"
+      }
+    ],
+    "items.4.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 310.0,
+        "text": "2.81"
+      }
+    ],
+    "items.5.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 337.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.5.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 337.0,
+        "text": "40.25"
+      }
+    ],
+    "items.5.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 337.0,
+        "text": "125.00"
+      }
+    ],
+    "items.5.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 337.0,
+        "text": "5031.25"
+      }
+    ],
+    "items.6.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 364.0,
+        "text": "Valve assembly"
+      }
+    ],
+    "items.6.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 364.0,
+        "text": "2.25"
+      }
+    ],
+    "items.6.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 364.0,
+        "text": "1200.50"
+      }
+    ],
+    "items.6.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 364.0,
+        "text": "2701.13"
+      }
+    ],
+    "items.7.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 391.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.7.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 391.0,
+        "text": "7.25"
+      }
+    ],
+    "items.7.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 391.0,
+        "text": "1200.50"
+      }
+    ],
+    "items.7.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 391.0,
+        "text": "8703.63"
+      }
+    ],
+    "items.8.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 418.0,
+        "text": "Filter cartridge"
+      }
+    ],
+    "items.8.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 418.0,
+        "text": "3.25"
+      }
+    ],
+    "items.8.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 418.0,
+        "text": "12.40"
+      }
+    ],
+    "items.8.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 418.0,
+        "text": "40.30"
+      }
+    ],
+    "items.9.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 445.0,
+        "text": "Valve assembly"
+      }
+    ],
+    "items.9.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 445.0,
+        "text": "12.25"
+      }
+    ],
+    "items.9.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 445.0,
+        "text": "1200.50"
+      }
+    ],
+    "items.9.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 445.0,
+        "text": "14706.13"
+      }
+    ],
+    "items.10.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 472.0,
+        "text": "Calibration service"
+      }
+    ],
+    "items.10.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 472.0,
+        "text": "40.25"
+      }
+    ],
+    "items.10.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 472.0,
+        "text": "1200.50"
+      }
+    ],
+    "items.10.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 472.0,
+        "text": "48320.13"
+      }
+    ],
+    "items.11.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 499.0,
+        "text": "Calibration service"
+      }
+    ],
+    "items.11.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 499.0,
+        "text": "3.25"
+      }
+    ],
+    "items.11.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 499.0,
+        "text": "48.75"
+      }
+    ],
+    "items.11.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 499.0,
+        "text": "158.44"
+      }
+    ],
+    "items.12.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 526.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.12.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 526.0,
+        "text": "2.25"
+      }
+    ],
+    "items.12.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 526.0,
+        "text": "125.00"
+      }
+    ],
+    "items.12.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 526.0,
+        "text": "281.25"
+      }
+    ],
+    "items.13.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 553.0,
+        "text": "Valve assembly"
+      }
+    ],
+    "items.13.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 553.0,
+        "text": "7.25"
+      }
+    ],
+    "items.13.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 553.0,
+        "text": "12.40"
+      }
+    ],
+    "items.13.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 553.0,
+        "text": "89.90"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 620.0,
+        "text": "96263.60"
+      }
+    ],
+    "discount": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 638.0,
+        "text": "5.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 656.0,
+        "text": "18.50"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 674.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 692.0,
+        "text": "7219.77"
+      }
+    ],
+    "total": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 710.0,
+        "text": "103496.87"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "dab4f9cf72169fcc4816a96bc2372e11f77c7348b4c0705a005e796331a2af8f",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-01-004",
+      "vendor": "Standard Table Supply 04 Ltd.",
+      "date": "2026-08-13",
+      "due_date": "2026-09-12",
+      "currency": "CAD",
+      "items": [
+        {
+          "name": "Filter cartridge",
+          "quantity": "12.25",
+          "unit_price": "48.75",
+          "amount": "597.19",
+          "discount": null
+        },
+        {
+          "name": "Filter cartridge",
+          "quantity": "15.25",
+          "unit_price": "1.25",
+          "amount": "19.06",
+          "discount": null
+        },
+        {
+          "name": "Valve assembly",
+          "quantity": "7.25",
+          "unit_price": "125.00",
+          "amount": "906.25",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting",
+          "quantity": "12.25",
+          "unit_price": "1200.50",
+          "amount": "14706.13",
+          "discount": null
+        },
+        {
+          "name": "Calibration service",
+          "quantity": "2.25",
+          "unit_price": "1.25",
+          "amount": "2.81",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "40.25",
+          "unit_price": "125.00",
+          "amount": "5031.25",
+          "discount": null
+        },
+        {
+          "name": "Valve assembly",
+          "quantity": "2.25",
+          "unit_price": "1200.50",
+          "amount": "2701.13",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "7.25",
+          "unit_price": "1200.50",
+          "amount": "8703.63",
+          "discount": null
+        },
+        {
+          "name": "Filter cartridge",
+          "quantity": "3.25",
+          "unit_price": "12.40",
+          "amount": "40.30",
+          "discount": null
+        },
+        {
+          "name": "Valve assembly",
+          "quantity": "12.25",
+          "unit_price": "1200.50",
+          "amount": "14706.13",
+          "discount": null
+        },
+        {
+          "name": "Calibration service",
+          "quantity": "40.25",
+          "unit_price": "1200.50",
+          "amount": "48320.13",
+          "discount": null
+        },
+        {
+          "name": "Calibration service",
+          "quantity": "3.25",
+          "unit_price": "48.75",
+          "amount": "158.44",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "2.25",
+          "unit_price": "125.00",
+          "amount": "281.25",
+          "discount": null
+        },
+        {
+          "name": "Valve assembly",
+          "quantity": "7.25",
+          "unit_price": "12.40",
+          "amount": "89.90",
+          "discount": null
+        }
+      ],
+      "subtotal": "96263.60",
+      "tax": "7219.77",
+      "tax_rate": "0.075",
+      "discount": "5.00",
+      "shipping": "18.50",
+      "total": "103496.87"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r3",
+        "quote": "Invoice no.: MOCK-01-004"
+      },
+      "vendor": {
+        "region_id": "p1:r4",
+        "quote": "Supplier: Standard Table Supply 04 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r5",
+        "quote": "Issue date: 2026-08-13"
+      },
+      "due_date": {
+        "region_id": "p1:r6",
+        "quote": "Payment due: 2026-09-12"
+      },
+      "currency": {
+        "region_id": "p1:r7",
+        "quote": "Invoice currency (ISO): CAD"
+      },
+      "items.0.name": {
+        "region_id": "p1:r10",
+        "quote": "Filter cartridge 12.25 48.75 597.19"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r10",
+        "quote": "Filter cartridge 12.25 48.75 597.19"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r10",
+        "quote": "Filter cartridge 12.25 48.75 597.19"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r10",
+        "quote": "Filter cartridge 12.25 48.75 597.19"
+      },
+      "items.1.name": {
+        "region_id": "p1:r11",
+        "quote": "Filter cartridge 15.25 1.25 19.06"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r11",
+        "quote": "Filter cartridge 15.25 1.25 19.06"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r11",
+        "quote": "Filter cartridge 15.25 1.25 19.06"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r11",
+        "quote": "Filter cartridge 15.25 1.25 19.06"
+      },
+      "items.2.name": {
+        "region_id": "p1:r12",
+        "quote": "Valve assembly 7.25 125.00 906.25"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r12",
+        "quote": "Valve assembly 7.25 125.00 906.25"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r12",
+        "quote": "Valve assembly 7.25 125.00 906.25"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r12",
+        "quote": "Valve assembly 7.25 125.00 906.25"
+      },
+      "items.3.name": {
+        "region_id": "p1:r13",
+        "quote": "Copper fitting 12.25 1200.50 14706.13"
+      },
+      "items.3.quantity": {
+        "region_id": "p1:r13",
+        "quote": "Copper fitting 12.25 1200.50 14706.13"
+      },
+      "items.3.unit_price": {
+        "region_id": "p1:r13",
+        "quote": "Copper fitting 12.25 1200.50 14706.13"
+      },
+      "items.3.amount": {
+        "region_id": "p1:r13",
+        "quote": "Copper fitting 12.25 1200.50 14706.13"
+      },
+      "items.4.name": {
+        "region_id": "p1:r14",
+        "quote": "Calibration service 2.25 1.25 2.81"
+      },
+      "items.4.quantity": {
+        "region_id": "p1:r14",
+        "quote": "Calibration service 2.25 1.25 2.81"
+      },
+      "items.4.unit_price": {
+        "region_id": "p1:r14",
+        "quote": "Calibration service 2.25 1.25 2.81"
+      },
+      "items.4.amount": {
+        "region_id": "p1:r14",
+        "quote": "Calibration service 2.25 1.25 2.81"
+      },
+      "items.5.name": {
+        "region_id": "p1:r15",
+        "quote": "Steel bracket 40.25 125.00 5031.25"
+      },
+      "items.5.quantity": {
+        "region_id": "p1:r15",
+        "quote": "Steel bracket 40.25 125.00 5031.25"
+      },
+      "items.5.unit_price": {
+        "region_id": "p1:r15",
+        "quote": "Steel bracket 40.25 125.00 5031.25"
+      },
+      "items.5.amount": {
+        "region_id": "p1:r15",
+        "quote": "Steel bracket 40.25 125.00 5031.25"
+      },
+      "items.6.name": {
+        "region_id": "p1:r16",
+        "quote": "Valve assembly 2.25 1200.50 2701.13"
+      },
+      "items.6.quantity": {
+        "region_id": "p1:r16",
+        "quote": "Valve assembly 2.25 1200.50 2701.13"
+      },
+      "items.6.unit_price": {
+        "region_id": "p1:r16",
+        "quote": "Valve assembly 2.25 1200.50 2701.13"
+      },
+      "items.6.amount": {
+        "region_id": "p1:r16",
+        "quote": "Valve assembly 2.25 1200.50 2701.13"
+      },
+      "items.7.name": {
+        "region_id": "p1:r17",
+        "quote": "Steel bracket 7.25 1200.50 8703.63"
+      },
+      "items.7.quantity": {
+        "region_id": "p1:r17",
+        "quote": "Steel bracket 7.25 1200.50 8703.63"
+      },
+      "items.7.unit_price": {
+        "region_id": "p1:r17",
+        "quote": "Steel bracket 7.25 1200.50 8703.63"
+      },
+      "items.7.amount": {
+        "region_id": "p1:r17",
+        "quote": "Steel bracket 7.25 1200.50 8703.63"
+      },
+      "items.8.name": {
+        "region_id": "p1:r18",
+        "quote": "Filter cartridge 3.25 12.40 40.30"
+      },
+      "items.8.quantity": {
+        "region_id": "p1:r18",
+        "quote": "Filter cartridge 3.25 12.40 40.30"
+      },
+      "items.8.unit_price": {
+        "region_id": "p1:r18",
+        "quote": "Filter cartridge 3.25 12.40 40.30"
+      },
+      "items.8.amount": {
+        "region_id": "p1:r18",
+        "quote": "Filter cartridge 3.25 12.40 40.30"
+      },
+      "items.9.name": {
+        "region_id": "p1:r19",
+        "quote": "Valve assembly 12.25 1200.50 14706.13"
+      },
+      "items.9.quantity": {
+        "region_id": "p1:r19",
+        "quote": "Valve assembly 12.25 1200.50 14706.13"
+      },
+      "items.9.unit_price": {
+        "region_id": "p1:r19",
+        "quote": "Valve assembly 12.25 1200.50 14706.13"
+      },
+      "items.9.amount": {
+        "region_id": "p1:r19",
+        "quote": "Valve assembly 12.25 1200.50 14706.13"
+      },
+      "items.10.name": {
+        "region_id": "p1:r20",
+        "quote": "Calibration service 40.25 1200.50 48320.13"
+      },
+      "items.10.quantity": {
+        "region_id": "p1:r20",
+        "quote": "Calibration service 40.25 1200.50 48320.13"
+      },
+      "items.10.unit_price": {
+        "region_id": "p1:r20",
+        "quote": "Calibration service 40.25 1200.50 48320.13"
+      },
+      "items.10.amount": {
+        "region_id": "p1:r20",
+        "quote": "Calibration service 40.25 1200.50 48320.13"
+      },
+      "items.11.name": {
+        "region_id": "p1:r21",
+        "quote": "Calibration service 3.25 48.75 158.44"
+      },
+      "items.11.quantity": {
+        "region_id": "p1:r21",
+        "quote": "Calibration service 3.25 48.75 158.44"
+      },
+      "items.11.unit_price": {
+        "region_id": "p1:r21",
+        "quote": "Calibration service 3.25 48.75 158.44"
+      },
+      "items.11.amount": {
+        "region_id": "p1:r21",
+        "quote": "Calibration service 3.25 48.75 158.44"
+      },
+      "items.12.name": {
+        "region_id": "p1:r22",
+        "quote": "Steel bracket 2.25 125.00 281.25"
+      },
+      "items.12.quantity": {
+        "region_id": "p1:r22",
+        "quote": "Steel bracket 2.25 125.00 281.25"
+      },
+      "items.12.unit_price": {
+        "region_id": "p1:r22",
+        "quote": "Steel bracket 2.25 125.00 281.25"
+      },
+      "items.12.amount": {
+        "region_id": "p1:r22",
+        "quote": "Steel bracket 2.25 125.00 281.25"
+      },
+      "items.13.name": {
+        "region_id": "p1:r23",
+        "quote": "Valve assembly 7.25 12.40 89.90"
+      },
+      "items.13.quantity": {
+        "region_id": "p1:r23",
+        "quote": "Valve assembly 7.25 12.40 89.90"
+      },
+      "items.13.unit_price": {
+        "region_id": "p1:r23",
+        "quote": "Valve assembly 7.25 12.40 89.90"
+      },
+      "items.13.amount": {
+        "region_id": "p1:r23",
+        "quote": "Valve assembly 7.25 12.40 89.90"
+      },
+      "subtotal": {
+        "region_id": "p1:r25",
+        "quote": "Subtotal after line discounts: 96263.60"
+      },
+      "tax": {
+        "region_id": "p1:r29",
+        "quote": "Tax amount: 7219.77"
+      },
+      "tax_rate": {
+        "region_id": "p1:r28",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p1:r26",
+        "quote": "Invoice discount: 5.00"
+      },
+      "shipping": {
+        "region_id": "p1:r27",
+        "quote": "Shipping: 18.50"
+      },
+      "total": {
+        "region_id": "p1:r30",
+        "quote": "Grand total: 103496.87"
+      }
+    }
+  }
+}

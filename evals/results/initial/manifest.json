@@ -1,0 +1,60 @@
+{
+  "started_at": "2026-10-31T18:52:35.694467+00:00",
+  "providers": {
+    "grok": [
+      "grok-4.20-0309-non-reasoning",
+      "https://api.x.ai/v1"
+    ],
+    "openai": [
+      "gpt-4.1-mini-2025-04-14",
+      "https://api.openai.com/v1"
+    ],
+    "claude": [
+      "claude-haiku-4-5-20251001",
+      "https://api.anthropic.com/v1"
+    ]
+  },
+  "case_ids": [
+    "invoice_1001.txt:clean",
+    "invoice_1001.txt:quantity",
+    "invoice_1001.txt:omitted_line",
+    "invoice_1001.txt:wrong_citation",
+    "invoice_1001.txt:vendor",
+    "invoice_1001.txt:consistent_wrong_numbers",
+    "invoice_1004.json:clean",
+    "invoice_1004.json:quantity",
+    "invoice_1004.json:omitted_line",
+    "invoice_1004.json:wrong_citation",
+    "invoice_1004.json:vendor",
+    "invoice_1004.json:consistent_wrong_numbers",
+    "invoice_1011.pdf:clean",
+    "invoice_1011.pdf:quantity",
+    "invoice_1011.pdf:omitted_line",
+    "invoice_1011.pdf:wrong_citation",
+    "invoice_1011.pdf:vendor",
+    "invoice_1011.pdf:consistent_wrong_numbers"
+  ],
+  "case_file_sha256": "e8ad948c0e2bef8baecd36df07279685e8ad0e722a923b7629d6937aa1c2e926",
+  "code_sha256": {
+    "invoices/__init__.py": "a3e36ad1d0de4e7658f3d461f11f6ae3afb130a7657dc23cd5f4c39cd5f37b6a",
+    "invoices/agents.py": "a8e99018390543986acfeb92192155c8ddf0b6f0ba585e0de205fe30bab5bd07",
+    "invoices/cli.py": "3235235e207978541da40db1dccf1d6eb8709fe05f5cdefe76e683e28245a54e",
+    "invoices/evaluation.py": "b8129bcc84039e834f88cb6b6d57897524ee2a0091b661de214309d0f0f03882",
+    "invoices/models.py": "280751ff8c6a427441b747b377f2b461b821b891e634e080da6f116652c44d6f",
+    "invoices/pipeline.py": "e751b96ce4d223658095fb977c73fd76d82f98b2a78e96f8b3f86b2641e04ee9",
+    "invoices/providers.py": "ebec5cdca733a67d567c4176ff87ec129194ffbd5616cf5d7e12915159d97a89",
+    "invoices/review.py": "54720d2ca5e06f27212c165e48d8f799e6ac2d6ce296644968d98bdfd03ba4b8",
+    "invoices/rules.py": "5d565f8abc1ef7c20853248b34fdaad7eef6fb472f002f94fe2c8c9c87ae1049",
+    "invoices/source.py": "a1c6a900589554ddd1eef7e5394c4dc63fa0b21ed5b33575c6305311758ea609",
+    "invoices/store.py": "6f5612e4c21eefa6d2b422c8f5f0eefc7955b84990d02d08bee9a36ce3328a14",
+    "invoices/tui.py": "064ab052316ea6a4173ecd7e9252aa89868227184a0a92cefb9aa4eddbc8e531",
+    "invoices/verification.py": "56bab7b271dd1ed7811f7cf4e60d0c17a20538ba11c9424a408e44de588288d6"
+  },
+  "workers": 6,
+  "repeats": 1,
+  "with_revision": false,
+  "positive_definition": "verified extraction",
+  "label_statuses": [
+    "development_reference_source_audited_not_independent_human_gold"
+  ]
+}

@@ -1,0 +1,3458 @@
+[
+  {
+    "id": "invoice_1001.txt:clean",
+    "source": "data/invoices/invoice_1001.txt",
+    "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+    "group": "INV-1001",
+    "split": "dev",
+    "kind": "clean",
+    "correct": true,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1001",
+        "vendor": "Widgets Inc.",
+        "date": "2026-01-15",
+        "due_date": "2026-02-01",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "10",
+            "unit_price": "250",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "5",
+            "unit_price": "500",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "5000",
+        "tax": "0",
+        "tax_rate": "0",
+        "discount": null,
+        "shipping": null,
+        "total": "5000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r4",
+          "quote": "Invoice Number: INV-1001"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Widgets Inc."
+        },
+        "date": {
+          "region_id": "p1:r5",
+          "quote": "Date: 2026-01-15"
+        },
+        "due_date": {
+          "region_id": "p1:r6",
+          "quote": "Due Date: 2026-02-01"
+        },
+        "items.0.name": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "subtotal": {
+          "region_id": "p1:r12",
+          "quote": "Subtotal: $5,000.00"
+        },
+        "tax": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "tax_rate": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "total": {
+          "region_id": "p1:r14",
+          "quote": "Total Amount: $5,000.00"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1001",
+        "vendor": "Widgets Inc.",
+        "date": "2026-01-15",
+        "due_date": "2026-02-01",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "10",
+            "unit_price": "250",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "5",
+            "unit_price": "500",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "5000",
+        "tax": "0",
+        "tax_rate": "0",
+        "discount": null,
+        "shipping": null,
+        "total": "5000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r4",
+          "quote": "Invoice Number: INV-1001"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Widgets Inc."
+        },
+        "date": {
+          "region_id": "p1:r5",
+          "quote": "Date: 2026-01-15"
+        },
+        "due_date": {
+          "region_id": "p1:r6",
+          "quote": "Due Date: 2026-02-01"
+        },
+        "items.0.name": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "subtotal": {
+          "region_id": "p1:r12",
+          "quote": "Subtotal: $5,000.00"
+        },
+        "tax": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "tax_rate": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "total": {
+          "region_id": "p1:r14",
+          "quote": "Total Amount: $5,000.00"
+        }
+      }
+    },
+    "error_fields": []
+  },
+  {
+    "id": "invoice_1001.txt:quantity",
+    "source": "data/invoices/invoice_1001.txt",
+    "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+    "group": "INV-1001",
+    "split": "dev",
+    "kind": "quantity",
+    "correct": false,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1001",
+        "vendor": "Widgets Inc.",
+        "date": "2026-01-15",
+        "due_date": "2026-02-01",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "10",
+            "unit_price": "250",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "5",
+            "unit_price": "500",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "5000",
+        "tax": "0",
+        "tax_rate": "0",
+        "discount": null,
+        "shipping": null,
+        "total": "5000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r4",
+          "quote": "Invoice Number: INV-1001"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Widgets Inc."
+        },
+        "date": {
+          "region_id": "p1:r5",
+          "quote": "Date: 2026-01-15"
+        },
+        "due_date": {
+          "region_id": "p1:r6",
+          "quote": "Due Date: 2026-02-01"
+        },
+        "items.0.name": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "subtotal": {
+          "region_id": "p1:r12",
+          "quote": "Subtotal: $5,000.00"
+        },
+        "tax": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "tax_rate": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "total": {
+          "region_id": "p1:r14",
+          "quote": "Total Amount: $5,000.00"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1001",
+        "vendor": "Widgets Inc.",
+        "date": "2026-01-15",
+        "due_date": "2026-02-01",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "2",
+            "unit_price": "250",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "5",
+            "unit_price": "500",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "5000",
+        "tax": "0",
+        "tax_rate": "0",
+        "discount": null,
+        "shipping": null,
+        "total": "5000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r4",
+          "quote": "Invoice Number: INV-1001"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Widgets Inc."
+        },
+        "date": {
+          "region_id": "p1:r5",
+          "quote": "Date: 2026-01-15"
+        },
+        "due_date": {
+          "region_id": "p1:r6",
+          "quote": "Due Date: 2026-02-01"
+        },
+        "items.0.name": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "subtotal": {
+          "region_id": "p1:r12",
+          "quote": "Subtotal: $5,000.00"
+        },
+        "tax": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "tax_rate": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "total": {
+          "region_id": "p1:r14",
+          "quote": "Total Amount: $5,000.00"
+        }
+      }
+    },
+    "error_fields": [
+      "items.0.quantity"
+    ]
+  },
+  {
+    "id": "invoice_1001.txt:omitted_line",
+    "source": "data/invoices/invoice_1001.txt",
+    "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+    "group": "INV-1001",
+    "split": "dev",
+    "kind": "omitted_line",
+    "correct": false,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1001",
+        "vendor": "Widgets Inc.",
+        "date": "2026-01-15",
+        "due_date": "2026-02-01",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "10",
+            "unit_price": "250",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "5",
+            "unit_price": "500",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "5000",
+        "tax": "0",
+        "tax_rate": "0",
+        "discount": null,
+        "shipping": null,
+        "total": "5000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r4",
+          "quote": "Invoice Number: INV-1001"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Widgets Inc."
+        },
+        "date": {
+          "region_id": "p1:r5",
+          "quote": "Date: 2026-01-15"
+        },
+        "due_date": {
+          "region_id": "p1:r6",
+          "quote": "Due Date: 2026-02-01"
+        },
+        "items.0.name": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "subtotal": {
+          "region_id": "p1:r12",
+          "quote": "Subtotal: $5,000.00"
+        },
+        "tax": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "tax_rate": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "total": {
+          "region_id": "p1:r14",
+          "quote": "Total Amount: $5,000.00"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1001",
+        "vendor": "Widgets Inc.",
+        "date": "2026-01-15",
+        "due_date": "2026-02-01",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "10",
+            "unit_price": "250",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "5000",
+        "tax": "0",
+        "tax_rate": "0",
+        "discount": null,
+        "shipping": null,
+        "total": "5000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r4",
+          "quote": "Invoice Number: INV-1001"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Widgets Inc."
+        },
+        "date": {
+          "region_id": "p1:r5",
+          "quote": "Date: 2026-01-15"
+        },
+        "due_date": {
+          "region_id": "p1:r6",
+          "quote": "Due Date: 2026-02-01"
+        },
+        "items.0.name": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "subtotal": {
+          "region_id": "p1:r12",
+          "quote": "Subtotal: $5,000.00"
+        },
+        "tax": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "tax_rate": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "total": {
+          "region_id": "p1:r14",
+          "quote": "Total Amount: $5,000.00"
+        }
+      }
+    },
+    "error_fields": [
+      "items.1.name",
+      "items.1.quantity",
+      "items.1.unit_price"
+    ]
+  },
+  {
+    "id": "invoice_1001.txt:wrong_citation",
+    "source": "data/invoices/invoice_1001.txt",
+    "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+    "group": "INV-1001",
+    "split": "dev",
+    "kind": "wrong_citation",
+    "correct": false,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1001",
+        "vendor": "Widgets Inc.",
+        "date": "2026-01-15",
+        "due_date": "2026-02-01",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "10",
+            "unit_price": "250",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "5",
+            "unit_price": "500",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "5000",
+        "tax": "0",
+        "tax_rate": "0",
+        "discount": null,
+        "shipping": null,
+        "total": "5000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r4",
+          "quote": "Invoice Number: INV-1001"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Widgets Inc."
+        },
+        "date": {
+          "region_id": "p1:r5",
+          "quote": "Date: 2026-01-15"
+        },
+        "due_date": {
+          "region_id": "p1:r6",
+          "quote": "Due Date: 2026-02-01"
+        },
+        "items.0.name": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "subtotal": {
+          "region_id": "p1:r12",
+          "quote": "Subtotal: $5,000.00"
+        },
+        "tax": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "tax_rate": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "total": {
+          "region_id": "p1:r14",
+          "quote": "Total Amount: $5,000.00"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1001",
+        "vendor": "Widgets Inc.",
+        "date": "2026-01-15",
+        "due_date": "2026-02-01",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "10",
+            "unit_price": "250",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "5",
+            "unit_price": "500",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "5000",
+        "tax": "0",
+        "tax_rate": "0",
+        "discount": null,
+        "shipping": null,
+        "total": "5000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r4",
+          "quote": "Invoice Number: INV-1001"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Widgets Inc."
+        },
+        "date": {
+          "region_id": "p1:r5",
+          "quote": "Date: 2026-01-15"
+        },
+        "due_date": {
+          "region_id": "p1:r6",
+          "quote": "Due Date: 2026-02-01"
+        },
+        "items.0.name": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r14",
+          "quote": "Total Amount: $5,000.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "subtotal": {
+          "region_id": "p1:r12",
+          "quote": "Subtotal: $5,000.00"
+        },
+        "tax": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "tax_rate": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "total": {
+          "region_id": "p1:r14",
+          "quote": "Total Amount: $5,000.00"
+        }
+      }
+    },
+    "error_fields": [
+      "items.0.quantity"
+    ]
+  },
+  {
+    "id": "invoice_1001.txt:vendor",
+    "source": "data/invoices/invoice_1001.txt",
+    "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+    "group": "INV-1001",
+    "split": "dev",
+    "kind": "vendor",
+    "correct": false,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1001",
+        "vendor": "Widgets Inc.",
+        "date": "2026-01-15",
+        "due_date": "2026-02-01",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "10",
+            "unit_price": "250",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "5",
+            "unit_price": "500",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "5000",
+        "tax": "0",
+        "tax_rate": "0",
+        "discount": null,
+        "shipping": null,
+        "total": "5000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r4",
+          "quote": "Invoice Number: INV-1001"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Widgets Inc."
+        },
+        "date": {
+          "region_id": "p1:r5",
+          "quote": "Date: 2026-01-15"
+        },
+        "due_date": {
+          "region_id": "p1:r6",
+          "quote": "Due Date: 2026-02-01"
+        },
+        "items.0.name": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "subtotal": {
+          "region_id": "p1:r12",
+          "quote": "Subtotal: $5,000.00"
+        },
+        "tax": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "tax_rate": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "total": {
+          "region_id": "p1:r14",
+          "quote": "Total Amount: $5,000.00"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1001",
+        "vendor": "Incorrect Vendor Ltd.",
+        "date": "2026-01-15",
+        "due_date": "2026-02-01",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "10",
+            "unit_price": "250",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "5",
+            "unit_price": "500",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "5000",
+        "tax": "0",
+        "tax_rate": "0",
+        "discount": null,
+        "shipping": null,
+        "total": "5000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r4",
+          "quote": "Invoice Number: INV-1001"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Widgets Inc."
+        },
+        "date": {
+          "region_id": "p1:r5",
+          "quote": "Date: 2026-01-15"
+        },
+        "due_date": {
+          "region_id": "p1:r6",
+          "quote": "Due Date: 2026-02-01"
+        },
+        "items.0.name": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "subtotal": {
+          "region_id": "p1:r12",
+          "quote": "Subtotal: $5,000.00"
+        },
+        "tax": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "tax_rate": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "total": {
+          "region_id": "p1:r14",
+          "quote": "Total Amount: $5,000.00"
+        }
+      }
+    },
+    "error_fields": [
+      "vendor"
+    ]
+  },
+  {
+    "id": "invoice_1001.txt:consistent_wrong_numbers",
+    "source": "data/invoices/invoice_1001.txt",
+    "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+    "group": "INV-1001",
+    "split": "dev",
+    "kind": "consistent_wrong_numbers",
+    "correct": false,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1001",
+        "vendor": "Widgets Inc.",
+        "date": "2026-01-15",
+        "due_date": "2026-02-01",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "10",
+            "unit_price": "250",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "5",
+            "unit_price": "500",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "5000",
+        "tax": "0",
+        "tax_rate": "0",
+        "discount": null,
+        "shipping": null,
+        "total": "5000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r4",
+          "quote": "Invoice Number: INV-1001"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Widgets Inc."
+        },
+        "date": {
+          "region_id": "p1:r5",
+          "quote": "Date: 2026-01-15"
+        },
+        "due_date": {
+          "region_id": "p1:r6",
+          "quote": "Due Date: 2026-02-01"
+        },
+        "items.0.name": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "subtotal": {
+          "region_id": "p1:r12",
+          "quote": "Subtotal: $5,000.00"
+        },
+        "tax": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "tax_rate": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "total": {
+          "region_id": "p1:r14",
+          "quote": "Total Amount: $5,000.00"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "7308ab3d7ff26ee338e16ba304e762f0ac90403958d6211cfab36c94eb14dfd1",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1001",
+        "vendor": "Widgets Inc.",
+        "date": "2026-01-15",
+        "due_date": "2026-02-01",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "11",
+            "unit_price": "250",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "5",
+            "unit_price": "500",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "5250",
+        "tax": "0",
+        "tax_rate": "0",
+        "discount": null,
+        "shipping": null,
+        "total": "5250"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r4",
+          "quote": "Invoice Number: INV-1001"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Widgets Inc."
+        },
+        "date": {
+          "region_id": "p1:r5",
+          "quote": "Date: 2026-01-15"
+        },
+        "due_date": {
+          "region_id": "p1:r6",
+          "quote": "Due Date: 2026-02-01"
+        },
+        "items.0.name": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r9",
+          "quote": "  WidgetA    qty: 10    unit price: $250.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r10",
+          "quote": "  WidgetB    qty: 5     unit price: $500.00"
+        },
+        "subtotal": {
+          "region_id": "p1:r12",
+          "quote": "Subtotal: $5,000.00"
+        },
+        "tax": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "tax_rate": {
+          "region_id": "p1:r13",
+          "quote": "Tax (0%): $0.00"
+        },
+        "total": {
+          "region_id": "p1:r14",
+          "quote": "Total Amount: $5,000.00"
+        }
+      }
+    },
+    "error_fields": [
+      "items.0.quantity",
+      "subtotal",
+      "total"
+    ]
+  },
+  {
+    "id": "invoice_1004.json:clean",
+    "source": "data/invoices/invoice_1004.json",
+    "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+    "group": "INV-1004",
+    "split": "dev",
+    "kind": "clean",
+    "correct": true,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1004",
+        "vendor": "Precision Parts Ltd.",
+        "date": "2026-01-22",
+        "due_date": "2026-02-22",
+        "currency": "USD",
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "3",
+            "unit_price": "250.0",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "2",
+            "unit_price": "500.0",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "1750.0",
+        "tax": "140.0",
+        "tax_rate": "0.08",
+        "discount": null,
+        "shipping": null,
+        "total": "1890.0"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "  \"invoice_number\": \"INV-1004\","
+        },
+        "vendor": {
+          "region_id": "p1:r4",
+          "quote": "    \"name\": \"Precision Parts Ltd.\","
+        },
+        "date": {
+          "region_id": "p1:r7",
+          "quote": "  \"date\": \"2026-01-22\","
+        },
+        "due_date": {
+          "region_id": "p1:r8",
+          "quote": "  \"due_date\": \"2026-02-22\","
+        },
+        "currency": {
+          "region_id": "p1:r25",
+          "quote": "  \"currency\": \"USD\","
+        },
+        "items.0.name": {
+          "region_id": "p1:r11",
+          "quote": "      \"item\": \"WidgetA\","
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r12",
+          "quote": "      \"quantity\": 3,"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r13",
+          "quote": "      \"unit_price\": 250.0"
+        },
+        "items.1.name": {
+          "region_id": "p1:r16",
+          "quote": "      \"item\": \"WidgetB\","
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r17",
+          "quote": "      \"quantity\": 2,"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r18",
+          "quote": "      \"unit_price\": 500.0"
+        },
+        "subtotal": {
+          "region_id": "p1:r21",
+          "quote": "  \"subtotal\": 1750.0,"
+        },
+        "tax": {
+          "region_id": "p1:r23",
+          "quote": "  \"tax_amount\": 140.0,"
+        },
+        "tax_rate": {
+          "region_id": "p1:r22",
+          "quote": "  \"tax_rate\": 0.08,"
+        },
+        "total": {
+          "region_id": "p1:r24",
+          "quote": "  \"total\": 1890.0,"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1004",
+        "vendor": "Precision Parts Ltd.",
+        "date": "2026-01-22",
+        "due_date": "2026-02-22",
+        "currency": "USD",
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "3",
+            "unit_price": "250.0",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "2",
+            "unit_price": "500.0",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "1750.0",
+        "tax": "140.0",
+        "tax_rate": "0.08",
+        "discount": null,
+        "shipping": null,
+        "total": "1890.0"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "  \"invoice_number\": \"INV-1004\","
+        },
+        "vendor": {
+          "region_id": "p1:r4",
+          "quote": "    \"name\": \"Precision Parts Ltd.\","
+        },
+        "date": {
+          "region_id": "p1:r7",
+          "quote": "  \"date\": \"2026-01-22\","
+        },
+        "due_date": {
+          "region_id": "p1:r8",
+          "quote": "  \"due_date\": \"2026-02-22\","
+        },
+        "currency": {
+          "region_id": "p1:r25",
+          "quote": "  \"currency\": \"USD\","
+        },
+        "items.0.name": {
+          "region_id": "p1:r11",
+          "quote": "      \"item\": \"WidgetA\","
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r12",
+          "quote": "      \"quantity\": 3,"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r13",
+          "quote": "      \"unit_price\": 250.0"
+        },
+        "items.1.name": {
+          "region_id": "p1:r16",
+          "quote": "      \"item\": \"WidgetB\","
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r17",
+          "quote": "      \"quantity\": 2,"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r18",
+          "quote": "      \"unit_price\": 500.0"
+        },
+        "subtotal": {
+          "region_id": "p1:r21",
+          "quote": "  \"subtotal\": 1750.0,"
+        },
+        "tax": {
+          "region_id": "p1:r23",
+          "quote": "  \"tax_amount\": 140.0,"
+        },
+        "tax_rate": {
+          "region_id": "p1:r22",
+          "quote": "  \"tax_rate\": 0.08,"
+        },
+        "total": {
+          "region_id": "p1:r24",
+          "quote": "  \"total\": 1890.0,"
+        }
+      }
+    },
+    "error_fields": []
+  },
+  {
+    "id": "invoice_1004.json:quantity",
+    "source": "data/invoices/invoice_1004.json",
+    "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+    "group": "INV-1004",
+    "split": "dev",
+    "kind": "quantity",
+    "correct": false,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1004",
+        "vendor": "Precision Parts Ltd.",
+        "date": "2026-01-22",
+        "due_date": "2026-02-22",
+        "currency": "USD",
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "3",
+            "unit_price": "250.0",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "2",
+            "unit_price": "500.0",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "1750.0",
+        "tax": "140.0",
+        "tax_rate": "0.08",
+        "discount": null,
+        "shipping": null,
+        "total": "1890.0"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "  \"invoice_number\": \"INV-1004\","
+        },
+        "vendor": {
+          "region_id": "p1:r4",
+          "quote": "    \"name\": \"Precision Parts Ltd.\","
+        },
+        "date": {
+          "region_id": "p1:r7",
+          "quote": "  \"date\": \"2026-01-22\","
+        },
+        "due_date": {
+          "region_id": "p1:r8",
+          "quote": "  \"due_date\": \"2026-02-22\","
+        },
+        "currency": {
+          "region_id": "p1:r25",
+          "quote": "  \"currency\": \"USD\","
+        },
+        "items.0.name": {
+          "region_id": "p1:r11",
+          "quote": "      \"item\": \"WidgetA\","
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r12",
+          "quote": "      \"quantity\": 3,"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r13",
+          "quote": "      \"unit_price\": 250.0"
+        },
+        "items.1.name": {
+          "region_id": "p1:r16",
+          "quote": "      \"item\": \"WidgetB\","
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r17",
+          "quote": "      \"quantity\": 2,"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r18",
+          "quote": "      \"unit_price\": 500.0"
+        },
+        "subtotal": {
+          "region_id": "p1:r21",
+          "quote": "  \"subtotal\": 1750.0,"
+        },
+        "tax": {
+          "region_id": "p1:r23",
+          "quote": "  \"tax_amount\": 140.0,"
+        },
+        "tax_rate": {
+          "region_id": "p1:r22",
+          "quote": "  \"tax_rate\": 0.08,"
+        },
+        "total": {
+          "region_id": "p1:r24",
+          "quote": "  \"total\": 1890.0,"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1004",
+        "vendor": "Precision Parts Ltd.",
+        "date": "2026-01-22",
+        "due_date": "2026-02-22",
+        "currency": "USD",
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "2",
+            "unit_price": "250.0",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "2",
+            "unit_price": "500.0",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "1750.0",
+        "tax": "140.0",
+        "tax_rate": "0.08",
+        "discount": null,
+        "shipping": null,
+        "total": "1890.0"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "  \"invoice_number\": \"INV-1004\","
+        },
+        "vendor": {
+          "region_id": "p1:r4",
+          "quote": "    \"name\": \"Precision Parts Ltd.\","
+        },
+        "date": {
+          "region_id": "p1:r7",
+          "quote": "  \"date\": \"2026-01-22\","
+        },
+        "due_date": {
+          "region_id": "p1:r8",
+          "quote": "  \"due_date\": \"2026-02-22\","
+        },
+        "currency": {
+          "region_id": "p1:r25",
+          "quote": "  \"currency\": \"USD\","
+        },
+        "items.0.name": {
+          "region_id": "p1:r11",
+          "quote": "      \"item\": \"WidgetA\","
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r12",
+          "quote": "      \"quantity\": 3,"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r13",
+          "quote": "      \"unit_price\": 250.0"
+        },
+        "items.1.name": {
+          "region_id": "p1:r16",
+          "quote": "      \"item\": \"WidgetB\","
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r17",
+          "quote": "      \"quantity\": 2,"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r18",
+          "quote": "      \"unit_price\": 500.0"
+        },
+        "subtotal": {
+          "region_id": "p1:r21",
+          "quote": "  \"subtotal\": 1750.0,"
+        },
+        "tax": {
+          "region_id": "p1:r23",
+          "quote": "  \"tax_amount\": 140.0,"
+        },
+        "tax_rate": {
+          "region_id": "p1:r22",
+          "quote": "  \"tax_rate\": 0.08,"
+        },
+        "total": {
+          "region_id": "p1:r24",
+          "quote": "  \"total\": 1890.0,"
+        }
+      }
+    },
+    "error_fields": [
+      "items.0.quantity"
+    ]
+  },
+  {
+    "id": "invoice_1004.json:omitted_line",
+    "source": "data/invoices/invoice_1004.json",
+    "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+    "group": "INV-1004",
+    "split": "dev",
+    "kind": "omitted_line",
+    "correct": false,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1004",
+        "vendor": "Precision Parts Ltd.",
+        "date": "2026-01-22",
+        "due_date": "2026-02-22",
+        "currency": "USD",
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "3",
+            "unit_price": "250.0",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "2",
+            "unit_price": "500.0",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "1750.0",
+        "tax": "140.0",
+        "tax_rate": "0.08",
+        "discount": null,
+        "shipping": null,
+        "total": "1890.0"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "  \"invoice_number\": \"INV-1004\","
+        },
+        "vendor": {
+          "region_id": "p1:r4",
+          "quote": "    \"name\": \"Precision Parts Ltd.\","
+        },
+        "date": {
+          "region_id": "p1:r7",
+          "quote": "  \"date\": \"2026-01-22\","
+        },
+        "due_date": {
+          "region_id": "p1:r8",
+          "quote": "  \"due_date\": \"2026-02-22\","
+        },
+        "currency": {
+          "region_id": "p1:r25",
+          "quote": "  \"currency\": \"USD\","
+        },
+        "items.0.name": {
+          "region_id": "p1:r11",
+          "quote": "      \"item\": \"WidgetA\","
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r12",
+          "quote": "      \"quantity\": 3,"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r13",
+          "quote": "      \"unit_price\": 250.0"
+        },
+        "items.1.name": {
+          "region_id": "p1:r16",
+          "quote": "      \"item\": \"WidgetB\","
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r17",
+          "quote": "      \"quantity\": 2,"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r18",
+          "quote": "      \"unit_price\": 500.0"
+        },
+        "subtotal": {
+          "region_id": "p1:r21",
+          "quote": "  \"subtotal\": 1750.0,"
+        },
+        "tax": {
+          "region_id": "p1:r23",
+          "quote": "  \"tax_amount\": 140.0,"
+        },
+        "tax_rate": {
+          "region_id": "p1:r22",
+          "quote": "  \"tax_rate\": 0.08,"
+        },
+        "total": {
+          "region_id": "p1:r24",
+          "quote": "  \"total\": 1890.0,"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1004",
+        "vendor": "Precision Parts Ltd.",
+        "date": "2026-01-22",
+        "due_date": "2026-02-22",
+        "currency": "USD",
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "3",
+            "unit_price": "250.0",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "1750.0",
+        "tax": "140.0",
+        "tax_rate": "0.08",
+        "discount": null,
+        "shipping": null,
+        "total": "1890.0"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "  \"invoice_number\": \"INV-1004\","
+        },
+        "vendor": {
+          "region_id": "p1:r4",
+          "quote": "    \"name\": \"Precision Parts Ltd.\","
+        },
+        "date": {
+          "region_id": "p1:r7",
+          "quote": "  \"date\": \"2026-01-22\","
+        },
+        "due_date": {
+          "region_id": "p1:r8",
+          "quote": "  \"due_date\": \"2026-02-22\","
+        },
+        "currency": {
+          "region_id": "p1:r25",
+          "quote": "  \"currency\": \"USD\","
+        },
+        "items.0.name": {
+          "region_id": "p1:r11",
+          "quote": "      \"item\": \"WidgetA\","
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r12",
+          "quote": "      \"quantity\": 3,"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r13",
+          "quote": "      \"unit_price\": 250.0"
+        },
+        "subtotal": {
+          "region_id": "p1:r21",
+          "quote": "  \"subtotal\": 1750.0,"
+        },
+        "tax": {
+          "region_id": "p1:r23",
+          "quote": "  \"tax_amount\": 140.0,"
+        },
+        "tax_rate": {
+          "region_id": "p1:r22",
+          "quote": "  \"tax_rate\": 0.08,"
+        },
+        "total": {
+          "region_id": "p1:r24",
+          "quote": "  \"total\": 1890.0,"
+        }
+      }
+    },
+    "error_fields": [
+      "items.1.name",
+      "items.1.quantity",
+      "items.1.unit_price"
+    ]
+  },
+  {
+    "id": "invoice_1004.json:wrong_citation",
+    "source": "data/invoices/invoice_1004.json",
+    "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+    "group": "INV-1004",
+    "split": "dev",
+    "kind": "wrong_citation",
+    "correct": false,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1004",
+        "vendor": "Precision Parts Ltd.",
+        "date": "2026-01-22",
+        "due_date": "2026-02-22",
+        "currency": "USD",
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "3",
+            "unit_price": "250.0",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "2",
+            "unit_price": "500.0",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "1750.0",
+        "tax": "140.0",
+        "tax_rate": "0.08",
+        "discount": null,
+        "shipping": null,
+        "total": "1890.0"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "  \"invoice_number\": \"INV-1004\","
+        },
+        "vendor": {
+          "region_id": "p1:r4",
+          "quote": "    \"name\": \"Precision Parts Ltd.\","
+        },
+        "date": {
+          "region_id": "p1:r7",
+          "quote": "  \"date\": \"2026-01-22\","
+        },
+        "due_date": {
+          "region_id": "p1:r8",
+          "quote": "  \"due_date\": \"2026-02-22\","
+        },
+        "currency": {
+          "region_id": "p1:r25",
+          "quote": "  \"currency\": \"USD\","
+        },
+        "items.0.name": {
+          "region_id": "p1:r11",
+          "quote": "      \"item\": \"WidgetA\","
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r12",
+          "quote": "      \"quantity\": 3,"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r13",
+          "quote": "      \"unit_price\": 250.0"
+        },
+        "items.1.name": {
+          "region_id": "p1:r16",
+          "quote": "      \"item\": \"WidgetB\","
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r17",
+          "quote": "      \"quantity\": 2,"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r18",
+          "quote": "      \"unit_price\": 500.0"
+        },
+        "subtotal": {
+          "region_id": "p1:r21",
+          "quote": "  \"subtotal\": 1750.0,"
+        },
+        "tax": {
+          "region_id": "p1:r23",
+          "quote": "  \"tax_amount\": 140.0,"
+        },
+        "tax_rate": {
+          "region_id": "p1:r22",
+          "quote": "  \"tax_rate\": 0.08,"
+        },
+        "total": {
+          "region_id": "p1:r24",
+          "quote": "  \"total\": 1890.0,"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1004",
+        "vendor": "Precision Parts Ltd.",
+        "date": "2026-01-22",
+        "due_date": "2026-02-22",
+        "currency": "USD",
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "3",
+            "unit_price": "250.0",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "2",
+            "unit_price": "500.0",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "1750.0",
+        "tax": "140.0",
+        "tax_rate": "0.08",
+        "discount": null,
+        "shipping": null,
+        "total": "1890.0"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "  \"invoice_number\": \"INV-1004\","
+        },
+        "vendor": {
+          "region_id": "p1:r4",
+          "quote": "    \"name\": \"Precision Parts Ltd.\","
+        },
+        "date": {
+          "region_id": "p1:r7",
+          "quote": "  \"date\": \"2026-01-22\","
+        },
+        "due_date": {
+          "region_id": "p1:r8",
+          "quote": "  \"due_date\": \"2026-02-22\","
+        },
+        "currency": {
+          "region_id": "p1:r25",
+          "quote": "  \"currency\": \"USD\","
+        },
+        "items.0.name": {
+          "region_id": "p1:r11",
+          "quote": "      \"item\": \"WidgetA\","
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r24",
+          "quote": "  \"total\": 1890.0,"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r13",
+          "quote": "      \"unit_price\": 250.0"
+        },
+        "items.1.name": {
+          "region_id": "p1:r16",
+          "quote": "      \"item\": \"WidgetB\","
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r17",
+          "quote": "      \"quantity\": 2,"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r18",
+          "quote": "      \"unit_price\": 500.0"
+        },
+        "subtotal": {
+          "region_id": "p1:r21",
+          "quote": "  \"subtotal\": 1750.0,"
+        },
+        "tax": {
+          "region_id": "p1:r23",
+          "quote": "  \"tax_amount\": 140.0,"
+        },
+        "tax_rate": {
+          "region_id": "p1:r22",
+          "quote": "  \"tax_rate\": 0.08,"
+        },
+        "total": {
+          "region_id": "p1:r24",
+          "quote": "  \"total\": 1890.0,"
+        }
+      }
+    },
+    "error_fields": [
+      "items.0.quantity"
+    ]
+  },
+  {
+    "id": "invoice_1004.json:vendor",
+    "source": "data/invoices/invoice_1004.json",
+    "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+    "group": "INV-1004",
+    "split": "dev",
+    "kind": "vendor",
+    "correct": false,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1004",
+        "vendor": "Precision Parts Ltd.",
+        "date": "2026-01-22",
+        "due_date": "2026-02-22",
+        "currency": "USD",
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "3",
+            "unit_price": "250.0",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "2",
+            "unit_price": "500.0",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "1750.0",
+        "tax": "140.0",
+        "tax_rate": "0.08",
+        "discount": null,
+        "shipping": null,
+        "total": "1890.0"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "  \"invoice_number\": \"INV-1004\","
+        },
+        "vendor": {
+          "region_id": "p1:r4",
+          "quote": "    \"name\": \"Precision Parts Ltd.\","
+        },
+        "date": {
+          "region_id": "p1:r7",
+          "quote": "  \"date\": \"2026-01-22\","
+        },
+        "due_date": {
+          "region_id": "p1:r8",
+          "quote": "  \"due_date\": \"2026-02-22\","
+        },
+        "currency": {
+          "region_id": "p1:r25",
+          "quote": "  \"currency\": \"USD\","
+        },
+        "items.0.name": {
+          "region_id": "p1:r11",
+          "quote": "      \"item\": \"WidgetA\","
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r12",
+          "quote": "      \"quantity\": 3,"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r13",
+          "quote": "      \"unit_price\": 250.0"
+        },
+        "items.1.name": {
+          "region_id": "p1:r16",
+          "quote": "      \"item\": \"WidgetB\","
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r17",
+          "quote": "      \"quantity\": 2,"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r18",
+          "quote": "      \"unit_price\": 500.0"
+        },
+        "subtotal": {
+          "region_id": "p1:r21",
+          "quote": "  \"subtotal\": 1750.0,"
+        },
+        "tax": {
+          "region_id": "p1:r23",
+          "quote": "  \"tax_amount\": 140.0,"
+        },
+        "tax_rate": {
+          "region_id": "p1:r22",
+          "quote": "  \"tax_rate\": 0.08,"
+        },
+        "total": {
+          "region_id": "p1:r24",
+          "quote": "  \"total\": 1890.0,"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1004",
+        "vendor": "Incorrect Vendor Ltd.",
+        "date": "2026-01-22",
+        "due_date": "2026-02-22",
+        "currency": "USD",
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "3",
+            "unit_price": "250.0",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "2",
+            "unit_price": "500.0",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "1750.0",
+        "tax": "140.0",
+        "tax_rate": "0.08",
+        "discount": null,
+        "shipping": null,
+        "total": "1890.0"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "  \"invoice_number\": \"INV-1004\","
+        },
+        "vendor": {
+          "region_id": "p1:r4",
+          "quote": "    \"name\": \"Precision Parts Ltd.\","
+        },
+        "date": {
+          "region_id": "p1:r7",
+          "quote": "  \"date\": \"2026-01-22\","
+        },
+        "due_date": {
+          "region_id": "p1:r8",
+          "quote": "  \"due_date\": \"2026-02-22\","
+        },
+        "currency": {
+          "region_id": "p1:r25",
+          "quote": "  \"currency\": \"USD\","
+        },
+        "items.0.name": {
+          "region_id": "p1:r11",
+          "quote": "      \"item\": \"WidgetA\","
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r12",
+          "quote": "      \"quantity\": 3,"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r13",
+          "quote": "      \"unit_price\": 250.0"
+        },
+        "items.1.name": {
+          "region_id": "p1:r16",
+          "quote": "      \"item\": \"WidgetB\","
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r17",
+          "quote": "      \"quantity\": 2,"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r18",
+          "quote": "      \"unit_price\": 500.0"
+        },
+        "subtotal": {
+          "region_id": "p1:r21",
+          "quote": "  \"subtotal\": 1750.0,"
+        },
+        "tax": {
+          "region_id": "p1:r23",
+          "quote": "  \"tax_amount\": 140.0,"
+        },
+        "tax_rate": {
+          "region_id": "p1:r22",
+          "quote": "  \"tax_rate\": 0.08,"
+        },
+        "total": {
+          "region_id": "p1:r24",
+          "quote": "  \"total\": 1890.0,"
+        }
+      }
+    },
+    "error_fields": [
+      "vendor"
+    ]
+  },
+  {
+    "id": "invoice_1004.json:consistent_wrong_numbers",
+    "source": "data/invoices/invoice_1004.json",
+    "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+    "group": "INV-1004",
+    "split": "dev",
+    "kind": "consistent_wrong_numbers",
+    "correct": false,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1004",
+        "vendor": "Precision Parts Ltd.",
+        "date": "2026-01-22",
+        "due_date": "2026-02-22",
+        "currency": "USD",
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "3",
+            "unit_price": "250.0",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "2",
+            "unit_price": "500.0",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "1750.0",
+        "tax": "140.0",
+        "tax_rate": "0.08",
+        "discount": null,
+        "shipping": null,
+        "total": "1890.0"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "  \"invoice_number\": \"INV-1004\","
+        },
+        "vendor": {
+          "region_id": "p1:r4",
+          "quote": "    \"name\": \"Precision Parts Ltd.\","
+        },
+        "date": {
+          "region_id": "p1:r7",
+          "quote": "  \"date\": \"2026-01-22\","
+        },
+        "due_date": {
+          "region_id": "p1:r8",
+          "quote": "  \"due_date\": \"2026-02-22\","
+        },
+        "currency": {
+          "region_id": "p1:r25",
+          "quote": "  \"currency\": \"USD\","
+        },
+        "items.0.name": {
+          "region_id": "p1:r11",
+          "quote": "      \"item\": \"WidgetA\","
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r12",
+          "quote": "      \"quantity\": 3,"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r13",
+          "quote": "      \"unit_price\": 250.0"
+        },
+        "items.1.name": {
+          "region_id": "p1:r16",
+          "quote": "      \"item\": \"WidgetB\","
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r17",
+          "quote": "      \"quantity\": 2,"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r18",
+          "quote": "      \"unit_price\": 500.0"
+        },
+        "subtotal": {
+          "region_id": "p1:r21",
+          "quote": "  \"subtotal\": 1750.0,"
+        },
+        "tax": {
+          "region_id": "p1:r23",
+          "quote": "  \"tax_amount\": 140.0,"
+        },
+        "tax_rate": {
+          "region_id": "p1:r22",
+          "quote": "  \"tax_rate\": 0.08,"
+        },
+        "total": {
+          "region_id": "p1:r24",
+          "quote": "  \"total\": 1890.0,"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "4cd1081738ded8532a7e5a36107723b26459b165bbf5b6c4bca89c437c13b351",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1004",
+        "vendor": "Precision Parts Ltd.",
+        "date": "2026-01-22",
+        "due_date": "2026-02-22",
+        "currency": "USD",
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "4",
+            "unit_price": "250.0",
+            "amount": null,
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "2",
+            "unit_price": "500.0",
+            "amount": null,
+            "discount": null
+          }
+        ],
+        "subtotal": "2000.0",
+        "tax": "140.0",
+        "tax_rate": "0.08",
+        "discount": null,
+        "shipping": null,
+        "total": "2140.0"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "  \"invoice_number\": \"INV-1004\","
+        },
+        "vendor": {
+          "region_id": "p1:r4",
+          "quote": "    \"name\": \"Precision Parts Ltd.\","
+        },
+        "date": {
+          "region_id": "p1:r7",
+          "quote": "  \"date\": \"2026-01-22\","
+        },
+        "due_date": {
+          "region_id": "p1:r8",
+          "quote": "  \"due_date\": \"2026-02-22\","
+        },
+        "currency": {
+          "region_id": "p1:r25",
+          "quote": "  \"currency\": \"USD\","
+        },
+        "items.0.name": {
+          "region_id": "p1:r11",
+          "quote": "      \"item\": \"WidgetA\","
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r12",
+          "quote": "      \"quantity\": 3,"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r13",
+          "quote": "      \"unit_price\": 250.0"
+        },
+        "items.1.name": {
+          "region_id": "p1:r16",
+          "quote": "      \"item\": \"WidgetB\","
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r17",
+          "quote": "      \"quantity\": 2,"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r18",
+          "quote": "      \"unit_price\": 500.0"
+        },
+        "subtotal": {
+          "region_id": "p1:r21",
+          "quote": "  \"subtotal\": 1750.0,"
+        },
+        "tax": {
+          "region_id": "p1:r23",
+          "quote": "  \"tax_amount\": 140.0,"
+        },
+        "tax_rate": {
+          "region_id": "p1:r22",
+          "quote": "  \"tax_rate\": 0.08,"
+        },
+        "total": {
+          "region_id": "p1:r24",
+          "quote": "  \"total\": 1890.0,"
+        }
+      }
+    },
+    "error_fields": [
+      "items.0.quantity",
+      "subtotal",
+      "total"
+    ]
+  },
+  {
+    "id": "invoice_1011.pdf:clean",
+    "source": "data/invoices/invoice_1011.pdf",
+    "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+    "group": "INV-1011",
+    "split": "dev",
+    "kind": "clean",
+    "correct": true,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1011",
+        "vendor": "Summit Manufacturing Co.",
+        "date": "2026-01-20",
+        "due_date": "2026-02-20",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "6",
+            "unit_price": "250",
+            "amount": "1500",
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "3",
+            "unit_price": "500",
+            "amount": "1500",
+            "discount": null
+          }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tax_rate": null,
+        "discount": null,
+        "shipping": null,
+        "total": "3000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "Invoice Number: INV-1011"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Summit Manufacturing Co."
+        },
+        "date": {
+          "region_id": "p1:r4",
+          "quote": "Date: 2026-01-20"
+        },
+        "due_date": {
+          "region_id": "p1:r5",
+          "quote": "Due Date: 2026-02-20"
+        },
+        "items.0.name": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.amount": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.amount": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "total": {
+          "region_id": "p1:r9",
+          "quote": "Total: $3,000.00"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1011",
+        "vendor": "Summit Manufacturing Co.",
+        "date": "2026-01-20",
+        "due_date": "2026-02-20",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "6",
+            "unit_price": "250",
+            "amount": "1500",
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "3",
+            "unit_price": "500",
+            "amount": "1500",
+            "discount": null
+          }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tax_rate": null,
+        "discount": null,
+        "shipping": null,
+        "total": "3000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "Invoice Number: INV-1011"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Summit Manufacturing Co."
+        },
+        "date": {
+          "region_id": "p1:r4",
+          "quote": "Date: 2026-01-20"
+        },
+        "due_date": {
+          "region_id": "p1:r5",
+          "quote": "Due Date: 2026-02-20"
+        },
+        "items.0.name": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.amount": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.amount": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "total": {
+          "region_id": "p1:r9",
+          "quote": "Total: $3,000.00"
+        }
+      }
+    },
+    "error_fields": []
+  },
+  {
+    "id": "invoice_1011.pdf:quantity",
+    "source": "data/invoices/invoice_1011.pdf",
+    "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+    "group": "INV-1011",
+    "split": "dev",
+    "kind": "quantity",
+    "correct": false,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1011",
+        "vendor": "Summit Manufacturing Co.",
+        "date": "2026-01-20",
+        "due_date": "2026-02-20",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "6",
+            "unit_price": "250",
+            "amount": "1500",
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "3",
+            "unit_price": "500",
+            "amount": "1500",
+            "discount": null
+          }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tax_rate": null,
+        "discount": null,
+        "shipping": null,
+        "total": "3000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "Invoice Number: INV-1011"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Summit Manufacturing Co."
+        },
+        "date": {
+          "region_id": "p1:r4",
+          "quote": "Date: 2026-01-20"
+        },
+        "due_date": {
+          "region_id": "p1:r5",
+          "quote": "Due Date: 2026-02-20"
+        },
+        "items.0.name": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.amount": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.amount": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "total": {
+          "region_id": "p1:r9",
+          "quote": "Total: $3,000.00"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1011",
+        "vendor": "Summit Manufacturing Co.",
+        "date": "2026-01-20",
+        "due_date": "2026-02-20",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "2",
+            "unit_price": "250",
+            "amount": "1500",
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "3",
+            "unit_price": "500",
+            "amount": "1500",
+            "discount": null
+          }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tax_rate": null,
+        "discount": null,
+        "shipping": null,
+        "total": "3000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "Invoice Number: INV-1011"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Summit Manufacturing Co."
+        },
+        "date": {
+          "region_id": "p1:r4",
+          "quote": "Date: 2026-01-20"
+        },
+        "due_date": {
+          "region_id": "p1:r5",
+          "quote": "Due Date: 2026-02-20"
+        },
+        "items.0.name": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.amount": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.amount": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "total": {
+          "region_id": "p1:r9",
+          "quote": "Total: $3,000.00"
+        }
+      }
+    },
+    "error_fields": [
+      "items.0.quantity"
+    ]
+  },
+  {
+    "id": "invoice_1011.pdf:omitted_line",
+    "source": "data/invoices/invoice_1011.pdf",
+    "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+    "group": "INV-1011",
+    "split": "dev",
+    "kind": "omitted_line",
+    "correct": false,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1011",
+        "vendor": "Summit Manufacturing Co.",
+        "date": "2026-01-20",
+        "due_date": "2026-02-20",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "6",
+            "unit_price": "250",
+            "amount": "1500",
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "3",
+            "unit_price": "500",
+            "amount": "1500",
+            "discount": null
+          }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tax_rate": null,
+        "discount": null,
+        "shipping": null,
+        "total": "3000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "Invoice Number: INV-1011"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Summit Manufacturing Co."
+        },
+        "date": {
+          "region_id": "p1:r4",
+          "quote": "Date: 2026-01-20"
+        },
+        "due_date": {
+          "region_id": "p1:r5",
+          "quote": "Due Date: 2026-02-20"
+        },
+        "items.0.name": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.amount": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.amount": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "total": {
+          "region_id": "p1:r9",
+          "quote": "Total: $3,000.00"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1011",
+        "vendor": "Summit Manufacturing Co.",
+        "date": "2026-01-20",
+        "due_date": "2026-02-20",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "6",
+            "unit_price": "250",
+            "amount": "1500",
+            "discount": null
+          }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tax_rate": null,
+        "discount": null,
+        "shipping": null,
+        "total": "3000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "Invoice Number: INV-1011"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Summit Manufacturing Co."
+        },
+        "date": {
+          "region_id": "p1:r4",
+          "quote": "Date: 2026-01-20"
+        },
+        "due_date": {
+          "region_id": "p1:r5",
+          "quote": "Due Date: 2026-02-20"
+        },
+        "items.0.name": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.amount": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "total": {
+          "region_id": "p1:r9",
+          "quote": "Total: $3,000.00"
+        }
+      }
+    },
+    "error_fields": [
+      "items.1.amount",
+      "items.1.name",
+      "items.1.quantity",
+      "items.1.unit_price"
+    ]
+  },
+  {
+    "id": "invoice_1011.pdf:wrong_citation",
+    "source": "data/invoices/invoice_1011.pdf",
+    "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+    "group": "INV-1011",
+    "split": "dev",
+    "kind": "wrong_citation",
+    "correct": false,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1011",
+        "vendor": "Summit Manufacturing Co.",
+        "date": "2026-01-20",
+        "due_date": "2026-02-20",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "6",
+            "unit_price": "250",
+            "amount": "1500",
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "3",
+            "unit_price": "500",
+            "amount": "1500",
+            "discount": null
+          }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tax_rate": null,
+        "discount": null,
+        "shipping": null,
+        "total": "3000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "Invoice Number: INV-1011"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Summit Manufacturing Co."
+        },
+        "date": {
+          "region_id": "p1:r4",
+          "quote": "Date: 2026-01-20"
+        },
+        "due_date": {
+          "region_id": "p1:r5",
+          "quote": "Due Date: 2026-02-20"
+        },
+        "items.0.name": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.amount": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.amount": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "total": {
+          "region_id": "p1:r9",
+          "quote": "Total: $3,000.00"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1011",
+        "vendor": "Summit Manufacturing Co.",
+        "date": "2026-01-20",
+        "due_date": "2026-02-20",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "6",
+            "unit_price": "250",
+            "amount": "1500",
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "3",
+            "unit_price": "500",
+            "amount": "1500",
+            "discount": null
+          }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tax_rate": null,
+        "discount": null,
+        "shipping": null,
+        "total": "3000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "Invoice Number: INV-1011"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Summit Manufacturing Co."
+        },
+        "date": {
+          "region_id": "p1:r4",
+          "quote": "Date: 2026-01-20"
+        },
+        "due_date": {
+          "region_id": "p1:r5",
+          "quote": "Due Date: 2026-02-20"
+        },
+        "items.0.name": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r9",
+          "quote": "Total: $3,000.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.amount": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.amount": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "total": {
+          "region_id": "p1:r9",
+          "quote": "Total: $3,000.00"
+        }
+      }
+    },
+    "error_fields": [
+      "items.0.quantity"
+    ]
+  },
+  {
+    "id": "invoice_1011.pdf:vendor",
+    "source": "data/invoices/invoice_1011.pdf",
+    "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+    "group": "INV-1011",
+    "split": "dev",
+    "kind": "vendor",
+    "correct": false,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1011",
+        "vendor": "Summit Manufacturing Co.",
+        "date": "2026-01-20",
+        "due_date": "2026-02-20",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "6",
+            "unit_price": "250",
+            "amount": "1500",
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "3",
+            "unit_price": "500",
+            "amount": "1500",
+            "discount": null
+          }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tax_rate": null,
+        "discount": null,
+        "shipping": null,
+        "total": "3000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "Invoice Number: INV-1011"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Summit Manufacturing Co."
+        },
+        "date": {
+          "region_id": "p1:r4",
+          "quote": "Date: 2026-01-20"
+        },
+        "due_date": {
+          "region_id": "p1:r5",
+          "quote": "Due Date: 2026-02-20"
+        },
+        "items.0.name": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.amount": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.amount": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "total": {
+          "region_id": "p1:r9",
+          "quote": "Total: $3,000.00"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1011",
+        "vendor": "Incorrect Vendor Ltd.",
+        "date": "2026-01-20",
+        "due_date": "2026-02-20",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "6",
+            "unit_price": "250",
+            "amount": "1500",
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "3",
+            "unit_price": "500",
+            "amount": "1500",
+            "discount": null
+          }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tax_rate": null,
+        "discount": null,
+        "shipping": null,
+        "total": "3000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "Invoice Number: INV-1011"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Summit Manufacturing Co."
+        },
+        "date": {
+          "region_id": "p1:r4",
+          "quote": "Date: 2026-01-20"
+        },
+        "due_date": {
+          "region_id": "p1:r5",
+          "quote": "Due Date: 2026-02-20"
+        },
+        "items.0.name": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.amount": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.amount": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "total": {
+          "region_id": "p1:r9",
+          "quote": "Total: $3,000.00"
+        }
+      }
+    },
+    "error_fields": [
+      "vendor"
+    ]
+  },
+  {
+    "id": "invoice_1011.pdf:consistent_wrong_numbers",
+    "source": "data/invoices/invoice_1011.pdf",
+    "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+    "group": "INV-1011",
+    "split": "dev",
+    "kind": "consistent_wrong_numbers",
+    "correct": false,
+    "label_status": "development_reference_source_audited_not_independent_human_gold",
+    "gold": {
+      "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1011",
+        "vendor": "Summit Manufacturing Co.",
+        "date": "2026-01-20",
+        "due_date": "2026-02-20",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "6",
+            "unit_price": "250",
+            "amount": "1500",
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "3",
+            "unit_price": "500",
+            "amount": "1500",
+            "discount": null
+          }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tax_rate": null,
+        "discount": null,
+        "shipping": null,
+        "total": "3000"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "Invoice Number: INV-1011"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Summit Manufacturing Co."
+        },
+        "date": {
+          "region_id": "p1:r4",
+          "quote": "Date: 2026-01-20"
+        },
+        "due_date": {
+          "region_id": "p1:r5",
+          "quote": "Due Date: 2026-02-20"
+        },
+        "items.0.name": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.amount": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.amount": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "total": {
+          "region_id": "p1:r9",
+          "quote": "Total: $3,000.00"
+        }
+      }
+    },
+    "draft": {
+      "source_hash": "bf3d624f6dceec42f52ac7129c14fcb975f976dc3ccaba1f07abd4f18c511da6",
+      "version": 1,
+      "invoice": {
+        "number": "INV-1011",
+        "vendor": "Summit Manufacturing Co.",
+        "date": "2026-01-20",
+        "due_date": "2026-02-20",
+        "currency": null,
+        "items": [
+          {
+            "name": "WidgetA",
+            "quantity": "7",
+            "unit_price": "250",
+            "amount": "1750",
+            "discount": null
+          },
+          {
+            "name": "WidgetB",
+            "quantity": "3",
+            "unit_price": "500",
+            "amount": "1500",
+            "discount": null
+          }
+        ],
+        "subtotal": null,
+        "tax": null,
+        "tax_rate": null,
+        "discount": null,
+        "shipping": null,
+        "total": "3250"
+      },
+      "citations": {
+        "number": {
+          "region_id": "p1:r2",
+          "quote": "Invoice Number: INV-1011"
+        },
+        "vendor": {
+          "region_id": "p1:r3",
+          "quote": "Vendor: Summit Manufacturing Co."
+        },
+        "date": {
+          "region_id": "p1:r4",
+          "quote": "Date: 2026-01-20"
+        },
+        "due_date": {
+          "region_id": "p1:r5",
+          "quote": "Due Date: 2026-02-20"
+        },
+        "items.0.name": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.quantity": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.unit_price": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.0.amount": {
+          "region_id": "p1:r7",
+          "quote": "WidgetA 6 $250.00 $1,500.00"
+        },
+        "items.1.name": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.quantity": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.unit_price": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "items.1.amount": {
+          "region_id": "p1:r8",
+          "quote": "WidgetB 3 $500.00 $1,500.00"
+        },
+        "total": {
+          "region_id": "p1:r9",
+          "quote": "Total: $3,000.00"
+        }
+      }
+    },
+    "error_fields": [
+      "items.0.amount",
+      "items.0.quantity",
+      "total"
+    ]
+  }
+]

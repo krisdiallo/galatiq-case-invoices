@@ -1,0 +1,376 @@
+{
+  "invoice": {
+    "number": "MOCK-05-001",
+    "vendor": "Wrapped Descriptions Supply 01 Ltd.",
+    "date": "2026-05-12",
+    "due_date": "2026-06-11",
+    "currency": "USD",
+    "items": [
+      {
+        "name": "Copper fitting industrial replacement with extended service warranty",
+        "quantity": "3",
+        "unit_price": "125.00",
+        "amount": "375.00",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting industrial replacement with extended service warranty",
+        "quantity": "6",
+        "unit_price": "1200.50",
+        "amount": "7203.00",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket industrial replacement with extended service warranty",
+        "quantity": "2",
+        "unit_price": "1.25",
+        "amount": "2.50",
+        "discount": null
+      }
+    ],
+    "subtotal": "7580.50",
+    "tax": "568.54",
+    "tax_rate": "0.075",
+    "discount": "5.00",
+    "shipping": "0",
+    "total": "8144.04"
+  },
+  "anchors": {
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 65.0,
+        "text": "MOCK-05-001"
+      }
+    ],
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 83.0,
+        "text": "Wrapped Descriptions Supply 01 Ltd."
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 101.0,
+        "text": "2026-05-12"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 119.0,
+        "text": "2026-06-11"
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 137.0,
+        "text": "USD"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 202.0,
+        "text": "Copper fitting industrial replacement"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 215.0,
+        "text": "with extended service warranty"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 202.0,
+        "text": "3"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 202.0,
+        "text": "125.00"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 202.0,
+        "text": "375.00"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 242.0,
+        "text": "Copper fitting industrial replacement"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 255.0,
+        "text": "with extended service warranty"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 242.0,
+        "text": "6"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 242.0,
+        "text": "1,200.50"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 242.0,
+        "text": "7,203.00"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 282.0,
+        "text": "Steel bracket industrial replacement"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 295.0,
+        "text": "with extended service warranty"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 282.0,
+        "text": "2"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 282.0,
+        "text": "1.25"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 282.0,
+        "text": "2.50"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 362.0,
+        "text": "7,580.50"
+      }
+    ],
+    "discount": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 380.0,
+        "text": "5.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 398.0,
+        "text": "0.00"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 416.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 434.0,
+        "text": "568.54"
+      }
+    ],
+    "total": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 452.0,
+        "text": "8,144.04"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "e7745e39bfa60f6f39be243ed808276934fa097f6e1eb571d148ae6e6eb9f25e",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-05-001",
+      "vendor": "Wrapped Descriptions Supply 01 Ltd.",
+      "date": "2026-05-12",
+      "due_date": "2026-06-11",
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copper fitting industrial replacement with extended service warranty",
+          "quantity": "3",
+          "unit_price": "125.00",
+          "amount": "375.00",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting industrial replacement with extended service warranty",
+          "quantity": "6",
+          "unit_price": "1200.50",
+          "amount": "7203.00",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket industrial replacement with extended service warranty",
+          "quantity": "2",
+          "unit_price": "1.25",
+          "amount": "2.50",
+          "discount": null
+        }
+      ],
+      "subtotal": "7580.50",
+      "tax": "568.54",
+      "tax_rate": "0.075",
+      "discount": "5.00",
+      "shipping": "0",
+      "total": "8144.04"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r3",
+        "quote": "Invoice no.: MOCK-05-001"
+      },
+      "vendor": {
+        "region_id": "p1:r4",
+        "quote": "Supplier: Wrapped Descriptions Supply 01 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r5",
+        "quote": "Issue date: 2026-05-12"
+      },
+      "due_date": {
+        "region_id": "p1:r6",
+        "quote": "Payment due: 2026-06-11"
+      },
+      "currency": {
+        "region_id": "p1:r7",
+        "quote": "Invoice currency (ISO): USD"
+      },
+      "items.0.name": {
+        "region_id": "p1:r10",
+        "quote": "Copper fitting industrial replacement 3 125.00 375.00"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r10",
+        "quote": "Copper fitting industrial replacement 3 125.00 375.00"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r10",
+        "quote": "Copper fitting industrial replacement 3 125.00 375.00"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r10",
+        "quote": "Copper fitting industrial replacement 3 125.00 375.00"
+      },
+      "items.1.name": {
+        "region_id": "p1:r12",
+        "quote": "Copper fitting industrial replacement 6 1,200.50 7,203.00"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r12",
+        "quote": "Copper fitting industrial replacement 6 1,200.50 7,203.00"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r12",
+        "quote": "Copper fitting industrial replacement 6 1,200.50 7,203.00"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r12",
+        "quote": "Copper fitting industrial replacement 6 1,200.50 7,203.00"
+      },
+      "items.2.name": {
+        "region_id": "p1:r14",
+        "quote": "Steel bracket industrial replacement 2 1.25 2.50"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r14",
+        "quote": "Steel bracket industrial replacement 2 1.25 2.50"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r14",
+        "quote": "Steel bracket industrial replacement 2 1.25 2.50"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r14",
+        "quote": "Steel bracket industrial replacement 2 1.25 2.50"
+      },
+      "subtotal": {
+        "region_id": "p1:r17",
+        "quote": "Subtotal after line discounts: 7,580.50"
+      },
+      "tax": {
+        "region_id": "p1:r21",
+        "quote": "Tax amount: 568.54"
+      },
+      "tax_rate": {
+        "region_id": "p1:r20",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p1:r18",
+        "quote": "Invoice discount: 5.00"
+      },
+      "shipping": {
+        "region_id": "p1:r19",
+        "quote": "Shipping: 0.00"
+      },
+      "total": {
+        "region_id": "p1:r22",
+        "quote": "Grand total: 8,144.04"
+      }
+    }
+  }
+}

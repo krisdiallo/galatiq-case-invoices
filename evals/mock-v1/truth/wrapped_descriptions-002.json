@@ -1,0 +1,512 @@
+{
+  "invoice": {
+    "number": "MOCK-05-002",
+    "vendor": "Wrapped Descriptions Supply 02 Ltd.",
+    "date": "2026-01-30",
+    "due_date": "2026-03-01",
+    "currency": "EUR",
+    "items": [
+      {
+        "name": "Filter cartridge industrial replacement with extended service warranty",
+        "quantity": "20.25",
+        "unit_price": "1.25",
+        "amount": "25.31",
+        "discount": null
+      },
+      {
+        "name": "Filter cartridge industrial replacement with extended service warranty",
+        "quantity": "23.25",
+        "unit_price": "48.75",
+        "amount": "1133.44",
+        "discount": null
+      },
+      {
+        "name": "Filter cartridge industrial replacement with extended service warranty",
+        "quantity": "3.25",
+        "unit_price": "12.40",
+        "amount": "40.30",
+        "discount": null
+      },
+      {
+        "name": "Valve assembly industrial replacement with extended service warranty",
+        "quantity": "40.25",
+        "unit_price": "48.75",
+        "amount": "1962.19",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket industrial replacement with extended service warranty",
+        "quantity": "12.25",
+        "unit_price": "125.00",
+        "amount": "1531.25",
+        "discount": null
+      }
+    ],
+    "subtotal": "4692.49",
+    "tax": "351.94",
+    "tax_rate": "0.075",
+    "discount": "0",
+    "shipping": "18.50",
+    "total": "5062.93"
+  },
+  "anchors": {
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 65.0,
+        "text": "MOCK-05-002"
+      }
+    ],
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 83.0,
+        "text": "Wrapped Descriptions Supply 02 Ltd."
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 101.0,
+        "text": "2026-01-30"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 119.0,
+        "text": "2026-03-01"
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 137.0,
+        "text": "EUR"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 202.0,
+        "text": "Filter cartridge industrial"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 215.0,
+        "text": "replacement with extended service warranty"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 202.0,
+        "text": "20.25"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 202.0,
+        "text": "1.25"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 202.0,
+        "text": "25.31"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 242.0,
+        "text": "Filter cartridge industrial"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 255.0,
+        "text": "replacement with extended service warranty"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 242.0,
+        "text": "23.25"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 242.0,
+        "text": "48.75"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 242.0,
+        "text": "1133.44"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 282.0,
+        "text": "Filter cartridge industrial"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 295.0,
+        "text": "replacement with extended service warranty"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 282.0,
+        "text": "3.25"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 282.0,
+        "text": "12.40"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 282.0,
+        "text": "40.30"
+      }
+    ],
+    "items.3.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 322.0,
+        "text": "Valve assembly industrial replacement"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 335.0,
+        "text": "with extended service warranty"
+      }
+    ],
+    "items.3.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 322.0,
+        "text": "40.25"
+      }
+    ],
+    "items.3.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 322.0,
+        "text": "48.75"
+      }
+    ],
+    "items.3.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 322.0,
+        "text": "1962.19"
+      }
+    ],
+    "items.4.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 362.0,
+        "text": "Steel bracket industrial replacement"
+      },
+      {
+        "page": 1,
+        "x": 40,
+        "top": 375.0,
+        "text": "with extended service warranty"
+      }
+    ],
+    "items.4.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 362.0,
+        "text": "12.25"
+      }
+    ],
+    "items.4.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 362.0,
+        "text": "125.00"
+      }
+    ],
+    "items.4.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 362.0,
+        "text": "1531.25"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 442.0,
+        "text": "4692.49"
+      }
+    ],
+    "discount": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 460.0,
+        "text": "0.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 478.0,
+        "text": "18.50"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 496.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 514.0,
+        "text": "351.94"
+      }
+    ],
+    "total": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 532.0,
+        "text": "5062.93"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "0b366caf2dcabbc3db1719f5708c60d353dbd2363ef9230ec84059d6a0b07f1c",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-05-002",
+      "vendor": "Wrapped Descriptions Supply 02 Ltd.",
+      "date": "2026-01-30",
+      "due_date": "2026-03-01",
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Filter cartridge industrial replacement with extended service warranty",
+          "quantity": "20.25",
+          "unit_price": "1.25",
+          "amount": "25.31",
+          "discount": null
+        },
+        {
+          "name": "Filter cartridge industrial replacement with extended service warranty",
+          "quantity": "23.25",
+          "unit_price": "48.75",
+          "amount": "1133.44",
+          "discount": null
+        },
+        {
+          "name": "Filter cartridge industrial replacement with extended service warranty",
+          "quantity": "3.25",
+          "unit_price": "12.40",
+          "amount": "40.30",
+          "discount": null
+        },
+        {
+          "name": "Valve assembly industrial replacement with extended service warranty",
+          "quantity": "40.25",
+          "unit_price": "48.75",
+          "amount": "1962.19",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket industrial replacement with extended service warranty",
+          "quantity": "12.25",
+          "unit_price": "125.00",
+          "amount": "1531.25",
+          "discount": null
+        }
+      ],
+      "subtotal": "4692.49",
+      "tax": "351.94",
+      "tax_rate": "0.075",
+      "discount": "0",
+      "shipping": "18.50",
+      "total": "5062.93"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r3",
+        "quote": "Invoice no.: MOCK-05-002"
+      },
+      "vendor": {
+        "region_id": "p1:r4",
+        "quote": "Supplier: Wrapped Descriptions Supply 02 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r5",
+        "quote": "Issue date: 2026-01-30"
+      },
+      "due_date": {
+        "region_id": "p1:r6",
+        "quote": "Payment due: 2026-03-01"
+      },
+      "currency": {
+        "region_id": "p1:r7",
+        "quote": "Invoice currency (ISO): EUR"
+      },
+      "items.0.name": {
+        "region_id": "p1:r10",
+        "quote": "Filter cartridge industrial 20.25 1.25 25.31"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r10",
+        "quote": "Filter cartridge industrial 20.25 1.25 25.31"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r10",
+        "quote": "Filter cartridge industrial 20.25 1.25 25.31"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r10",
+        "quote": "Filter cartridge industrial 20.25 1.25 25.31"
+      },
+      "items.1.name": {
+        "region_id": "p1:r12",
+        "quote": "Filter cartridge industrial 23.25 48.75 1133.44"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r12",
+        "quote": "Filter cartridge industrial 23.25 48.75 1133.44"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r12",
+        "quote": "Filter cartridge industrial 23.25 48.75 1133.44"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r12",
+        "quote": "Filter cartridge industrial 23.25 48.75 1133.44"
+      },
+      "items.2.name": {
+        "region_id": "p1:r14",
+        "quote": "Filter cartridge industrial 3.25 12.40 40.30"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r14",
+        "quote": "Filter cartridge industrial 3.25 12.40 40.30"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r14",
+        "quote": "Filter cartridge industrial 3.25 12.40 40.30"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r14",
+        "quote": "Filter cartridge industrial 3.25 12.40 40.30"
+      },
+      "items.3.name": {
+        "region_id": "p1:r16",
+        "quote": "Valve assembly industrial replacement 40.25 48.75 1962.19"
+      },
+      "items.3.quantity": {
+        "region_id": "p1:r16",
+        "quote": "Valve assembly industrial replacement 40.25 48.75 1962.19"
+      },
+      "items.3.unit_price": {
+        "region_id": "p1:r16",
+        "quote": "Valve assembly industrial replacement 40.25 48.75 1962.19"
+      },
+      "items.3.amount": {
+        "region_id": "p1:r16",
+        "quote": "Valve assembly industrial replacement 40.25 48.75 1962.19"
+      },
+      "items.4.name": {
+        "region_id": "p1:r18",
+        "quote": "Steel bracket industrial replacement 12.25 125.00 1531.25"
+      },
+      "items.4.quantity": {
+        "region_id": "p1:r18",
+        "quote": "Steel bracket industrial replacement 12.25 125.00 1531.25"
+      },
+      "items.4.unit_price": {
+        "region_id": "p1:r18",
+        "quote": "Steel bracket industrial replacement 12.25 125.00 1531.25"
+      },
+      "items.4.amount": {
+        "region_id": "p1:r18",
+        "quote": "Steel bracket industrial replacement 12.25 125.00 1531.25"
+      },
+      "subtotal": {
+        "region_id": "p1:r21",
+        "quote": "Subtotal after line discounts: 4692.49"
+      },
+      "tax": {
+        "region_id": "p1:r25",
+        "quote": "Tax amount: 351.94"
+      },
+      "tax_rate": {
+        "region_id": "p1:r24",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p1:r22",
+        "quote": "Invoice discount: 0.00"
+      },
+      "shipping": {
+        "region_id": "p1:r23",
+        "quote": "Shipping: 18.50"
+      },
+      "total": {
+        "region_id": "p1:r26",
+        "quote": "Grand total: 5062.93"
+      }
+    }
+  }
+}

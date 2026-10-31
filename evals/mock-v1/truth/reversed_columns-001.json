@@ -1,0 +1,358 @@
+{
+  "invoice": {
+    "number": "MOCK-04-001",
+    "vendor": "Reversed Columns Supply 01 Ltd.",
+    "date": "2026-05-27",
+    "due_date": "2026-06-26",
+    "currency": "USD",
+    "items": [
+      {
+        "name": "Steel bracket",
+        "quantity": "7",
+        "unit_price": "48.75",
+        "amount": "341.25",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "10",
+        "unit_price": "12.40",
+        "amount": "124.00",
+        "discount": null
+      },
+      {
+        "name": "Valve assembly",
+        "quantity": "2",
+        "unit_price": "1200.50",
+        "amount": "2401.00",
+        "discount": null
+      }
+    ],
+    "subtotal": "2866.25",
+    "tax": "214.97",
+    "tax_rate": "0.075",
+    "discount": "5.00",
+    "shipping": "0",
+    "total": "3076.22"
+  },
+  "anchors": {
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 65.0,
+        "text": "Reversed Columns Supply 01 Ltd."
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 83.0,
+        "text": "USD"
+      }
+    ],
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 101.0,
+        "text": "MOCK-04-001"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 119.0,
+        "text": "2026-06-26"
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 137.0,
+        "text": "2026-05-27"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 202.0,
+        "text": "7"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 202.0,
+        "text": "341.25"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 202.0,
+        "text": "48.75"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 295,
+        "top": 202.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 229.0,
+        "text": "10"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 229.0,
+        "text": "124.00"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 229.0,
+        "text": "12.40"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 295,
+        "top": 229.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 256.0,
+        "text": "2"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 256.0,
+        "text": "2,401.00"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 256.0,
+        "text": "1,200.50"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 295,
+        "top": 256.0,
+        "text": "Valve assembly"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 323.0,
+        "text": "2,866.25"
+      }
+    ],
+    "discount": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 341.0,
+        "text": "5.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 359.0,
+        "text": "0.00"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 377.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 395.0,
+        "text": "214.97"
+      }
+    ],
+    "total": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 413.0,
+        "text": "3,076.22"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "d0ac3536351ba73b67e07855ce6de341dd8c205b659633487949635bda6c8233",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-04-001",
+      "vendor": "Reversed Columns Supply 01 Ltd.",
+      "date": "2026-05-27",
+      "due_date": "2026-06-26",
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Steel bracket",
+          "quantity": "7",
+          "unit_price": "48.75",
+          "amount": "341.25",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "10",
+          "unit_price": "12.40",
+          "amount": "124.00",
+          "discount": null
+        },
+        {
+          "name": "Valve assembly",
+          "quantity": "2",
+          "unit_price": "1200.50",
+          "amount": "2401.00",
+          "discount": null
+        }
+      ],
+      "subtotal": "2866.25",
+      "tax": "214.97",
+      "tax_rate": "0.075",
+      "discount": "5.00",
+      "shipping": "0",
+      "total": "3076.22"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r5",
+        "quote": "Invoice no.: MOCK-04-001"
+      },
+      "vendor": {
+        "region_id": "p1:r3",
+        "quote": "Supplier: Reversed Columns Supply 01 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r7",
+        "quote": "Issue date: 2026-05-27"
+      },
+      "due_date": {
+        "region_id": "p1:r6",
+        "quote": "Payment due: 2026-06-26"
+      },
+      "currency": {
+        "region_id": "p1:r4",
+        "quote": "Invoice currency (ISO): USD"
+      },
+      "items.0.name": {
+        "region_id": "p1:r10",
+        "quote": "7 341.25 48.75 Steel bracket"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r10",
+        "quote": "7 341.25 48.75 Steel bracket"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r10",
+        "quote": "7 341.25 48.75 Steel bracket"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r10",
+        "quote": "7 341.25 48.75 Steel bracket"
+      },
+      "items.1.name": {
+        "region_id": "p1:r11",
+        "quote": "10 124.00 12.40 Steel bracket"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r11",
+        "quote": "10 124.00 12.40 Steel bracket"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r11",
+        "quote": "10 124.00 12.40 Steel bracket"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r11",
+        "quote": "10 124.00 12.40 Steel bracket"
+      },
+      "items.2.name": {
+        "region_id": "p1:r12",
+        "quote": "2 2,401.00 1,200.50 Valve assembly"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r12",
+        "quote": "2 2,401.00 1,200.50 Valve assembly"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r12",
+        "quote": "2 2,401.00 1,200.50 Valve assembly"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r12",
+        "quote": "2 2,401.00 1,200.50 Valve assembly"
+      },
+      "subtotal": {
+        "region_id": "p1:r14",
+        "quote": "Subtotal after line discounts: 2,866.25"
+      },
+      "tax": {
+        "region_id": "p1:r18",
+        "quote": "Tax amount: 214.97"
+      },
+      "tax_rate": {
+        "region_id": "p1:r17",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p1:r15",
+        "quote": "Invoice discount: 5.00"
+      },
+      "shipping": {
+        "region_id": "p1:r16",
+        "quote": "Shipping: 0.00"
+      },
+      "total": {
+        "region_id": "p1:r19",
+        "quote": "Grand total: 3,076.22"
+      }
+    }
+  }
+}

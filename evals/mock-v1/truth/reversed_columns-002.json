@@ -1,0 +1,482 @@
+{
+  "invoice": {
+    "number": "MOCK-04-002",
+    "vendor": "Reversed Columns Supply 02 Ltd.",
+    "date": "2026-07-01",
+    "due_date": "2026-07-31",
+    "currency": "EUR",
+    "items": [
+      {
+        "name": "Steel bracket",
+        "quantity": "12.25",
+        "unit_price": "1.25",
+        "amount": "15.31",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "15.25",
+        "unit_price": "1200.50",
+        "amount": "18307.63",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting",
+        "quantity": "12.25",
+        "unit_price": "48.75",
+        "amount": "597.19",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "3.25",
+        "unit_price": "1.25",
+        "amount": "4.06",
+        "discount": null
+      },
+      {
+        "name": "Calibration service",
+        "quantity": "40.25",
+        "unit_price": "12.40",
+        "amount": "499.10",
+        "discount": null
+      }
+    ],
+    "subtotal": "19423.29",
+    "tax": "1456.75",
+    "tax_rate": "0.075",
+    "discount": "0",
+    "shipping": "18.50",
+    "total": "20898.54"
+  },
+  "anchors": {
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 65.0,
+        "text": "Reversed Columns Supply 02 Ltd."
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 83.0,
+        "text": "EUR"
+      }
+    ],
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 101.0,
+        "text": "MOCK-04-002"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 119.0,
+        "text": "2026-07-31"
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 137.0,
+        "text": "2026-07-01"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 202.0,
+        "text": "12.25"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 202.0,
+        "text": "15.31"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 202.0,
+        "text": "1.25"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 295,
+        "top": 202.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 229.0,
+        "text": "15.25"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 229.0,
+        "text": "18307.63"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 229.0,
+        "text": "1200.50"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 295,
+        "top": 229.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 256.0,
+        "text": "12.25"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 256.0,
+        "text": "597.19"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 256.0,
+        "text": "48.75"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 295,
+        "top": 256.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.3.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 283.0,
+        "text": "3.25"
+      }
+    ],
+    "items.3.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 283.0,
+        "text": "4.06"
+      }
+    ],
+    "items.3.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 283.0,
+        "text": "1.25"
+      }
+    ],
+    "items.3.name": [
+      {
+        "page": 1,
+        "x": 295,
+        "top": 283.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.4.quantity": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 310.0,
+        "text": "40.25"
+      }
+    ],
+    "items.4.amount": [
+      {
+        "page": 1,
+        "x": 100,
+        "top": 310.0,
+        "text": "499.10"
+      }
+    ],
+    "items.4.unit_price": [
+      {
+        "page": 1,
+        "x": 200,
+        "top": 310.0,
+        "text": "12.40"
+      }
+    ],
+    "items.4.name": [
+      {
+        "page": 1,
+        "x": 295,
+        "top": 310.0,
+        "text": "Calibration service"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 377.0,
+        "text": "19423.29"
+      }
+    ],
+    "discount": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 395.0,
+        "text": "0.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 413.0,
+        "text": "18.50"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 431.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 449.0,
+        "text": "1456.75"
+      }
+    ],
+    "total": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 467.0,
+        "text": "20898.54"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "f7bd05a05137c603e70ad9572c038d68f313ebc563fc8d3a4e79c42aa72bf5ce",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-04-002",
+      "vendor": "Reversed Columns Supply 02 Ltd.",
+      "date": "2026-07-01",
+      "due_date": "2026-07-31",
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Steel bracket",
+          "quantity": "12.25",
+          "unit_price": "1.25",
+          "amount": "15.31",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "15.25",
+          "unit_price": "1200.50",
+          "amount": "18307.63",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting",
+          "quantity": "12.25",
+          "unit_price": "48.75",
+          "amount": "597.19",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "3.25",
+          "unit_price": "1.25",
+          "amount": "4.06",
+          "discount": null
+        },
+        {
+          "name": "Calibration service",
+          "quantity": "40.25",
+          "unit_price": "12.40",
+          "amount": "499.10",
+          "discount": null
+        }
+      ],
+      "subtotal": "19423.29",
+      "tax": "1456.75",
+      "tax_rate": "0.075",
+      "discount": "0",
+      "shipping": "18.50",
+      "total": "20898.54"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r5",
+        "quote": "Invoice no.: MOCK-04-002"
+      },
+      "vendor": {
+        "region_id": "p1:r3",
+        "quote": "Supplier: Reversed Columns Supply 02 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r7",
+        "quote": "Issue date: 2026-07-01"
+      },
+      "due_date": {
+        "region_id": "p1:r6",
+        "quote": "Payment due: 2026-07-31"
+      },
+      "currency": {
+        "region_id": "p1:r4",
+        "quote": "Invoice currency (ISO): EUR"
+      },
+      "items.0.name": {
+        "region_id": "p1:r10",
+        "quote": "12.25 15.31 1.25 Steel bracket"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r10",
+        "quote": "12.25 15.31 1.25 Steel bracket"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r10",
+        "quote": "12.25 15.31 1.25 Steel bracket"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r10",
+        "quote": "12.25 15.31 1.25 Steel bracket"
+      },
+      "items.1.name": {
+        "region_id": "p1:r11",
+        "quote": "15.25 18307.63 1200.50 Steel bracket"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r11",
+        "quote": "15.25 18307.63 1200.50 Steel bracket"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r11",
+        "quote": "15.25 18307.63 1200.50 Steel bracket"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r11",
+        "quote": "15.25 18307.63 1200.50 Steel bracket"
+      },
+      "items.2.name": {
+        "region_id": "p1:r12",
+        "quote": "12.25 597.19 48.75 Copper fitting"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r12",
+        "quote": "12.25 597.19 48.75 Copper fitting"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r12",
+        "quote": "12.25 597.19 48.75 Copper fitting"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r12",
+        "quote": "12.25 597.19 48.75 Copper fitting"
+      },
+      "items.3.name": {
+        "region_id": "p1:r13",
+        "quote": "3.25 4.06 1.25 Steel bracket"
+      },
+      "items.3.quantity": {
+        "region_id": "p1:r13",
+        "quote": "3.25 4.06 1.25 Steel bracket"
+      },
+      "items.3.unit_price": {
+        "region_id": "p1:r13",
+        "quote": "3.25 4.06 1.25 Steel bracket"
+      },
+      "items.3.amount": {
+        "region_id": "p1:r13",
+        "quote": "3.25 4.06 1.25 Steel bracket"
+      },
+      "items.4.name": {
+        "region_id": "p1:r14",
+        "quote": "40.25 499.10 12.40 Calibration service"
+      },
+      "items.4.quantity": {
+        "region_id": "p1:r14",
+        "quote": "40.25 499.10 12.40 Calibration service"
+      },
+      "items.4.unit_price": {
+        "region_id": "p1:r14",
+        "quote": "40.25 499.10 12.40 Calibration service"
+      },
+      "items.4.amount": {
+        "region_id": "p1:r14",
+        "quote": "40.25 499.10 12.40 Calibration service"
+      },
+      "subtotal": {
+        "region_id": "p1:r16",
+        "quote": "Subtotal after line discounts: 19423.29"
+      },
+      "tax": {
+        "region_id": "p1:r20",
+        "quote": "Tax amount: 1456.75"
+      },
+      "tax_rate": {
+        "region_id": "p1:r19",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p1:r17",
+        "quote": "Invoice discount: 0.00"
+      },
+      "shipping": {
+        "region_id": "p1:r18",
+        "quote": "Shipping: 18.50"
+      },
+      "total": {
+        "region_id": "p1:r21",
+        "quote": "Grand total: 20898.54"
+      }
+    }
+  }
+}

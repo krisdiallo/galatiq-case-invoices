@@ -1,0 +1,482 @@
+{
+  "invoice": {
+    "number": "MOCK-07-002",
+    "vendor": "Compact Ledger Supply 02 Ltd.",
+    "date": "2026-08-08",
+    "due_date": "2026-09-07",
+    "currency": "EUR",
+    "items": [
+      {
+        "name": "Copper fitting",
+        "quantity": "40.25",
+        "unit_price": "1.25",
+        "amount": "50.31",
+        "discount": null
+      },
+      {
+        "name": "Copper fitting",
+        "quantity": "43.25",
+        "unit_price": "125.00",
+        "amount": "5406.25",
+        "discount": null
+      },
+      {
+        "name": "Valve assembly",
+        "quantity": "2.25",
+        "unit_price": "48.75",
+        "amount": "109.69",
+        "discount": null
+      },
+      {
+        "name": "Valve assembly",
+        "quantity": "3.25",
+        "unit_price": "1200.50",
+        "amount": "3901.63",
+        "discount": null
+      },
+      {
+        "name": "Calibration service",
+        "quantity": "7.25",
+        "unit_price": "12.40",
+        "amount": "89.90",
+        "discount": null
+      }
+    ],
+    "subtotal": "9557.78",
+    "tax": "716.83",
+    "tax_rate": "0.075",
+    "discount": "0",
+    "shipping": "18.50",
+    "total": "10293.11"
+  },
+  "anchors": {
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 65.0,
+        "text": "MOCK-07-002"
+      }
+    ],
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 83.0,
+        "text": "Compact Ledger Supply 02 Ltd."
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 101.0,
+        "text": "2026-08-08"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 119.0,
+        "text": "2026-09-07"
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 137.0,
+        "text": "EUR"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 202.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 202.0,
+        "text": "40.25"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 202.0,
+        "text": "1.25"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 202.0,
+        "text": "50.31"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 220.0,
+        "text": "Copper fitting"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 220.0,
+        "text": "43.25"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 220.0,
+        "text": "125.00"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 220.0,
+        "text": "5406.25"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 238.0,
+        "text": "Valve assembly"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 238.0,
+        "text": "2.25"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 238.0,
+        "text": "48.75"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 238.0,
+        "text": "109.69"
+      }
+    ],
+    "items.3.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 256.0,
+        "text": "Valve assembly"
+      }
+    ],
+    "items.3.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 256.0,
+        "text": "3.25"
+      }
+    ],
+    "items.3.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 256.0,
+        "text": "1200.50"
+      }
+    ],
+    "items.3.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 256.0,
+        "text": "3901.63"
+      }
+    ],
+    "items.4.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 274.0,
+        "text": "Calibration service"
+      }
+    ],
+    "items.4.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 274.0,
+        "text": "7.25"
+      }
+    ],
+    "items.4.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 274.0,
+        "text": "12.40"
+      }
+    ],
+    "items.4.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 274.0,
+        "text": "89.90"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 332.0,
+        "text": "9557.78"
+      }
+    ],
+    "discount": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 350.0,
+        "text": "0.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 368.0,
+        "text": "18.50"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 386.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 404.0,
+        "text": "716.83"
+      }
+    ],
+    "total": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 422.0,
+        "text": "10293.11"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "fd346f92c96fe1ddd8c96f0e8074b1993f68f46ad5937b54cc1bc9da29c801a8",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-07-002",
+      "vendor": "Compact Ledger Supply 02 Ltd.",
+      "date": "2026-08-08",
+      "due_date": "2026-09-07",
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Copper fitting",
+          "quantity": "40.25",
+          "unit_price": "1.25",
+          "amount": "50.31",
+          "discount": null
+        },
+        {
+          "name": "Copper fitting",
+          "quantity": "43.25",
+          "unit_price": "125.00",
+          "amount": "5406.25",
+          "discount": null
+        },
+        {
+          "name": "Valve assembly",
+          "quantity": "2.25",
+          "unit_price": "48.75",
+          "amount": "109.69",
+          "discount": null
+        },
+        {
+          "name": "Valve assembly",
+          "quantity": "3.25",
+          "unit_price": "1200.50",
+          "amount": "3901.63",
+          "discount": null
+        },
+        {
+          "name": "Calibration service",
+          "quantity": "7.25",
+          "unit_price": "12.40",
+          "amount": "89.90",
+          "discount": null
+        }
+      ],
+      "subtotal": "9557.78",
+      "tax": "716.83",
+      "tax_rate": "0.075",
+      "discount": "0",
+      "shipping": "18.50",
+      "total": "10293.11"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r3",
+        "quote": "Invoice no.: MOCK-07-002"
+      },
+      "vendor": {
+        "region_id": "p1:r4",
+        "quote": "Supplier: Compact Ledger Supply 02 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r5",
+        "quote": "Issue date: 2026-08-08"
+      },
+      "due_date": {
+        "region_id": "p1:r6",
+        "quote": "Payment due: 2026-09-07"
+      },
+      "currency": {
+        "region_id": "p1:r7",
+        "quote": "Invoice currency (ISO): EUR"
+      },
+      "items.0.name": {
+        "region_id": "p1:r10",
+        "quote": "Copper fitting 40.25 1.25 50.31"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r10",
+        "quote": "Copper fitting 40.25 1.25 50.31"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r10",
+        "quote": "Copper fitting 40.25 1.25 50.31"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r10",
+        "quote": "Copper fitting 40.25 1.25 50.31"
+      },
+      "items.1.name": {
+        "region_id": "p1:r11",
+        "quote": "Copper fitting 43.25 125.00 5406.25"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r11",
+        "quote": "Copper fitting 43.25 125.00 5406.25"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r11",
+        "quote": "Copper fitting 43.25 125.00 5406.25"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r11",
+        "quote": "Copper fitting 43.25 125.00 5406.25"
+      },
+      "items.2.name": {
+        "region_id": "p1:r12",
+        "quote": "Valve assembly 2.25 48.75 109.69"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r12",
+        "quote": "Valve assembly 2.25 48.75 109.69"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r12",
+        "quote": "Valve assembly 2.25 48.75 109.69"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r12",
+        "quote": "Valve assembly 2.25 48.75 109.69"
+      },
+      "items.3.name": {
+        "region_id": "p1:r13",
+        "quote": "Valve assembly 3.25 1200.50 3901.63"
+      },
+      "items.3.quantity": {
+        "region_id": "p1:r13",
+        "quote": "Valve assembly 3.25 1200.50 3901.63"
+      },
+      "items.3.unit_price": {
+        "region_id": "p1:r13",
+        "quote": "Valve assembly 3.25 1200.50 3901.63"
+      },
+      "items.3.amount": {
+        "region_id": "p1:r13",
+        "quote": "Valve assembly 3.25 1200.50 3901.63"
+      },
+      "items.4.name": {
+        "region_id": "p1:r14",
+        "quote": "Calibration service 7.25 12.40 89.90"
+      },
+      "items.4.quantity": {
+        "region_id": "p1:r14",
+        "quote": "Calibration service 7.25 12.40 89.90"
+      },
+      "items.4.unit_price": {
+        "region_id": "p1:r14",
+        "quote": "Calibration service 7.25 12.40 89.90"
+      },
+      "items.4.amount": {
+        "region_id": "p1:r14",
+        "quote": "Calibration service 7.25 12.40 89.90"
+      },
+      "subtotal": {
+        "region_id": "p1:r16",
+        "quote": "Subtotal after line discounts: 9557.78"
+      },
+      "tax": {
+        "region_id": "p1:r20",
+        "quote": "Tax amount: 716.83"
+      },
+      "tax_rate": {
+        "region_id": "p1:r19",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p1:r17",
+        "quote": "Invoice discount: 0.00"
+      },
+      "shipping": {
+        "region_id": "p1:r18",
+        "quote": "Shipping: 18.50"
+      },
+      "total": {
+        "region_id": "p1:r21",
+        "quote": "Grand total: 10293.11"
+      }
+    }
+  }
+}

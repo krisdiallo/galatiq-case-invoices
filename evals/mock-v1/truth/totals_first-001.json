@@ -1,0 +1,358 @@
+{
+  "invoice": {
+    "number": "MOCK-02-001",
+    "vendor": "Totals First Supply 01 Ltd.",
+    "date": "2026-06-16",
+    "due_date": "2026-07-16",
+    "currency": "USD",
+    "items": [
+      {
+        "name": "Calibration service",
+        "quantity": "3",
+        "unit_price": "12.40",
+        "amount": "37.20",
+        "discount": null
+      },
+      {
+        "name": "Calibration service",
+        "quantity": "6",
+        "unit_price": "12.40",
+        "amount": "74.40",
+        "discount": null
+      },
+      {
+        "name": "Steel bracket",
+        "quantity": "20",
+        "unit_price": "1.25",
+        "amount": "25.00",
+        "discount": null
+      }
+    ],
+    "subtotal": "136.60",
+    "tax": "10.25",
+    "tax_rate": "0.075",
+    "discount": "5.00",
+    "shipping": "0",
+    "total": "141.85"
+  },
+  "anchors": {
+    "vendor": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 65.0,
+        "text": "Totals First Supply 01 Ltd."
+      }
+    ],
+    "currency": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 83.0,
+        "text": "USD"
+      }
+    ],
+    "number": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 101.0,
+        "text": "MOCK-02-001"
+      }
+    ],
+    "due_date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 119.0,
+        "text": "2026-07-16"
+      }
+    ],
+    "date": [
+      {
+        "page": 1,
+        "x": 175,
+        "top": 137.0,
+        "text": "2026-06-16"
+      }
+    ],
+    "subtotal": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 200.0,
+        "text": "136.60"
+      }
+    ],
+    "discount": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 218.0,
+        "text": "5.00"
+      }
+    ],
+    "shipping": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 236.0,
+        "text": "0.00"
+      }
+    ],
+    "tax_rate": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 254.0,
+        "text": "0.075"
+      }
+    ],
+    "tax": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 272.0,
+        "text": "10.25"
+      }
+    ],
+    "total": [
+      {
+        "page": 1,
+        "x": 260,
+        "top": 290.0,
+        "text": "141.85"
+      }
+    ],
+    "items.0.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 345.0,
+        "text": "Calibration service"
+      }
+    ],
+    "items.0.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 345.0,
+        "text": "3"
+      }
+    ],
+    "items.0.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 345.0,
+        "text": "12.40"
+      }
+    ],
+    "items.0.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 345.0,
+        "text": "37.20"
+      }
+    ],
+    "items.1.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 372.0,
+        "text": "Calibration service"
+      }
+    ],
+    "items.1.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 372.0,
+        "text": "6"
+      }
+    ],
+    "items.1.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 372.0,
+        "text": "12.40"
+      }
+    ],
+    "items.1.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 372.0,
+        "text": "74.40"
+      }
+    ],
+    "items.2.name": [
+      {
+        "page": 1,
+        "x": 40,
+        "top": 399.0,
+        "text": "Steel bracket"
+      }
+    ],
+    "items.2.quantity": [
+      {
+        "page": 1,
+        "x": 300,
+        "top": 399.0,
+        "text": "20"
+      }
+    ],
+    "items.2.unit_price": [
+      {
+        "page": 1,
+        "x": 355,
+        "top": 399.0,
+        "text": "1.25"
+      }
+    ],
+    "items.2.amount": [
+      {
+        "page": 1,
+        "x": 460,
+        "top": 399.0,
+        "text": "25.00"
+      }
+    ]
+  },
+  "gold": {
+    "source_hash": "762440873b4bdd88124f803fd59ee290afca7431381d4a5365806fb041e99e49",
+    "version": 1,
+    "invoice": {
+      "number": "MOCK-02-001",
+      "vendor": "Totals First Supply 01 Ltd.",
+      "date": "2026-06-16",
+      "due_date": "2026-07-16",
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Calibration service",
+          "quantity": "3",
+          "unit_price": "12.40",
+          "amount": "37.20",
+          "discount": null
+        },
+        {
+          "name": "Calibration service",
+          "quantity": "6",
+          "unit_price": "12.40",
+          "amount": "74.40",
+          "discount": null
+        },
+        {
+          "name": "Steel bracket",
+          "quantity": "20",
+          "unit_price": "1.25",
+          "amount": "25.00",
+          "discount": null
+        }
+      ],
+      "subtotal": "136.60",
+      "tax": "10.25",
+      "tax_rate": "0.075",
+      "discount": "5.00",
+      "shipping": "0",
+      "total": "141.85"
+    },
+    "citations": {
+      "number": {
+        "region_id": "p1:r5",
+        "quote": "Invoice no.: MOCK-02-001"
+      },
+      "vendor": {
+        "region_id": "p1:r3",
+        "quote": "Supplier: Totals First Supply 01 Ltd."
+      },
+      "date": {
+        "region_id": "p1:r7",
+        "quote": "Issue date: 2026-06-16"
+      },
+      "due_date": {
+        "region_id": "p1:r6",
+        "quote": "Payment due: 2026-07-16"
+      },
+      "currency": {
+        "region_id": "p1:r4",
+        "quote": "Invoice currency (ISO): USD"
+      },
+      "items.0.name": {
+        "region_id": "p1:r17",
+        "quote": "Calibration service 3 12.40 37.20"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r17",
+        "quote": "Calibration service 3 12.40 37.20"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r17",
+        "quote": "Calibration service 3 12.40 37.20"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r17",
+        "quote": "Calibration service 3 12.40 37.20"
+      },
+      "items.1.name": {
+        "region_id": "p1:r18",
+        "quote": "Calibration service 6 12.40 74.40"
+      },
+      "items.1.quantity": {
+        "region_id": "p1:r18",
+        "quote": "Calibration service 6 12.40 74.40"
+      },
+      "items.1.unit_price": {
+        "region_id": "p1:r18",
+        "quote": "Calibration service 6 12.40 74.40"
+      },
+      "items.1.amount": {
+        "region_id": "p1:r18",
+        "quote": "Calibration service 6 12.40 74.40"
+      },
+      "items.2.name": {
+        "region_id": "p1:r19",
+        "quote": "Steel bracket 20 1.25 25.00"
+      },
+      "items.2.quantity": {
+        "region_id": "p1:r19",
+        "quote": "Steel bracket 20 1.25 25.00"
+      },
+      "items.2.unit_price": {
+        "region_id": "p1:r19",
+        "quote": "Steel bracket 20 1.25 25.00"
+      },
+      "items.2.amount": {
+        "region_id": "p1:r19",
+        "quote": "Steel bracket 20 1.25 25.00"
+      },
+      "subtotal": {
+        "region_id": "p1:r10",
+        "quote": "Subtotal after line discounts: 136.60"
+      },
+      "tax": {
+        "region_id": "p1:r14",
+        "quote": "Tax amount: 10.25"
+      },
+      "tax_rate": {
+        "region_id": "p1:r13",
+        "quote": "Tax rate (decimal fraction): 0.075"
+      },
+      "discount": {
+        "region_id": "p1:r11",
+        "quote": "Invoice discount: 5.00"
+      },
+      "shipping": {
+        "region_id": "p1:r12",
+        "quote": "Shipping: 0.00"
+      },
+      "total": {
+        "region_id": "p1:r15",
+        "quote": "Grand total: 141.85"
+      }
+    }
+  }
+}

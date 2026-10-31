@@ -1,0 +1,1987 @@
+{
+  "source_pages": 50,
+  "purpose": "capacity and functional smoke test, not accuracy evaluation",
+  "extractor_model": "grok-4.20-0309-non-reasoning",
+  "verifier_model": "grok-4.3",
+  "policy": {
+    "source_bytes_target": null,
+    "pages_target": null,
+    "request_bytes": null,
+    "context_enforcement": "provider",
+    "split_policy": "provider_capacity_or_explicit_override",
+    "max_images": null,
+    "output_tokens": null,
+    "explicit_call_budget": null
+  },
+  "draft": {
+    "source_hash": "e5904f9e504f600663ebae3204f69b1f36187c6a2d442b66caad401c68715ce8",
+    "version": 1,
+    "invoice": {
+      "number": "LONG",
+      "vendor": "Test Vendor",
+      "date": null,
+      "due_date": "2026-12-01",
+      "currency": "USD",
+      "items": [
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        },
+        {
+          "name": "WidgetA",
+          "quantity": "1",
+          "unit_price": "2",
+          "amount": "2",
+          "discount": null
+        }
+      ],
+      "subtotal": null,
+      "tax": null,
+      "tax_rate": null,
+      "discount": null,
+      "shipping": null,
+      "total": "100"
+    },
+    "citations": {
+      "items.0.name": {
+        "region_id": "p1:r5",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.0.quantity": {
+        "region_id": "p1:r5",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.0.unit_price": {
+        "region_id": "p1:r5",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.0.amount": {
+        "region_id": "p1:r5",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.1.name": {
+        "region_id": "p2:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.1.quantity": {
+        "region_id": "p2:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.1.unit_price": {
+        "region_id": "p2:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.1.amount": {
+        "region_id": "p2:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.2.name": {
+        "region_id": "p3:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.2.quantity": {
+        "region_id": "p3:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.2.unit_price": {
+        "region_id": "p3:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.2.amount": {
+        "region_id": "p3:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.3.name": {
+        "region_id": "p4:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.3.quantity": {
+        "region_id": "p4:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.3.unit_price": {
+        "region_id": "p4:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.3.amount": {
+        "region_id": "p4:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.4.name": {
+        "region_id": "p5:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.4.quantity": {
+        "region_id": "p5:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.4.unit_price": {
+        "region_id": "p5:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.4.amount": {
+        "region_id": "p5:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.5.name": {
+        "region_id": "p6:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.5.quantity": {
+        "region_id": "p6:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.5.unit_price": {
+        "region_id": "p6:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.5.amount": {
+        "region_id": "p6:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.6.name": {
+        "region_id": "p7:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.6.quantity": {
+        "region_id": "p7:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.6.unit_price": {
+        "region_id": "p7:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.6.amount": {
+        "region_id": "p7:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.7.name": {
+        "region_id": "p8:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.7.quantity": {
+        "region_id": "p8:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.7.unit_price": {
+        "region_id": "p8:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.7.amount": {
+        "region_id": "p8:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.8.name": {
+        "region_id": "p9:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.8.quantity": {
+        "region_id": "p9:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.8.unit_price": {
+        "region_id": "p9:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.8.amount": {
+        "region_id": "p9:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.9.name": {
+        "region_id": "p10:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.9.quantity": {
+        "region_id": "p10:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.9.unit_price": {
+        "region_id": "p10:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.9.amount": {
+        "region_id": "p10:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.10.name": {
+        "region_id": "p11:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.10.quantity": {
+        "region_id": "p11:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.10.unit_price": {
+        "region_id": "p11:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.10.amount": {
+        "region_id": "p11:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.11.name": {
+        "region_id": "p12:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.11.quantity": {
+        "region_id": "p12:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.11.unit_price": {
+        "region_id": "p12:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.11.amount": {
+        "region_id": "p12:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.12.name": {
+        "region_id": "p13:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.12.quantity": {
+        "region_id": "p13:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.12.unit_price": {
+        "region_id": "p13:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.12.amount": {
+        "region_id": "p13:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.13.name": {
+        "region_id": "p14:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.13.quantity": {
+        "region_id": "p14:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.13.unit_price": {
+        "region_id": "p14:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.13.amount": {
+        "region_id": "p14:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.14.name": {
+        "region_id": "p15:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.14.quantity": {
+        "region_id": "p15:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.14.unit_price": {
+        "region_id": "p15:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.14.amount": {
+        "region_id": "p15:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.15.name": {
+        "region_id": "p16:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.15.quantity": {
+        "region_id": "p16:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.15.unit_price": {
+        "region_id": "p16:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.15.amount": {
+        "region_id": "p16:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.16.name": {
+        "region_id": "p17:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.16.quantity": {
+        "region_id": "p17:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.16.unit_price": {
+        "region_id": "p17:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.16.amount": {
+        "region_id": "p17:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.17.name": {
+        "region_id": "p18:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.17.quantity": {
+        "region_id": "p18:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.17.unit_price": {
+        "region_id": "p18:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.17.amount": {
+        "region_id": "p18:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.18.name": {
+        "region_id": "p19:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.18.quantity": {
+        "region_id": "p19:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.18.unit_price": {
+        "region_id": "p19:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.18.amount": {
+        "region_id": "p19:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.19.name": {
+        "region_id": "p20:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.19.quantity": {
+        "region_id": "p20:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.19.unit_price": {
+        "region_id": "p20:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.19.amount": {
+        "region_id": "p20:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.20.name": {
+        "region_id": "p21:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.20.quantity": {
+        "region_id": "p21:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.20.unit_price": {
+        "region_id": "p21:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.20.amount": {
+        "region_id": "p21:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.21.name": {
+        "region_id": "p22:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.21.quantity": {
+        "region_id": "p22:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.21.unit_price": {
+        "region_id": "p22:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.21.amount": {
+        "region_id": "p22:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.22.name": {
+        "region_id": "p23:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.22.quantity": {
+        "region_id": "p23:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.22.unit_price": {
+        "region_id": "p23:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.22.amount": {
+        "region_id": "p23:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.23.name": {
+        "region_id": "p24:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.23.quantity": {
+        "region_id": "p24:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.23.unit_price": {
+        "region_id": "p24:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.23.amount": {
+        "region_id": "p24:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.24.name": {
+        "region_id": "p25:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.24.quantity": {
+        "region_id": "p25:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.24.unit_price": {
+        "region_id": "p25:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.24.amount": {
+        "region_id": "p25:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.25.name": {
+        "region_id": "p26:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.25.quantity": {
+        "region_id": "p26:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.25.unit_price": {
+        "region_id": "p26:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.25.amount": {
+        "region_id": "p26:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.26.name": {
+        "region_id": "p27:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.26.quantity": {
+        "region_id": "p27:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.26.unit_price": {
+        "region_id": "p27:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.26.amount": {
+        "region_id": "p27:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.27.name": {
+        "region_id": "p28:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.27.quantity": {
+        "region_id": "p28:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.27.unit_price": {
+        "region_id": "p28:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.27.amount": {
+        "region_id": "p28:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.28.name": {
+        "region_id": "p29:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.28.quantity": {
+        "region_id": "p29:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.28.unit_price": {
+        "region_id": "p29:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.28.amount": {
+        "region_id": "p29:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.29.name": {
+        "region_id": "p30:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.29.quantity": {
+        "region_id": "p30:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.29.unit_price": {
+        "region_id": "p30:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.29.amount": {
+        "region_id": "p30:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.30.name": {
+        "region_id": "p31:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.30.quantity": {
+        "region_id": "p31:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.30.unit_price": {
+        "region_id": "p31:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.30.amount": {
+        "region_id": "p31:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.31.name": {
+        "region_id": "p32:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.31.quantity": {
+        "region_id": "p32:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.31.unit_price": {
+        "region_id": "p32:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.31.amount": {
+        "region_id": "p32:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.32.name": {
+        "region_id": "p33:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.32.quantity": {
+        "region_id": "p33:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.32.unit_price": {
+        "region_id": "p33:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.32.amount": {
+        "region_id": "p33:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.33.name": {
+        "region_id": "p34:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.33.quantity": {
+        "region_id": "p34:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.33.unit_price": {
+        "region_id": "p34:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.33.amount": {
+        "region_id": "p34:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.34.name": {
+        "region_id": "p35:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.34.quantity": {
+        "region_id": "p35:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.34.unit_price": {
+        "region_id": "p35:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.34.amount": {
+        "region_id": "p35:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.35.name": {
+        "region_id": "p36:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.35.quantity": {
+        "region_id": "p36:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.35.unit_price": {
+        "region_id": "p36:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.35.amount": {
+        "region_id": "p36:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.36.name": {
+        "region_id": "p37:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.36.quantity": {
+        "region_id": "p37:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.36.unit_price": {
+        "region_id": "p37:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.36.amount": {
+        "region_id": "p37:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.37.name": {
+        "region_id": "p38:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.37.quantity": {
+        "region_id": "p38:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.37.unit_price": {
+        "region_id": "p38:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.37.amount": {
+        "region_id": "p38:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.38.name": {
+        "region_id": "p39:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.38.quantity": {
+        "region_id": "p39:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.38.unit_price": {
+        "region_id": "p39:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.38.amount": {
+        "region_id": "p39:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.39.name": {
+        "region_id": "p40:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.39.quantity": {
+        "region_id": "p40:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.39.unit_price": {
+        "region_id": "p40:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.39.amount": {
+        "region_id": "p40:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.40.name": {
+        "region_id": "p41:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.40.quantity": {
+        "region_id": "p41:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.40.unit_price": {
+        "region_id": "p41:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.40.amount": {
+        "region_id": "p41:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.41.name": {
+        "region_id": "p42:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.41.quantity": {
+        "region_id": "p42:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.41.unit_price": {
+        "region_id": "p42:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.41.amount": {
+        "region_id": "p42:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.42.name": {
+        "region_id": "p43:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.42.quantity": {
+        "region_id": "p43:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.42.unit_price": {
+        "region_id": "p43:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.42.amount": {
+        "region_id": "p43:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.43.name": {
+        "region_id": "p44:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.43.quantity": {
+        "region_id": "p44:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.43.unit_price": {
+        "region_id": "p44:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.43.amount": {
+        "region_id": "p44:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.44.name": {
+        "region_id": "p45:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.44.quantity": {
+        "region_id": "p45:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.44.unit_price": {
+        "region_id": "p45:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.44.amount": {
+        "region_id": "p45:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.45.name": {
+        "region_id": "p46:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.45.quantity": {
+        "region_id": "p46:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.45.unit_price": {
+        "region_id": "p46:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.45.amount": {
+        "region_id": "p46:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.46.name": {
+        "region_id": "p47:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.46.quantity": {
+        "region_id": "p47:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.46.unit_price": {
+        "region_id": "p47:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.46.amount": {
+        "region_id": "p47:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.47.name": {
+        "region_id": "p48:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.47.quantity": {
+        "region_id": "p48:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.47.unit_price": {
+        "region_id": "p48:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.47.amount": {
+        "region_id": "p48:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.48.name": {
+        "region_id": "p49:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.48.quantity": {
+        "region_id": "p49:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.48.unit_price": {
+        "region_id": "p49:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.48.amount": {
+        "region_id": "p49:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.49.name": {
+        "region_id": "p50:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.49.quantity": {
+        "region_id": "p50:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.49.unit_price": {
+        "region_id": "p50:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      },
+      "items.49.amount": {
+        "region_id": "p50:r1",
+        "quote": "Item WidgetA quantity 1 unit 2 amount 2"
+      }
+    }
+  },
+  "extraction_chunks": 1,
+  "items": 50,
+  "citation_errors": [
+    "number: missing or invalid source citation",
+    "vendor: missing or invalid source citation",
+    "due_date: missing or invalid source citation",
+    "currency: missing or invalid source citation",
+    "total: missing or invalid source citation"
+  ],
+  "verification": {
+    "verdict": "incorrect",
+    "findings": [
+      {
+        "field": "number",
+        "reason": "Omitted extraction; source contains 'Invoice: LONG' at p1:r1",
+        "evidence": [
+          {
+            "region_id": "p1:r1",
+            "quote": "Invoice: LONG"
+          }
+        ]
+      },
+      {
+        "field": "vendor",
+        "reason": "Omitted extraction; source contains 'Vendor: Test Vendor' at p1:r2",
+        "evidence": [
+          {
+            "region_id": "p1:r2",
+            "quote": "Vendor: Test Vendor"
+          }
+        ]
+      },
+      {
+        "field": "due_date",
+        "reason": "Omitted extraction; source contains 'Due: 2026-12-01' at p1:r3",
+        "evidence": [
+          {
+            "region_id": "p1:r3",
+            "quote": "Due: 2026-12-01"
+          }
+        ]
+      },
+      {
+        "field": "currency",
+        "reason": "Omitted extraction; source contains 'Currency: USD' at p1:r4",
+        "evidence": [
+          {
+            "region_id": "p1:r4",
+            "quote": "Currency: USD"
+          }
+        ]
+      },
+      {
+        "field": "total",
+        "reason": "Omitted extraction; source contains 'Total: 100' at p50:r2",
+        "evidence": [
+          {
+            "region_id": "p50:r2",
+            "quote": "Total: 100"
+          }
+        ]
+      },
+      {
+        "field": "citations",
+        "reason": "number: missing or invalid source citation",
+        "evidence": []
+      },
+      {
+        "field": "citations",
+        "reason": "vendor: missing or invalid source citation",
+        "evidence": []
+      },
+      {
+        "field": "citations",
+        "reason": "due_date: missing or invalid source citation",
+        "evidence": []
+      },
+      {
+        "field": "citations",
+        "reason": "currency: missing or invalid source citation",
+        "evidence": []
+      },
+      {
+        "field": "citations",
+        "reason": "total: missing or invalid source citation",
+        "evidence": []
+      }
+    ],
+    "checked_fields": [
+      "items.0.amount",
+      "items.0.name",
+      "items.0.quantity",
+      "items.0.unit_price",
+      "items.1.amount",
+      "items.1.name",
+      "items.1.quantity",
+      "items.1.unit_price",
+      "items.10.amount",
+      "items.10.name",
+      "items.10.quantity",
+      "items.10.unit_price",
+      "items.11.amount",
+      "items.11.name",
+      "items.11.quantity",
+      "items.11.unit_price",
+      "items.12.amount",
+      "items.12.name",
+      "items.12.quantity",
+      "items.12.unit_price",
+      "items.13.amount",
+      "items.13.name",
+      "items.13.quantity",
+      "items.13.unit_price",
+      "items.14.amount",
+      "items.14.name",
+      "items.14.quantity",
+      "items.14.unit_price",
+      "items.15.amount",
+      "items.15.name",
+      "items.15.quantity",
+      "items.15.unit_price",
+      "items.16.amount",
+      "items.16.name",
+      "items.16.quantity",
+      "items.16.unit_price",
+      "items.17.amount",
+      "items.17.name",
+      "items.17.quantity",
+      "items.17.unit_price",
+      "items.18.amount",
+      "items.18.name",
+      "items.18.quantity",
+      "items.18.unit_price",
+      "items.19.amount",
+      "items.19.name",
+      "items.19.quantity",
+      "items.19.unit_price",
+      "items.2.amount",
+      "items.2.name",
+      "items.2.quantity",
+      "items.2.unit_price",
+      "items.20.amount",
+      "items.20.name",
+      "items.20.quantity",
+      "items.20.unit_price",
+      "items.21.amount",
+      "items.21.name",
+      "items.21.quantity",
+      "items.21.unit_price",
+      "items.22.amount",
+      "items.22.name",
+      "items.22.quantity",
+      "items.22.unit_price",
+      "items.23.amount",
+      "items.23.name",
+      "items.23.quantity",
+      "items.23.unit_price",
+      "items.24.amount",
+      "items.24.name",
+      "items.24.quantity",
+      "items.24.unit_price",
+      "items.25.amount",
+      "items.25.name",
+      "items.25.quantity",
+      "items.25.unit_price",
+      "items.26.amount",
+      "items.26.name",
+      "items.26.quantity",
+      "items.26.unit_price",
+      "items.27.amount",
+      "items.27.name",
+      "items.27.quantity",
+      "items.27.unit_price",
+      "items.28.amount",
+      "items.28.name",
+      "items.28.quantity",
+      "items.28.unit_price",
+      "items.29.amount",
+      "items.29.name",
+      "items.29.quantity",
+      "items.29.unit_price",
+      "items.3.amount",
+      "items.3.name",
+      "items.3.quantity",
+      "items.3.unit_price",
+      "items.30.amount",
+      "items.30.name",
+      "items.30.quantity",
+      "items.30.unit_price",
+      "items.31.amount",
+      "items.31.name",
+      "items.31.quantity",
+      "items.31.unit_price",
+      "items.32.amount",
+      "items.32.name",
+      "items.32.quantity",
+      "items.32.unit_price",
+      "items.33.amount",
+      "items.33.name",
+      "items.33.quantity",
+      "items.33.unit_price",
+      "items.34.amount",
+      "items.34.name",
+      "items.34.quantity",
+      "items.34.unit_price",
+      "items.35.amount",
+      "items.35.name",
+      "items.35.quantity",
+      "items.35.unit_price",
+      "items.36.amount",
+      "items.36.name",
+      "items.36.quantity",
+      "items.36.unit_price",
+      "items.37.amount",
+      "items.37.name",
+      "items.37.quantity",
+      "items.37.unit_price",
+      "items.38.amount",
+      "items.38.name",
+      "items.38.quantity",
+      "items.38.unit_price",
+      "items.39.amount",
+      "items.39.name",
+      "items.39.quantity",
+      "items.39.unit_price",
+      "items.4.amount",
+      "items.4.name",
+      "items.4.quantity",
+      "items.4.unit_price",
+      "items.40.amount",
+      "items.40.name",
+      "items.40.quantity",
+      "items.40.unit_price",
+      "items.41.amount",
+      "items.41.name",
+      "items.41.quantity",
+      "items.41.unit_price",
+      "items.42.amount",
+      "items.42.name",
+      "items.42.quantity",
+      "items.42.unit_price",
+      "items.43.amount",
+      "items.43.name",
+      "items.43.quantity",
+      "items.43.unit_price",
+      "items.44.amount",
+      "items.44.name",
+      "items.44.quantity",
+      "items.44.unit_price",
+      "items.45.amount",
+      "items.45.name",
+      "items.45.quantity",
+      "items.45.unit_price",
+      "items.46.amount",
+      "items.46.name",
+      "items.46.quantity",
+      "items.46.unit_price",
+      "items.47.amount",
+      "items.47.name",
+      "items.47.quantity",
+      "items.47.unit_price",
+      "items.48.amount",
+      "items.48.name",
+      "items.48.quantity",
+      "items.48.unit_price",
+      "items.49.amount",
+      "items.49.name",
+      "items.49.quantity",
+      "items.49.unit_price",
+      "items.5.amount",
+      "items.5.name",
+      "items.5.quantity",
+      "items.5.unit_price",
+      "items.6.amount",
+      "items.6.name",
+      "items.6.quantity",
+      "items.6.unit_price",
+      "items.7.amount",
+      "items.7.name",
+      "items.7.quantity",
+      "items.7.unit_price",
+      "items.8.amount",
+      "items.8.name",
+      "items.8.quantity",
+      "items.8.unit_price",
+      "items.9.amount",
+      "items.9.name",
+      "items.9.quantity",
+      "items.9.unit_price"
+    ],
+    "covered_regions": [
+      "p10:r1",
+      "p11:r1",
+      "p12:r1",
+      "p13:r1",
+      "p14:r1",
+      "p15:r1",
+      "p16:r1",
+      "p17:r1",
+      "p18:r1",
+      "p19:r1",
+      "p1:r1",
+      "p1:r2",
+      "p1:r3",
+      "p1:r4",
+      "p1:r5",
+      "p20:r1",
+      "p21:r1",
+      "p22:r1",
+      "p23:r1",
+      "p24:r1",
+      "p25:r1",
+      "p26:r1",
+      "p27:r1",
+      "p28:r1",
+      "p29:r1",
+      "p2:r1",
+      "p30:r1",
+      "p31:r1",
+      "p32:r1",
+      "p33:r1",
+      "p34:r1",
+      "p35:r1",
+      "p36:r1",
+      "p37:r1",
+      "p38:r1",
+      "p39:r1",
+      "p3:r1",
+      "p40:r1",
+      "p41:r1",
+      "p42:r1",
+      "p43:r1",
+      "p44:r1",
+      "p45:r1",
+      "p46:r1",
+      "p47:r1",
+      "p48:r1",
+      "p49:r1",
+      "p4:r1",
+      "p50:r1",
+      "p50:r2",
+      "p5:r1",
+      "p6:r1",
+      "p7:r1",
+      "p8:r1",
+      "p9:r1"
+    ],
+    "complete": true,
+    "source_hash": "e5904f9e504f600663ebae3204f69b1f36187c6a2d442b66caad401c68715ce8",
+    "draft_hash": "9f40c23e162ca1cf83035b241f4bd4632c5bd80eeebe7d9d2267f13578a4481a",
+    "strategy": "direct",
+    "metadata": {
+      "mode": "live",
+      "model": "https://api.x.ai/v1:grok-4.3",
+      "prompt_version": "5-provider-capacity",
+      "chunks_processed": 1,
+      "chunk_results": [
+        {
+          "verdict": "incorrect",
+          "findings": [
+            {
+              "field": "number",
+              "reason": "Omitted extraction; source contains 'Invoice: LONG' at p1:r1",
+              "evidence": [
+                {
+                  "region_id": "p1:r1",
+                  "quote": "Invoice: LONG"
+                }
+              ]
+            },
+            {
+              "field": "vendor",
+              "reason": "Omitted extraction; source contains 'Vendor: Test Vendor' at p1:r2",
+              "evidence": [
+                {
+                  "region_id": "p1:r2",
+                  "quote": "Vendor: Test Vendor"
+                }
+              ]
+            },
+            {
+              "field": "due_date",
+              "reason": "Omitted extraction; source contains 'Due: 2026-12-01' at p1:r3",
+              "evidence": [
+                {
+                  "region_id": "p1:r3",
+                  "quote": "Due: 2026-12-01"
+                }
+              ]
+            },
+            {
+              "field": "currency",
+              "reason": "Omitted extraction; source contains 'Currency: USD' at p1:r4",
+              "evidence": [
+                {
+                  "region_id": "p1:r4",
+                  "quote": "Currency: USD"
+                }
+              ]
+            },
+            {
+              "field": "total",
+              "reason": "Omitted extraction; source contains 'Total: 100' at p50:r2",
+              "evidence": [
+                {
+                  "region_id": "p50:r2",
+                  "quote": "Total: 100"
+                }
+              ]
+            }
+          ],
+          "checked_fields": [
+            "items.0.name",
+            "items.0.quantity",
+            "items.0.unit_price",
+            "items.0.amount",
+            "items.1.name",
+            "items.1.quantity",
+            "items.1.unit_price",
+            "items.1.amount",
+            "items.2.name",
+            "items.2.quantity",
+            "items.2.unit_price",
+            "items.2.amount",
+            "items.3.name",
+            "items.3.quantity",
+            "items.3.unit_price",
+            "items.3.amount",
+            "items.4.name",
+            "items.4.quantity",
+            "items.4.unit_price",
+            "items.4.amount",
+            "items.5.name",
+            "items.5.quantity",
+            "items.5.unit_price",
+            "items.5.amount",
+            "items.6.name",
+            "items.6.quantity",
+            "items.6.unit_price",
+            "items.6.amount",
+            "items.7.name",
+            "items.7.quantity",
+            "items.7.unit_price",
+            "items.7.amount",
+            "items.8.name",
+            "items.8.quantity",
+            "items.8.unit_price",
+            "items.8.amount",
+            "items.9.name",
+            "items.9.quantity",
+            "items.9.unit_price",
+            "items.9.amount",
+            "items.10.name",
+            "items.10.quantity",
+            "items.10.unit_price",
+            "items.10.amount",
+            "items.11.name",
+            "items.11.quantity",
+            "items.11.unit_price",
+            "items.11.amount",
+            "items.12.name",
+            "items.12.quantity",
+            "items.12.unit_price",
+            "items.12.amount",
+            "items.13.name",
+            "items.13.quantity",
+            "items.13.unit_price",
+            "items.13.amount",
+            "items.14.name",
+            "items.14.quantity",
+            "items.14.unit_price",
+            "items.14.amount",
+            "items.15.name",
+            "items.15.quantity",
+            "items.15.unit_price",
+            "items.15.amount",
+            "items.16.name",
+            "items.16.quantity",
+            "items.16.unit_price",
+            "items.16.amount",
+            "items.17.name",
+            "items.17.quantity",
+            "items.17.unit_price",
+            "items.17.amount",
+            "items.18.name",
+            "items.18.quantity",
+            "items.18.unit_price",
+            "items.18.amount",
+            "items.19.name",
+            "items.19.quantity",
+            "items.19.unit_price",
+            "items.19.amount",
+            "items.20.name",
+            "items.20.quantity",
+            "items.20.unit_price",
+            "items.20.amount",
+            "items.21.name",
+            "items.21.quantity",
+            "items.21.unit_price",
+            "items.21.amount",
+            "items.22.name",
+            "items.22.quantity",
+            "items.22.unit_price",
+            "items.22.amount",
+            "items.23.name",
+            "items.23.quantity",
+            "items.23.unit_price",
+            "items.23.amount",
+            "items.24.name",
+            "items.24.quantity",
+            "items.24.unit_price",
+            "items.24.amount",
+            "items.25.name",
+            "items.25.quantity",
+            "items.25.unit_price",
+            "items.25.amount",
+            "items.26.name",
+            "items.26.quantity",
+            "items.26.unit_price",
+            "items.26.amount",
+            "items.27.name",
+            "items.27.quantity",
+            "items.27.unit_price",
+            "items.27.amount",
+            "items.28.name",
+            "items.28.quantity",
+            "items.28.unit_price",
+            "items.28.amount",
+            "items.29.name",
+            "items.29.quantity",
+            "items.29.unit_price",
+            "items.29.amount",
+            "items.30.name",
+            "items.30.quantity",
+            "items.30.unit_price",
+            "items.30.amount",
+            "items.31.name",
+            "items.31.quantity",
+            "items.31.unit_price",
+            "items.31.amount",
+            "items.32.name",
+            "items.32.quantity",
+            "items.32.unit_price",
+            "items.32.amount",
+            "items.33.name",
+            "items.33.quantity",
+            "items.33.unit_price",
+            "items.33.amount",
+            "items.34.name",
+            "items.34.quantity",
+            "items.34.unit_price",
+            "items.34.amount",
+            "items.35.name",
+            "items.35.quantity",
+            "items.35.unit_price",
+            "items.35.amount",
+            "items.36.name",
+            "items.36.quantity",
+            "items.36.unit_price",
+            "items.36.amount",
+            "items.37.name",
+            "items.37.quantity",
+            "items.37.unit_price",
+            "items.37.amount",
+            "items.38.name",
+            "items.38.quantity",
+            "items.38.unit_price",
+            "items.38.amount",
+            "items.39.name",
+            "items.39.quantity",
+            "items.39.unit_price",
+            "items.39.amount",
+            "items.40.name",
+            "items.40.quantity",
+            "items.40.unit_price",
+            "items.40.amount",
+            "items.41.name",
+            "items.41.quantity",
+            "items.41.unit_price",
+            "items.41.amount",
+            "items.42.name",
+            "items.42.quantity",
+            "items.42.unit_price",
+            "items.42.amount",
+            "items.43.name",
+            "items.43.quantity",
+            "items.43.unit_price",
+            "items.43.amount",
+            "items.44.name",
+            "items.44.quantity",
+            "items.44.unit_price",
+            "items.44.amount",
+            "items.45.name",
+            "items.45.quantity",
+            "items.45.unit_price",
+            "items.45.amount",
+            "items.46.name",
+            "items.46.quantity",
+            "items.46.unit_price",
+            "items.46.amount",
+            "items.47.name",
+            "items.47.quantity",
+            "items.47.unit_price",
+            "items.47.amount",
+            "items.48.name",
+            "items.48.quantity",
+            "items.48.unit_price",
+            "items.48.amount",
+            "items.49.name",
+            "items.49.quantity",
+            "items.49.unit_price",
+            "items.49.amount"
+          ],
+          "covered_regions": [
+            "p1:r1",
+            "p1:r2",
+            "p1:r3",
+            "p1:r4",
+            "p1:r5",
+            "p2:r1",
+            "p3:r1",
+            "p4:r1",
+            "p5:r1",
+            "p6:r1",
+            "p7:r1",
+            "p8:r1",
+            "p9:r1",
+            "p10:r1",
+            "p11:r1",
+            "p12:r1",
+            "p13:r1",
+            "p14:r1",
+            "p15:r1",
+            "p16:r1",
+            "p17:r1",
+            "p18:r1",
+            "p19:r1",
+            "p20:r1",
+            "p21:r1",
+            "p22:r1",
+            "p23:r1",
+            "p24:r1",
+            "p25:r1",
+            "p26:r1",
+            "p27:r1",
+            "p28:r1",
+            "p29:r1",
+            "p30:r1",
+            "p31:r1",
+            "p32:r1",
+            "p33:r1",
+            "p34:r1",
+            "p35:r1",
+            "p36:r1",
+            "p37:r1",
+            "p38:r1",
+            "p39:r1",
+            "p40:r1",
+            "p41:r1",
+            "p42:r1",
+            "p43:r1",
+            "p44:r1",
+            "p45:r1",
+            "p46:r1",
+            "p47:r1",
+            "p48:r1",
+            "p49:r1",
+            "p50:r1",
+            "p50:r2"
+          ],
+          "complete": true
+        }
+      ],
+      "functional_processing": "all_chunks_processed",
+      "long_document_accuracy": "not_established",
+      "request_policy": {
+        "source_bytes_target": null,
+        "pages_target": null,
+        "request_bytes": null,
+        "context_enforcement": "provider",
+        "split_policy": "provider_capacity_or_explicit_override",
+        "max_images": null,
+        "output_tokens": null,
+        "explicit_call_budget": null
+      },
+      "seconds": 36.356822583824396,
+      "calls": 1,
+      "requests": [
+        {
+          "model": "grok-4.3",
+          "provider": "https://api.x.ai/v1",
+          "seconds": 36.061904667411,
+          "usage": {
+            "prompt_tokens": 53523,
+            "completion_tokens": 2212,
+            "total_tokens": 56756,
+            "prompt_tokens_details": {
+              "text_tokens": 15473,
+              "audio_tokens": 0,
+              "image_tokens": 38050,
+              "cached_tokens": 128
+            },
+            "completion_tokens_details": {
+              "reasoning_tokens": 1021,
+              "audio_tokens": 0,
+              "accepted_prediction_tokens": 0,
+              "rejected_prediction_tokens": 0
+            },
+            "num_sources_used": 0,
+            "cost_in_usd_ticks": 748518500
+          },
+          "status": "ok",
+          "response_id": "2a89963f-e80d-9685-9e5f-ed81a724fde9",
+          "resolved_model": "grok-4.3",
+          "finish_reason": "stop",
+          "response": {
+            "role": "assistant",
+            "content": "{\n  \"verdict\": \"incorrect\",\n  \"findings\": [\n    {\n      \"field\": \"number\",\n      \"reason\": \"Omitted extraction; source contains 'Invoice: LONG' at p1:r1\",\n      \"evidence\": [\n        {\n          \"region_id\": \"p1:r1\",\n          \"quote\": \"Invoice: LONG\"\n        }\n      ]\n    },\n    {\n      \"field\": \"vendor\",\n      \"reason\": \"Omitted extraction; source contains 'Vendor: Test Vendor' at p1:r2\",\n      \"evidence\": [\n        {\n          \"region_id\": \"p1:r2\",\n          \"quote\": \"Vendor: Test Vendor\"\n        }\n      ]\n    },\n    {\n      \"field\": \"due_date\",\n      \"reason\": \"Omitted extraction; source contains 'Due: 2026-12-01' at p1:r3\",\n      \"evidence\": [\n        {\n          \"region_id\": \"p1:r3\",\n          \"quote\": \"Due: 2026-12-01\"\n        }\n      ]\n    },\n    {\n      \"field\": \"currency\",\n      \"reason\": \"Omitted extraction; source contains 'Currency: USD' at p1:r4\",\n      \"evidence\": [\n        {\n          \"region_id\": \"p1:r4\",\n          \"quote\": \"Currency: USD\"\n        }\n      ]\n    },\n    {\n      \"field\": \"total\",\n      \"reason\": \"Omitted extraction; source contains 'Total: 100' at p50:r2\",\n      \"evidence\": [\n        {\n          \"region_id\": \"p50:r2\",\n          \"quote\": \"Total: 100\"\n        }\n      ]\n    }\n  ],\n  \"checked_fields\": [\n    \"items.0.name\",\n    \"items.0.quantity\",\n    \"items.0.unit_price\",\n    \"items.0.amount\",\n    \"items.1.name\",\n    \"items.1.quantity\",\n    \"items.1.unit_price\",\n    \"items.1.amount\",\n    \"items.2.name\",\n    \"items.2.quantity\",\n    \"items.2.unit_price\",\n    \"items.2.amount\",\n    \"items.3.name\",\n    \"items.3.quantity\",\n    \"items.3.unit_price\",\n    \"items.3.amount\",\n    \"items.4.name\",\n    \"items.4.quantity\",\n    \"items.4.unit_price\",\n    \"items.4.amount\",\n    \"items.5.name\",\n    \"items.5.quantity\",\n    \"items.5.unit_price\",\n    \"items.5.amount\",\n    \"items.6.name\",\n    \"items.6.quantity\",\n    \"items.6.unit_price\",\n    \"items.6.amount\",\n    \"items.7.name\",\n    \"items.7.quantity\",\n    \"items.7.unit_price\",\n    \"items.7.amount\",\n    \"items.8.name\",\n    \"items.8.quantity\",\n    \"items.8.unit_price\",\n    \"items.8.amount\",\n    \"items.9.name\",\n    \"items.9.quantity\",\n    \"items.9.unit_price\",\n    \"items.9.amount\",\n    \"items.10.name\",\n    \"items.10.quantity\",\n    \"items.10.unit_price\",\n    \"items.10.amount\",\n    \"items.11.name\",\n    \"items.11.quantity\",\n    \"items.11.unit_price\",\n    \"items.11.amount\",\n    \"items.12.name\",\n    \"items.12.quantity\",\n    \"items.12.unit_price\",\n    \"items.12.amount\",\n    \"items.13.name\",\n    \"items.13.quantity\",\n    \"items.13.unit_price\",\n    \"items.13.amount\",\n    \"items.14.name\",\n    \"items.14.quantity\",\n    \"items.14.unit_price\",\n    \"items.14.amount\",\n    \"items.15.name\",\n    \"items.15.quantity\",\n    \"items.15.unit_price\",\n    \"items.15.amount\",\n    \"items.16.name\",\n    \"items.16.quantity\",\n    \"items.16.unit_price\",\n    \"items.16.amount\",\n    \"items.17.name\",\n    \"items.17.quantity\",\n    \"items.17.unit_price\",\n    \"items.17.amount\",\n    \"items.18.name\",\n    \"items.18.quantity\",\n    \"items.18.unit_price\",\n    \"items.18.amount\",\n    \"items.19.name\",\n    \"items.19.quantity\",\n    \"items.19.unit_price\",\n    \"items.19.amount\",\n    \"items.20.name\",\n    \"items.20.quantity\",\n    \"items.20.unit_price\",\n    \"items.20.amount\",\n    \"items.21.name\",\n    \"items.21.quantity\",\n    \"items.21.unit_price\",\n    \"items.21.amount\",\n    \"items.22.name\",\n    \"items.22.quantity\",\n    \"items.22.unit_price\",\n    \"items.22.amount\",\n    \"items.23.name\",\n    \"items.23.quantity\",\n    \"items.23.unit_price\",\n    \"items.23.amount\",\n    \"items.24.name\",\n    \"items.24.quantity\",\n    \"items.24.unit_price\",\n    \"items.24.amount\",\n    \"items.25.name\",\n    \"items.25.quantity\",\n    \"items.25.unit_price\",\n    \"items.25.amount\",\n    \"items.26.name\",\n    \"items.26.quantity\",\n    \"items.26.unit_price\",\n    \"items.26.amount\",\n    \"items.27.name\",\n    \"items.27.quantity\",\n    \"items.27.unit_price\",\n    \"items.27.amount\",\n    \"items.28.name\",\n    \"items.28.quantity\",\n    \"items.28.unit_price\",\n    \"items.28.amount\",\n    \"items.29.name\",\n    \"items.29.quantity\",\n    \"items.29.unit_price\",\n    \"items.29.amount\",\n    \"items.30.name\",\n    \"items.30.quantity\",\n    \"items.30.unit_price\",\n    \"items.30.amount\",\n    \"items.31.name\",\n    \"items.31.quantity\",\n    \"items.31.unit_price\",\n    \"items.31.amount\",\n    \"items.32.name\",\n    \"items.32.quantity\",\n    \"items.32.unit_price\",\n    \"items.32.amount\",\n    \"items.33.name\",\n    \"items.33.quantity\",\n    \"items.33.unit_price\",\n    \"items.33.amount\",\n    \"items.34.name\",\n    \"items.34.quantity\",\n    \"items.34.unit_price\",\n    \"items.34.amount\",\n    \"items.35.name\",\n    \"items.35.quantity\",\n    \"items.35.unit_price\",\n    \"items.35.amount\",\n    \"items.36.name\",\n    \"items.36.quantity\",\n    \"items.36.unit_price\",\n    \"items.36.amount\",\n    \"items.37.name\",\n    \"items.37.quantity\",\n    \"items.37.unit_price\",\n    \"items.37.amount\",\n    \"items.38.name\",\n    \"items.38.quantity\",\n    \"items.38.unit_price\",\n    \"items.38.amount\",\n    \"items.39.name\",\n    \"items.39.quantity\",\n    \"items.39.unit_price\",\n    \"items.39.amount\",\n    \"items.40.name\",\n    \"items.40.quantity\",\n    \"items.40.unit_price\",\n    \"items.40.amount\",\n    \"items.41.name\",\n    \"items.41.quantity\",\n    \"items.41.unit_price\",\n    \"items.41.amount\",\n    \"items.42.name\",\n    \"items.42.quantity\",\n    \"items.42.unit_price\",\n    \"items.42.amount\",\n    \"items.43.name\",\n    \"items.43.quantity\",\n    \"items.43.unit_price\",\n    \"items.43.amount\",\n    \"items.44.name\",\n    \"items.44.quantity\",\n    \"items.44.unit_price\",\n    \"items.44.amount\",\n    \"items.45.name\",\n    \"items.45.quantity\",\n    \"items.45.unit_price\",\n    \"items.45.amount\",\n    \"items.46.name\",\n    \"items.46.quantity\",\n    \"items.46.unit_price\",\n    \"items.46.amount\",\n    \"items.47.name\",\n    \"items.47.quantity\",\n    \"items.47.unit_price\",\n    \"items.47.amount\",\n    \"items.48.name\",\n    \"items.48.quantity\",\n    \"items.48.unit_price\",\n    \"items.48.amount\",\n    \"items.49.name\",\n    \"items.49.quantity\",\n    \"items.49.unit_price\",\n    \"items.49.amount\"\n  ],\n  \"covered_regions\": [\n    \"p1:r1\",\n    \"p1:r2\",\n    \"p1:r3\",\n    \"p1:r4\",\n    \"p1:r5\",\n    \"p2:r1\",\n    \"p3:r1\",\n    \"p4:r1\",\n    \"p5:r1\",\n    \"p6:r1\",\n    \"p7:r1\",\n    \"p8:r1\",\n    \"p9:r1\",\n    \"p10:r1\",\n    \"p11:r1\",\n    \"p12:r1\",\n    \"p13:r1\",\n    \"p14:r1\",\n    \"p15:r1\",\n    \"p16:r1\",\n    \"p17:r1\",\n    \"p18:r1\",\n    \"p19:r1\",\n    \"p20:r1\",\n    \"p21:r1\",\n    \"p22:r1\",\n    \"p23:r1\",\n    \"p24:r1\",\n    \"p25:r1\",\n    \"p26:r1\",\n    \"p27:r1\",\n    \"p28:r1\",\n    \"p29:r1\",\n    \"p30:r1\",\n    \"p31:r1\",\n    \"p32:r1\",\n    \"p33:r1\",\n    \"p34:r1\",\n    \"p35:r1\",\n    \"p36:r1\",\n    \"p37:r1\",\n    \"p38:r1\",\n    \"p39:r1\",\n    \"p40:r1\",\n    \"p41:r1\",\n    \"p42:r1\",\n    \"p43:r1\",\n    \"p44:r1\",\n    \"p45:r1\",\n    \"p46:r1\",\n    \"p47:r1\",\n    \"p48:r1\",\n    \"p49:r1\",\n    \"p50:r1\",\n    \"p50:r2\"\n  ],\n  \"complete\": true\n}",
+            "reasoning_content": "Verifying the extracted invoice data against the source document.\n\nThe source PDF contains 50 pages. Page 1 has the header and one item line. Pages 2 through 49 repeat that same item line. Page 50 adds a total of 100. The draft extracted 50 identical items all named WidgetA with quantity 1, unit price 2, and amount 2.\n\nThe draft total is null, but the source header context shows 100. Citations point to the correct regions. I am now checking every line for omissions and duplicates. The assessment must include a verdict, findings, checked fields, covered regions, and a completeness flag.\n\nThe draft omits the total field and only cites item regions, leaving header fields uncovered. This prevents a verified verdict.\n\nThe item parsing is correct. The fifty identical entries match the source exactly.\n\nThe verdict is incorrect. The draft omits the header fields and total, both of which have schema output fields. The fifty item citations are accurate.\n\nThe checked_fields list must include every non-null invoice field path, such as items.0.name and items.0.quantity. The covered_regions array must also contain every source region inspected, including titles and headings.",
+            "refusal": null
+          }
+        }
+      ],
+      "cost": null,
+      "artifacts": []
+    }
+  },
+  "requests": {
+    "extractor": [
+      {
+        "model": "grok-4.20-0309-non-reasoning",
+        "provider": "https://api.x.ai/v1",
+        "seconds": 52.546683375258,
+        "usage": {
+          "prompt_tokens": 4637,
+          "completion_tokens": 10103,
+          "total_tokens": 14740,
+          "prompt_tokens_details": {
+            "text_tokens": 4637,
+            "audio_tokens": 0,
+            "image_tokens": 0,
+            "cached_tokens": 128
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          },
+          "num_sources_used": 0,
+          "cost_in_usd_ticks": 309193500
+        },
+        "status": "ok",
+        "response_id": "6d9e9df1-7385-9aa0-b6c0-fc62dda67118",
+        "resolved_model": "grok-4.20-0309-non-reasoning",
+        "finish_reason": "stop",
+        "response": {
+          "role": "assistant",
+          "content": "{\n  \"invoice\": {\n    \"number\": \"LONG\",\n    \"vendor\": \"Test Vendor\",\n    \"date\": null,\n    \"due_date\": \"2026-12-01\",\n    \"currency\": \"USD\",\n    \"items\": [\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      },\n      {\n        \"name\": \"WidgetA\",\n        \"quantity\": \"1\",\n        \"unit_price\": \"2\",\n        \"amount\": \"2\",\n        \"discount\": null\n      }\n    ],\n    \"subtotal\": null,\n    \"tax\": null,\n    \"tax_rate\": null,\n    \"discount\": null,\n    \"shipping\": null,\n    \"total\": \"100\"\n  },\n  \"citations\": {\n    \"invoice.number\": {\n      \"region_id\": \"p1:r1\",\n      \"quote\": \"Invoice: LONG\"\n    },\n    \"invoice.vendor\": {\n      \"region_id\": \"p1:r2\",\n      \"quote\": \"Vendor: Test Vendor\"\n    },\n    \"invoice.due_date\": {\n      \"region_id\": \"p1:r3\",\n      \"quote\": \"Due: 2026-12-01\"\n    },\n    \"invoice.currency\": {\n      \"region_id\": \"p1:r4\",\n      \"quote\": \"Currency: USD\"\n    },\n    \"items.0.name\": {\n      \"region_id\": \"p1:r5\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.0.quantity\": {\n      \"region_id\": \"p1:r5\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.0.unit_price\": {\n      \"region_id\": \"p1:r5\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.0.amount\": {\n      \"region_id\": \"p1:r5\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.1.name\": {\n      \"region_id\": \"p2:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.1.quantity\": {\n      \"region_id\": \"p2:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.1.unit_price\": {\n      \"region_id\": \"p2:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.1.amount\": {\n      \"region_id\": \"p2:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.2.name\": {\n      \"region_id\": \"p3:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.2.quantity\": {\n      \"region_id\": \"p3:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.2.unit_price\": {\n      \"region_id\": \"p3:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.2.amount\": {\n      \"region_id\": \"p3:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.3.name\": {\n      \"region_id\": \"p4:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.3.quantity\": {\n      \"region_id\": \"p4:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.3.unit_price\": {\n      \"region_id\": \"p4:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.3.amount\": {\n      \"region_id\": \"p4:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.4.name\": {\n      \"region_id\": \"p5:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.4.quantity\": {\n      \"region_id\": \"p5:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.4.unit_price\": {\n      \"region_id\": \"p5:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.4.amount\": {\n      \"region_id\": \"p5:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.5.name\": {\n      \"region_id\": \"p6:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.5.quantity\": {\n      \"region_id\": \"p6:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.5.unit_price\": {\n      \"region_id\": \"p6:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.5.amount\": {\n      \"region_id\": \"p6:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.6.name\": {\n      \"region_id\": \"p7:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.6.quantity\": {\n      \"region_id\": \"p7:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.6.unit_price\": {\n      \"region_id\": \"p7:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.6.amount\": {\n      \"region_id\": \"p7:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.7.name\": {\n      \"region_id\": \"p8:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.7.quantity\": {\n      \"region_id\": \"p8:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.7.unit_price\": {\n      \"region_id\": \"p8:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.7.amount\": {\n      \"region_id\": \"p8:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.8.name\": {\n      \"region_id\": \"p9:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.8.quantity\": {\n      \"region_id\": \"p9:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.8.unit_price\": {\n      \"region_id\": \"p9:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.8.amount\": {\n      \"region_id\": \"p9:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.9.name\": {\n      \"region_id\": \"p10:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.9.quantity\": {\n      \"region_id\": \"p10:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.9.unit_price\": {\n      \"region_id\": \"p10:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.9.amount\": {\n      \"region_id\": \"p10:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.10.name\": {\n      \"region_id\": \"p11:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.10.quantity\": {\n      \"region_id\": \"p11:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.10.unit_price\": {\n      \"region_id\": \"p11:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.10.amount\": {\n      \"region_id\": \"p11:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.11.name\": {\n      \"region_id\": \"p12:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.11.quantity\": {\n      \"region_id\": \"p12:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.11.unit_price\": {\n      \"region_id\": \"p12:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.11.amount\": {\n      \"region_id\": \"p12:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.12.name\": {\n      \"region_id\": \"p13:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.12.quantity\": {\n      \"region_id\": \"p13:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.12.unit_price\": {\n      \"region_id\": \"p13:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.12.amount\": {\n      \"region_id\": \"p13:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.13.name\": {\n      \"region_id\": \"p14:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.13.quantity\": {\n      \"region_id\": \"p14:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.13.unit_price\": {\n      \"region_id\": \"p14:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.13.amount\": {\n      \"region_id\": \"p14:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.14.name\": {\n      \"region_id\": \"p15:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.14.quantity\": {\n      \"region_id\": \"p15:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.14.unit_price\": {\n      \"region_id\": \"p15:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.14.amount\": {\n      \"region_id\": \"p15:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.15.name\": {\n      \"region_id\": \"p16:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.15.quantity\": {\n      \"region_id\": \"p16:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.15.unit_price\": {\n      \"region_id\": \"p16:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.15.amount\": {\n      \"region_id\": \"p16:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.16.name\": {\n      \"region_id\": \"p17:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.16.quantity\": {\n      \"region_id\": \"p17:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.16.unit_price\": {\n      \"region_id\": \"p17:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.16.amount\": {\n      \"region_id\": \"p17:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.17.name\": {\n      \"region_id\": \"p18:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.17.quantity\": {\n      \"region_id\": \"p18:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.17.unit_price\": {\n      \"region_id\": \"p18:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.17.amount\": {\n      \"region_id\": \"p18:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.18.name\": {\n      \"region_id\": \"p19:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.18.quantity\": {\n      \"region_id\": \"p19:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.18.unit_price\": {\n      \"region_id\": \"p19:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.18.amount\": {\n      \"region_id\": \"p19:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.19.name\": {\n      \"region_id\": \"p20:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.19.quantity\": {\n      \"region_id\": \"p20:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.19.unit_price\": {\n      \"region_id\": \"p20:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.19.amount\": {\n      \"region_id\": \"p20:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.20.name\": {\n      \"region_id\": \"p21:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.20.quantity\": {\n      \"region_id\": \"p21:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.20.unit_price\": {\n      \"region_id\": \"p21:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.20.amount\": {\n      \"region_id\": \"p21:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.21.name\": {\n      \"region_id\": \"p22:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.21.quantity\": {\n      \"region_id\": \"p22:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.21.unit_price\": {\n      \"region_id\": \"p22:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.21.amount\": {\n      \"region_id\": \"p22:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.22.name\": {\n      \"region_id\": \"p23:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.22.quantity\": {\n      \"region_id\": \"p23:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.22.unit_price\": {\n      \"region_id\": \"p23:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.22.amount\": {\n      \"region_id\": \"p23:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.23.name\": {\n      \"region_id\": \"p24:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.23.quantity\": {\n      \"region_id\": \"p24:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.23.unit_price\": {\n      \"region_id\": \"p24:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.23.amount\": {\n      \"region_id\": \"p24:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.24.name\": {\n      \"region_id\": \"p25:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.24.quantity\": {\n      \"region_id\": \"p25:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.24.unit_price\": {\n      \"region_id\": \"p25:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.24.amount\": {\n      \"region_id\": \"p25:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.25.name\": {\n      \"region_id\": \"p26:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.25.quantity\": {\n      \"region_id\": \"p26:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.25.unit_price\": {\n      \"region_id\": \"p26:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.25.amount\": {\n      \"region_id\": \"p26:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.26.name\": {\n      \"region_id\": \"p27:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.26.quantity\": {\n      \"region_id\": \"p27:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.26.unit_price\": {\n      \"region_id\": \"p27:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.26.amount\": {\n      \"region_id\": \"p27:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.27.name\": {\n      \"region_id\": \"p28:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.27.quantity\": {\n      \"region_id\": \"p28:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.27.unit_price\": {\n      \"region_id\": \"p28:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.27.amount\": {\n      \"region_id\": \"p28:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.28.name\": {\n      \"region_id\": \"p29:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.28.quantity\": {\n      \"region_id\": \"p29:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.28.unit_price\": {\n      \"region_id\": \"p29:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.28.amount\": {\n      \"region_id\": \"p29:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.29.name\": {\n      \"region_id\": \"p30:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.29.quantity\": {\n      \"region_id\": \"p30:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.29.unit_price\": {\n      \"region_id\": \"p30:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.29.amount\": {\n      \"region_id\": \"p30:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.30.name\": {\n      \"region_id\": \"p31:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.30.quantity\": {\n      \"region_id\": \"p31:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.30.unit_price\": {\n      \"region_id\": \"p31:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.30.amount\": {\n      \"region_id\": \"p31:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.31.name\": {\n      \"region_id\": \"p32:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.31.quantity\": {\n      \"region_id\": \"p32:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.31.unit_price\": {\n      \"region_id\": \"p32:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.31.amount\": {\n      \"region_id\": \"p32:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.32.name\": {\n      \"region_id\": \"p33:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.32.quantity\": {\n      \"region_id\": \"p33:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.32.unit_price\": {\n      \"region_id\": \"p33:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.32.amount\": {\n      \"region_id\": \"p33:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.33.name\": {\n      \"region_id\": \"p34:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.33.quantity\": {\n      \"region_id\": \"p34:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.33.unit_price\": {\n      \"region_id\": \"p34:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.33.amount\": {\n      \"region_id\": \"p34:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.34.name\": {\n      \"region_id\": \"p35:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.34.quantity\": {\n      \"region_id\": \"p35:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.34.unit_price\": {\n      \"region_id\": \"p35:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.34.amount\": {\n      \"region_id\": \"p35:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.35.name\": {\n      \"region_id\": \"p36:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.35.quantity\": {\n      \"region_id\": \"p36:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.35.unit_price\": {\n      \"region_id\": \"p36:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.35.amount\": {\n      \"region_id\": \"p36:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.36.name\": {\n      \"region_id\": \"p37:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.36.quantity\": {\n      \"region_id\": \"p37:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.36.unit_price\": {\n      \"region_id\": \"p37:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.36.amount\": {\n      \"region_id\": \"p37:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.37.name\": {\n      \"region_id\": \"p38:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.37.quantity\": {\n      \"region_id\": \"p38:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.37.unit_price\": {\n      \"region_id\": \"p38:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.37.amount\": {\n      \"region_id\": \"p38:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.38.name\": {\n      \"region_id\": \"p39:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.38.quantity\": {\n      \"region_id\": \"p39:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.38.unit_price\": {\n      \"region_id\": \"p39:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.38.amount\": {\n      \"region_id\": \"p39:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.39.name\": {\n      \"region_id\": \"p40:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.39.quantity\": {\n      \"region_id\": \"p40:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.39.unit_price\": {\n      \"region_id\": \"p40:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.39.amount\": {\n      \"region_id\": \"p40:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.40.name\": {\n      \"region_id\": \"p41:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.40.quantity\": {\n      \"region_id\": \"p41:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.40.unit_price\": {\n      \"region_id\": \"p41:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.40.amount\": {\n      \"region_id\": \"p41:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.41.name\": {\n      \"region_id\": \"p42:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.41.quantity\": {\n      \"region_id\": \"p42:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.41.unit_price\": {\n      \"region_id\": \"p42:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.41.amount\": {\n      \"region_id\": \"p42:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.42.name\": {\n      \"region_id\": \"p43:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.42.quantity\": {\n      \"region_id\": \"p43:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.42.unit_price\": {\n      \"region_id\": \"p43:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.42.amount\": {\n      \"region_id\": \"p43:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.43.name\": {\n      \"region_id\": \"p44:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.43.quantity\": {\n      \"region_id\": \"p44:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.43.unit_price\": {\n      \"region_id\": \"p44:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.43.amount\": {\n      \"region_id\": \"p44:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.44.name\": {\n      \"region_id\": \"p45:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.44.quantity\": {\n      \"region_id\": \"p45:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.44.unit_price\": {\n      \"region_id\": \"p45:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.44.amount\": {\n      \"region_id\": \"p45:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.45.name\": {\n      \"region_id\": \"p46:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.45.quantity\": {\n      \"region_id\": \"p46:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.45.unit_price\": {\n      \"region_id\": \"p46:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.45.amount\": {\n      \"region_id\": \"p46:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.46.name\": {\n      \"region_id\": \"p47:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.46.quantity\": {\n      \"region_id\": \"p47:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.46.unit_price\": {\n      \"region_id\": \"p47:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.46.amount\": {\n      \"region_id\": \"p47:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.47.name\": {\n      \"region_id\": \"p48:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.47.quantity\": {\n      \"region_id\": \"p48:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.47.unit_price\": {\n      \"region_id\": \"p48:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.47.amount\": {\n      \"region_id\": \"p48:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.48.name\": {\n      \"region_id\": \"p49:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.48.quantity\": {\n      \"region_id\": \"p49:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.48.unit_price\": {\n      \"region_id\": \"p49:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.48.amount\": {\n      \"region_id\": \"p49:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.49.name\": {\n      \"region_id\": \"p50:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.49.quantity\": {\n      \"region_id\": \"p50:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.49.unit_price\": {\n      \"region_id\": \"p50:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"items.49.amount\": {\n      \"region_id\": \"p50:r1\",\n      \"quote\": \"Item WidgetA quantity 1 unit 2 amount 2\"\n    },\n    \"invoice.total\": {\n      \"region_id\": \"p50:r2\",\n      \"quote\": \"Total: 100\"\n    }\n  }\n}",
+          "refusal": null
+        }
+      }
+    ],
+    "verifier": [
+      {
+        "model": "grok-4.3",
+        "provider": "https://api.x.ai/v1",
+        "seconds": 36.061904667411,
+        "usage": {
+          "prompt_tokens": 53523,
+          "completion_tokens": 2212,
+          "total_tokens": 56756,
+          "prompt_tokens_details": {
+            "text_tokens": 15473,
+            "audio_tokens": 0,
+            "image_tokens": 38050,
+            "cached_tokens": 128
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 1021,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          },
+          "num_sources_used": 0,
+          "cost_in_usd_ticks": 748518500
+        },
+        "status": "ok",
+        "response_id": "2a89963f-e80d-9685-9e5f-ed81a724fde9",
+        "resolved_model": "grok-4.3",
+        "finish_reason": "stop",
+        "response": {
+          "role": "assistant",
+          "content": "{\n  \"verdict\": \"incorrect\",\n  \"findings\": [\n    {\n      \"field\": \"number\",\n      \"reason\": \"Omitted extraction; source contains 'Invoice: LONG' at p1:r1\",\n      \"evidence\": [\n        {\n          \"region_id\": \"p1:r1\",\n          \"quote\": \"Invoice: LONG\"\n        }\n      ]\n    },\n    {\n      \"field\": \"vendor\",\n      \"reason\": \"Omitted extraction; source contains 'Vendor: Test Vendor' at p1:r2\",\n      \"evidence\": [\n        {\n          \"region_id\": \"p1:r2\",\n          \"quote\": \"Vendor: Test Vendor\"\n        }\n      ]\n    },\n    {\n      \"field\": \"due_date\",\n      \"reason\": \"Omitted extraction; source contains 'Due: 2026-12-01' at p1:r3\",\n      \"evidence\": [\n        {\n          \"region_id\": \"p1:r3\",\n          \"quote\": \"Due: 2026-12-01\"\n        }\n      ]\n    },\n    {\n      \"field\": \"currency\",\n      \"reason\": \"Omitted extraction; source contains 'Currency: USD' at p1:r4\",\n      \"evidence\": [\n        {\n          \"region_id\": \"p1:r4\",\n          \"quote\": \"Currency: USD\"\n        }\n      ]\n    },\n    {\n      \"field\": \"total\",\n      \"reason\": \"Omitted extraction; source contains 'Total: 100' at p50:r2\",\n      \"evidence\": [\n        {\n          \"region_id\": \"p50:r2\",\n          \"quote\": \"Total: 100\"\n        }\n      ]\n    }\n  ],\n  \"checked_fields\": [\n    \"items.0.name\",\n    \"items.0.quantity\",\n    \"items.0.unit_price\",\n    \"items.0.amount\",\n    \"items.1.name\",\n    \"items.1.quantity\",\n    \"items.1.unit_price\",\n    \"items.1.amount\",\n    \"items.2.name\",\n    \"items.2.quantity\",\n    \"items.2.unit_price\",\n    \"items.2.amount\",\n    \"items.3.name\",\n    \"items.3.quantity\",\n    \"items.3.unit_price\",\n    \"items.3.amount\",\n    \"items.4.name\",\n    \"items.4.quantity\",\n    \"items.4.unit_price\",\n    \"items.4.amount\",\n    \"items.5.name\",\n    \"items.5.quantity\",\n    \"items.5.unit_price\",\n    \"items.5.amount\",\n    \"items.6.name\",\n    \"items.6.quantity\",\n    \"items.6.unit_price\",\n    \"items.6.amount\",\n    \"items.7.name\",\n    \"items.7.quantity\",\n    \"items.7.unit_price\",\n    \"items.7.amount\",\n    \"items.8.name\",\n    \"items.8.quantity\",\n    \"items.8.unit_price\",\n    \"items.8.amount\",\n    \"items.9.name\",\n    \"items.9.quantity\",\n    \"items.9.unit_price\",\n    \"items.9.amount\",\n    \"items.10.name\",\n    \"items.10.quantity\",\n    \"items.10.unit_price\",\n    \"items.10.amount\",\n    \"items.11.name\",\n    \"items.11.quantity\",\n    \"items.11.unit_price\",\n    \"items.11.amount\",\n    \"items.12.name\",\n    \"items.12.quantity\",\n    \"items.12.unit_price\",\n    \"items.12.amount\",\n    \"items.13.name\",\n    \"items.13.quantity\",\n    \"items.13.unit_price\",\n    \"items.13.amount\",\n    \"items.14.name\",\n    \"items.14.quantity\",\n    \"items.14.unit_price\",\n    \"items.14.amount\",\n    \"items.15.name\",\n    \"items.15.quantity\",\n    \"items.15.unit_price\",\n    \"items.15.amount\",\n    \"items.16.name\",\n    \"items.16.quantity\",\n    \"items.16.unit_price\",\n    \"items.16.amount\",\n    \"items.17.name\",\n    \"items.17.quantity\",\n    \"items.17.unit_price\",\n    \"items.17.amount\",\n    \"items.18.name\",\n    \"items.18.quantity\",\n    \"items.18.unit_price\",\n    \"items.18.amount\",\n    \"items.19.name\",\n    \"items.19.quantity\",\n    \"items.19.unit_price\",\n    \"items.19.amount\",\n    \"items.20.name\",\n    \"items.20.quantity\",\n    \"items.20.unit_price\",\n    \"items.20.amount\",\n    \"items.21.name\",\n    \"items.21.quantity\",\n    \"items.21.unit_price\",\n    \"items.21.amount\",\n    \"items.22.name\",\n    \"items.22.quantity\",\n    \"items.22.unit_price\",\n    \"items.22.amount\",\n    \"items.23.name\",\n    \"items.23.quantity\",\n    \"items.23.unit_price\",\n    \"items.23.amount\",\n    \"items.24.name\",\n    \"items.24.quantity\",\n    \"items.24.unit_price\",\n    \"items.24.amount\",\n    \"items.25.name\",\n    \"items.25.quantity\",\n    \"items.25.unit_price\",\n    \"items.25.amount\",\n    \"items.26.name\",\n    \"items.26.quantity\",\n    \"items.26.unit_price\",\n    \"items.26.amount\",\n    \"items.27.name\",\n    \"items.27.quantity\",\n    \"items.27.unit_price\",\n    \"items.27.amount\",\n    \"items.28.name\",\n    \"items.28.quantity\",\n    \"items.28.unit_price\",\n    \"items.28.amount\",\n    \"items.29.name\",\n    \"items.29.quantity\",\n    \"items.29.unit_price\",\n    \"items.29.amount\",\n    \"items.30.name\",\n    \"items.30.quantity\",\n    \"items.30.unit_price\",\n    \"items.30.amount\",\n    \"items.31.name\",\n    \"items.31.quantity\",\n    \"items.31.unit_price\",\n    \"items.31.amount\",\n    \"items.32.name\",\n    \"items.32.quantity\",\n    \"items.32.unit_price\",\n    \"items.32.amount\",\n    \"items.33.name\",\n    \"items.33.quantity\",\n    \"items.33.unit_price\",\n    \"items.33.amount\",\n    \"items.34.name\",\n    \"items.34.quantity\",\n    \"items.34.unit_price\",\n    \"items.34.amount\",\n    \"items.35.name\",\n    \"items.35.quantity\",\n    \"items.35.unit_price\",\n    \"items.35.amount\",\n    \"items.36.name\",\n    \"items.36.quantity\",\n    \"items.36.unit_price\",\n    \"items.36.amount\",\n    \"items.37.name\",\n    \"items.37.quantity\",\n    \"items.37.unit_price\",\n    \"items.37.amount\",\n    \"items.38.name\",\n    \"items.38.quantity\",\n    \"items.38.unit_price\",\n    \"items.38.amount\",\n    \"items.39.name\",\n    \"items.39.quantity\",\n    \"items.39.unit_price\",\n    \"items.39.amount\",\n    \"items.40.name\",\n    \"items.40.quantity\",\n    \"items.40.unit_price\",\n    \"items.40.amount\",\n    \"items.41.name\",\n    \"items.41.quantity\",\n    \"items.41.unit_price\",\n    \"items.41.amount\",\n    \"items.42.name\",\n    \"items.42.quantity\",\n    \"items.42.unit_price\",\n    \"items.42.amount\",\n    \"items.43.name\",\n    \"items.43.quantity\",\n    \"items.43.unit_price\",\n    \"items.43.amount\",\n    \"items.44.name\",\n    \"items.44.quantity\",\n    \"items.44.unit_price\",\n    \"items.44.amount\",\n    \"items.45.name\",\n    \"items.45.quantity\",\n    \"items.45.unit_price\",\n    \"items.45.amount\",\n    \"items.46.name\",\n    \"items.46.quantity\",\n    \"items.46.unit_price\",\n    \"items.46.amount\",\n    \"items.47.name\",\n    \"items.47.quantity\",\n    \"items.47.unit_price\",\n    \"items.47.amount\",\n    \"items.48.name\",\n    \"items.48.quantity\",\n    \"items.48.unit_price\",\n    \"items.48.amount\",\n    \"items.49.name\",\n    \"items.49.quantity\",\n    \"items.49.unit_price\",\n    \"items.49.amount\"\n  ],\n  \"covered_regions\": [\n    \"p1:r1\",\n    \"p1:r2\",\n    \"p1:r3\",\n    \"p1:r4\",\n    \"p1:r5\",\n    \"p2:r1\",\n    \"p3:r1\",\n    \"p4:r1\",\n    \"p5:r1\",\n    \"p6:r1\",\n    \"p7:r1\",\n    \"p8:r1\",\n    \"p9:r1\",\n    \"p10:r1\",\n    \"p11:r1\",\n    \"p12:r1\",\n    \"p13:r1\",\n    \"p14:r1\",\n    \"p15:r1\",\n    \"p16:r1\",\n    \"p17:r1\",\n    \"p18:r1\",\n    \"p19:r1\",\n    \"p20:r1\",\n    \"p21:r1\",\n    \"p22:r1\",\n    \"p23:r1\",\n    \"p24:r1\",\n    \"p25:r1\",\n    \"p26:r1\",\n    \"p27:r1\",\n    \"p28:r1\",\n    \"p29:r1\",\n    \"p30:r1\",\n    \"p31:r1\",\n    \"p32:r1\",\n    \"p33:r1\",\n    \"p34:r1\",\n    \"p35:r1\",\n    \"p36:r1\",\n    \"p37:r1\",\n    \"p38:r1\",\n    \"p39:r1\",\n    \"p40:r1\",\n    \"p41:r1\",\n    \"p42:r1\",\n    \"p43:r1\",\n    \"p44:r1\",\n    \"p45:r1\",\n    \"p46:r1\",\n    \"p47:r1\",\n    \"p48:r1\",\n    \"p49:r1\",\n    \"p50:r1\",\n    \"p50:r2\"\n  ],\n  \"complete\": true\n}",
+          "reasoning_content": "Verifying the extracted invoice data against the source document.\n\nThe source PDF contains 50 pages. Page 1 has the header and one item line. Pages 2 through 49 repeat that same item line. Page 50 adds a total of 100. The draft extracted 50 identical items all named WidgetA with quantity 1, unit price 2, and amount 2.\n\nThe draft total is null, but the source header context shows 100. Citations point to the correct regions. I am now checking every line for omissions and duplicates. The assessment must include a verdict, findings, checked fields, covered regions, and a completeness flag.\n\nThe draft omits the total field and only cites item regions, leaving header fields uncovered. This prevents a verified verdict.\n\nThe item parsing is correct. The fifty identical entries match the source exactly.\n\nThe verdict is incorrect. The draft omits the header fields and total, both of which have schema output fields. The fifty item citations are accurate.\n\nThe checked_fields list must include every non-null invoice field path, such as items.0.name and items.0.quantity. The covered_regions array must also contain every source region inspected, including titles and headings.",
+          "refusal": null
+        }
+      }
+    ]
+  }
+}
